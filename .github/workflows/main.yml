@@ -3,7 +3,7 @@ name: Monitor Arabic Parfums
 on:
   workflow_dispatch: # Permite ejecutarlo a mano con un botón
 
-# 👇 Seguro para que no se pisen dos ejecuciones a la vez
+# Seguro para que no se pisen dos ejecuciones a la vez
 concurrency:
   group: monitor-arabic
   cancel-in-progress: false
@@ -11,7 +11,10 @@ concurrency:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 15 # Seguro de vida para tus minutos gratuitos
+    
+    # Permisos necesarios para que el bot pueda guardar el JSON en tu repositorio
+    permissions:
+      contents: write
     
     steps:
       - name: Descargar código del repositorio
@@ -33,7 +36,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_THREAD_ID: ${{ secrets.TELEGRAM_THREAD_ID }}
-        run: python monitor_arabic.py # Asegúrate de que tu archivo de Python se llama así
+        run: python monitor_arabic.py
 
       - name: Guardar la nueva memoria (JSON) en GitHub
         run: |
