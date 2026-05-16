@@ -1,0 +1,44 @@
+name: Monitor Arabic Parfums
+
+on:
+  workflow_dispatch: # Permite ejecutarlo a mano con un botón
+
+# 👇 Seguro para que no se pisen dos ejecuciones a la vez
+concurrency:
+  group: monitor-arabic
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15 # Seguro de vida para tus minutos gratuitos
+    
+    steps:
+      - name: Descargar código del repositorio
+        uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Ejecutar el monitor de Arabic Parfums
+        env:
+          # Carga los secretos que configuraste en GitHub
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_THREAD_ID: ${{ secrets.TELEGRAM_THREAD_ID }}
+        run: python monitor_arabic.py # Asegúrate de que tu archivo de Python se llama así
+
+      - name: Guardar la nueva memoria (JSON) en GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add estado_productos_arabic.json
+          git commit -m "💾 Actualizar estado de Arabic Parfums" || echo "✅ No hay cambios en el archivo para guardar"
+          git push
