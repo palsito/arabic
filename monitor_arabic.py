@@ -206,12 +206,19 @@ def enviar_telegram(mensaje):
         time.sleep(3.5)
 
 
-def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
+def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores, ya_notificados=None):
     mensajes = []
+    if ya_notificados is None:
+        ya_notificados = set()
 
-    # 1. Productos NUEVOS
-    nuevos = {k: v for k, v in productos_nuevos.items() if k not in productos_anteriores}
+    # 1. Productos NUEVOS (filtrando los que ya se notificaron en otra categoría)
+    nuevos = {k: v for k, v in productos_nuevos.items()
+              if k not in productos_anteriores and v['nombre'] not in ya_notificados}
     if nuevos:
+        # Registrar como ya notificados para las siguientes categorías
+        for p in nuevos.values():
+            ya_notificados.add(p['nombre'])
+
         lista = "\n".join(
             f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
             for p in nuevos.values()
@@ -251,6 +258,7 @@ def main():
     estado_anterior = cargar_estado()
     estado_nuevo    = {}
     todos_mensajes  = []
+    ya_notificados  = set()  # Evita notificar el mismo producto en varias categorías
 
     for cat in CATEGORIAS:
         nombre = cat["nombre"]
@@ -264,7 +272,7 @@ def main():
         estado_nuevo[url] = productos
 
         if anteriores:
-            msgs = comparar_y_notificar(nombre, productos, anteriores)
+            msgs = comparar_y_notificar(nombre, productos, anteriores, ya_notificados)
             todos_mensajes.extend(msgs)
         else:
             print("  ℹ️  Primera ejecución, guardando estado inicial")
