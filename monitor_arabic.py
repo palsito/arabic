@@ -211,6 +211,9 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores, ya_
     if ya_notificados is None:
         ya_notificados = set()
 
+    # Límite para agrupar notificaciones (evita spam masivo en Telegram)
+    LIMITE_DETALLE = 20
+
     # 1. Productos NUEVOS (filtrando los que ya se notificaron en otra categoría)
     nuevos = {k: v for k, v in productos_nuevos.items()
               if k not in productos_anteriores and v['nombre'] not in ya_notificados}
@@ -219,11 +222,24 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores, ya_
         for p in nuevos.values():
             ya_notificados.add(p['nombre'])
 
-        lista = "\n".join(
-            f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
-            for p in nuevos.values()
-        )
-        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}")
+        if len(nuevos) <= LIMITE_DETALLE:
+            lista = "\n".join(
+                f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
+                for p in nuevos.values()
+            )
+            mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}")
+        else:
+            # Demasiados → resumen compacto (probablemente la web se recuperó de un fallo)
+            muestra = list(nuevos.values())[:5]
+            lista_muestra = "\n".join(
+                f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
+                for p in muestra
+            )
+            mensajes.append(
+                f"🆕 <b>{len(nuevos)} nuevos productos en {nombre_cat}</b>\n"
+                f"(Mostrando 5 de {len(nuevos)}):\n{lista_muestra}\n"
+                f"  ...y {len(nuevos) - 5} más"
+            )
 
 
 
@@ -268,6 +284,17 @@ def main():
         productos  = scrape_categoria(url)
         anteriores = estado_anterior.get(url, {})
         print(f"  → {len(productos)} productos encontrados")
+
+        # ── PROTECCIÓN ANTI-SCRAPING-FALLIDO ──────────────────────
+        # Si la categoría antes tenía productos y ahora devuelve muy pocos
+        # (menos del 50%), probablemente la web falló o nos bloqueó.
+        # En ese caso, MANTENEMOS el estado anterior para no generar
+        # falsas notificaciones de "nuevos" en la siguiente ejecución.
+        if anteriores and len(productos) < len(anteriores) * 0.5:
+            print(f"  ⚠️  PROTECCIÓN: Se esperaban ~{len(anteriores)} productos pero solo se obtuvieron {len(productos)}.")
+            print(f"  ⚠️  Esto indica un fallo de la web, NO un cambio real. Se mantiene el estado anterior.")
+            estado_nuevo[url] = anteriores  # Mantener estado anterior
+            continue
 
         estado_nuevo[url] = productos
 
