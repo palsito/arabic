@@ -243,16 +243,21 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores, ya_
 
 
 
-    # 3. Cambios de PRECIO y STOCK
+    # 3. Cambios de PRECIO y STOCK (filtrando ya notificados en otra categoría)
     cambios = []
     for k, prod_nuevo in productos_nuevos.items():
         if k in productos_anteriores:
+            # Si ya se notificó este producto en otra categoría, saltar
+            if prod_nuevo['nombre'] in ya_notificados:
+                continue
+
             prod_ant = productos_anteriores[k]
+            producto_tiene_cambio = False
 
             # Stock
             if not prod_ant.get("en_stock", True) and prod_nuevo["en_stock"]:
                 cambios.append(f"  🟢 <b>¡VUELVE A HABER STOCK!</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>")
-
+                producto_tiene_cambio = True
 
             # Precio
             p_ant = prod_ant.get("precio", "")
@@ -261,6 +266,11 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores, ya_
                 cambios.append(
                     f"  💸 <b>CAMBIO PRECIO:</b>\n  <a href='{prod_nuevo['url']}'>{prod_nuevo['nombre']}</a>\n  {p_ant} → <b>{p_nue}</b>"
                 )
+                producto_tiene_cambio = True
+
+            # Marcar como notificado para que no se repita en otra categoría
+            if producto_tiene_cambio:
+                ya_notificados.add(prod_nuevo['nombre'])
                 
     if cambios:
         lista = "\n\n".join(cambios)
