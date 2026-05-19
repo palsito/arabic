@@ -286,15 +286,28 @@ def main():
         print(f"  → {len(productos)} productos encontrados")
 
         # ── PROTECCIÓN ANTI-SCRAPING-FALLIDO ──────────────────────
-        # Si la categoría antes tenía productos y ahora devuelve muy pocos
-        # (menos del 50%), probablemente la web falló o nos bloqueó.
+        # Si la categoría antes tenía productos y ahora devuelve muchos menos
+        # (menos del 80%), probablemente la web falló o nos bloqueó.
         # En ese caso, MANTENEMOS el estado anterior para no generar
         # falsas notificaciones de "nuevos" en la siguiente ejecución.
-        if anteriores and len(productos) < len(anteriores) * 0.5:
+        if anteriores and len(productos) < len(anteriores) * 0.8:
             print(f"  ⚠️  PROTECCIÓN: Se esperaban ~{len(anteriores)} productos pero solo se obtuvieron {len(productos)}.")
             print(f"  ⚠️  Esto indica un fallo de la web, NO un cambio real. Se mantiene el estado anterior.")
             estado_nuevo[url] = anteriores  # Mantener estado anterior
             continue
+
+        # ── PROTECCIÓN ANTI-RECUPERACIÓN ──────────────────────────
+        # Si de repente aparecen muchos productos "nuevos" (más de 30),
+        # es probable que el scrape ANTERIOR fue parcial y ahora se
+        # recuperó. En ese caso, actualizamos el estado SIN notificar
+        # para evitar spam de falsos positivos.
+        if anteriores:
+            nuevos_detectados = set(productos.keys()) - set(anteriores.keys())
+            if len(nuevos_detectados) > 30:
+                print(f"  ⚠️  PROTECCIÓN ANTI-RECUPERACIÓN: Se detectaron {len(nuevos_detectados)} productos 'nuevos'.")
+                print(f"  ⚠️  Probablemente el scrape anterior fue parcial. Se actualiza estado SIN notificar.")
+                estado_nuevo[url] = productos  # Actualizar estado sin notificar
+                continue
 
         estado_nuevo[url] = productos
 
