@@ -1,5 +1,11 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "putain-des-palaces-etat-libre-dorange": {
+      "nombre": "Putain des Palaces ETAT LIBRE D'ORANGE 100ml TESTER",
+      "precio": "64,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/putain-des-palaces-etat-libre-dorange",
+      "en_stock": true
+    },
     "ambre-sultan-serge-lutens-t": {
       "nombre": "Ambre Sultan SERGE LUTENS 50ml TESTER",
       "precio": "59,99 €",
@@ -282,12 +288,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/oud-acqua-di-parma-tester-180ml",
       "en_stock": true
     },
-    "intense-red-tobacco-extrait-de-parfum-mancera-120ml-tester": {
-      "nombre": "Intense Red Tobacco Extrait de Parfum  MANCERA 120ml TESTER",
-      "precio": "112,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/intense-red-tobacco-extrait-de-parfum-mancera-120ml-tester",
-      "en_stock": false
-    },
     "aoud-leather-montale-tester-100ml": {
       "nombre": "Aoud Leather MONTALE 100ml TESTER",
       "precio": "85,99 €",
@@ -568,12 +568,6 @@
       "nombre": "Oyuny AL HARAMAIN 100ml TESTER",
       "precio": "17,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/oyuny-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "noora-al-haramain-12ml-tester": {
-      "nombre": "Noora Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/noora-al-haramain-12ml-tester",
       "en_stock": false
     },
     "destino-french-collection-al-haramain-100ml-tester": {
@@ -1146,12 +1140,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/patchouli-mania-essential-parfums-100ml-tester",
       "en_stock": false
     },
-    "fig-infusion-essential-parfums-100ml-tester": {
-      "nombre": "Fig Infusion ESSENTIAL PARFUMS Tester",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/fig-infusion-essential-parfums-100ml-tester",
-      "en_stock": false
-    },
     "aoud-lime-montale-100ml-tester": {
       "nombre": "Aoud Lime MONTALE 100ml TESTER",
       "precio": "74,99 €",
@@ -1432,12 +1420,6 @@
       "nombre": "Colonia Intensa ACQUA DI PARMA TESTER",
       "precio": "63,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/colonia-intensa-acqua-di-parma-100ml",
-      "en_stock": true
-    },
-    "eros-parfum-versace-100ml-copia": {
-      "nombre": "Eros Parfum VERSACE 100ml TESTER",
-      "precio": "64,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/eros-parfum-versace-100ml-copia",
       "en_stock": true
     },
     "eros-versace-eau-de-parfum-100ml-tester-1": {
