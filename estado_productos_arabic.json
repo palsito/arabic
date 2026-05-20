@@ -1320,12 +1320,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/chocolate-greedy-montale-100ml-copia",
       "en_stock": false
     },
-    "mukhallat-montale-100ml-copia": {
-      "nombre": "Mukhallat MONTALE 100ml TESTER",
-      "precio": "81,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mukhallat-montale-100ml-copia",
-      "en_stock": false
-    },
     "instant-crush-mancera-120-ml-tester": {
       "nombre": "Instant Crush MANCERA 120 ml TESTER",
       "precio": "89,99 €",
@@ -1438,6 +1432,12 @@
       "nombre": "Colonia Intensa ACQUA DI PARMA TESTER",
       "precio": "63,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/colonia-intensa-acqua-di-parma-100ml",
+      "en_stock": true
+    },
+    "eros-parfum-versace-100ml-copia": {
+      "nombre": "Eros Parfum VERSACE 100ml TESTER",
+      "precio": "64,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-parfum-versace-100ml-copia",
       "en_stock": true
     },
     "eros-versace-eau-de-parfum-100ml-tester-1": {
