@@ -19,7 +19,7 @@
       "en_stock": true
     },
     "noir-extreme-tom-ford": {
-      "nombre": "Noir Extreme TOM FORD - TESTER",
+      "nombre": "Noir Extreme Parfum TOM FORD - TESTER",
       "precio": "129,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/noir-extreme-tom-ford",
       "en_stock": false
@@ -454,6 +454,12 @@
       "nombre": "Fan Your Flames Extrait de Parfum NISHANE 100ml TESTER",
       "precio": "189,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/fan-your-flames-extrait-de-parfum-nishane-100ml",
+      "en_stock": true
+    },
+    "le-gemme-orom-bvlgari-30-ml": {
+      "nombre": "Le Gemme Orom BVLGARI 30ml TESTER",
+      "precio": "89,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/le-gemme-orom-bvlgari-30-ml",
       "en_stock": true
     },
     "holy-neroli-montale-100ml-tester": {
