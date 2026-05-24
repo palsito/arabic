@@ -252,12 +252,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
       "en_stock": true
     },
-    "velvet-vanilla-mancera-tester-120ml": {
-      "nombre": "Velvet Vanilla MANCERA 120ml TESTER",
-      "precio": "79,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/velvet-vanilla-mancera-tester-120ml",
-      "en_stock": false
-    },
     "groove-xcape-xerjoff-tester-50ml": {
       "nombre": "Groove Xcape XERJOFF TESTER 50ml",
       "precio": "169,99 €",
@@ -287,12 +281,6 @@
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/oud-acqua-di-parma-tester-180ml",
       "en_stock": true
-    },
-    "intense-red-tobacco-extrait-de-parfum-mancera-120ml-tester": {
-      "nombre": "Intense Red Tobacco Extrait de Parfum  MANCERA 120ml TESTER",
-      "precio": "112,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/intense-red-tobacco-extrait-de-parfum-mancera-120ml-tester",
-      "en_stock": false
     },
     "aoud-leather-montale-tester-100ml": {
       "nombre": "Aoud Leather MONTALE 100ml TESTER",
@@ -1326,18 +1314,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/chocolate-greedy-montale-100ml-copia",
       "en_stock": false
     },
-    "instant-crush-mancera-120-ml-tester": {
-      "nombre": "Instant Crush MANCERA 120 ml TESTER",
-      "precio": "89,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/instant-crush-mancera-120-ml-tester",
-      "en_stock": false
-    },
-    "hindu-kush-mancera-120ml-copia": {
-      "nombre": "Hindu Kush MANCERA 120ml TESTER",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/hindu-kush-mancera-120ml-copia",
-      "en_stock": false
-    },
     "quattro-pizzi-casamorati-xerjoff-100ml-tester": {
       "nombre": "Quattro Pizzi Casamorati XERJOFF 100ml TESTER",
       "precio": "159,99 €",
@@ -1439,6 +1415,18 @@
       "precio": "63,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/colonia-intensa-acqua-di-parma-100ml",
       "en_stock": true
+    },
+    "eros-parfum-versace-100ml-copia": {
+      "nombre": "Eros Parfum VERSACE 100ml TESTER",
+      "precio": "64,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-parfum-versace-100ml-copia",
+      "en_stock": true
+    },
+    "eros-versace-eau-de-parfum-100ml-tester-1": {
+      "nombre": "Eros Versace Eau de Parfum 100ml TESTER",
+      "precio": "59,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-versace-eau-de-parfum-100ml-tester-1",
+      "en_stock": false
     },
     "eros-versace-eau-de-parfum-100ml-tester": {
       "nombre": "Eros Versace Eau de Parfum Women 100ml TESTER",
