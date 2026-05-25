@@ -88,7 +88,7 @@
       "nombre": "Wulong Cha NISHANE 100ml TESTER",
       "precio": "149,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/wulong-cha-nishane",
-      "en_stock": true
+      "en_stock": false
     },
     "quercia-acqua-di-parma-180ml": {
       "nombre": "Quercia ACQUA DI PARMA 180ml TESTER",
@@ -173,12 +173,6 @@
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/madison-avenue-bond-no-9-tester-100ml",
       "en_stock": true
-    },
-    "fico-di-amalfi-la-riserva-acqua-di-parma-tester": {
-      "nombre": "Fico di Amalfi Blu Mediterraneo ACQUA DI PARMA 100ml TESTER",
-      "precio": "74,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/fico-di-amalfi-la-riserva-acqua-di-parma-tester",
-      "en_stock": false
     },
     "le-male-lover-jean-paul-gaultier-tester-125ml": {
       "nombre": "Le Male Lover JEAN PAUL GAULTIER 125ml TESTER",
@@ -378,14 +372,8 @@
       "url": "https://arabicparfums.com/collections/tester/products/ange-ou-demon-eau-de-parfum-givenchy-100ml",
       "en_stock": true
     },
-    "colonia-il-profumo-acqua-di-parma-100ml-tester": {
-      "nombre": "Colonia Il Profumo ACQUA DI PARMA 100ml - TESTER",
-      "precio": "139,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/colonia-il-profumo-acqua-di-parma-100ml-tester",
-      "en_stock": true
-    },
     "colonia-il-profumo-acqua-di-parma-tester": {
-      "nombre": "Colonia Il Profumo ACQUA DI PARMA - TESTER",
+      "nombre": "Colonia Il Profumo ACQUA DI PARMA 180ml TESTER",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/colonia-il-profumo-acqua-di-parma-tester",
       "en_stock": false
@@ -396,23 +384,11 @@
       "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-180ml-tester-copia",
       "en_stock": true
     },
-    "mandarino-di-sicilia-acqua-di-parma-180ml-tester": {
-      "nombre": "Mandarino di Sicilia ACQUA DI PARMA - TESTER",
-      "precio": "108,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mandarino-di-sicilia-acqua-di-parma-180ml-tester",
-      "en_stock": false
-    },
     "mandarino-di-sicilia-acqua-di-parma-100ml-tester": {
-      "nombre": "Mandarino di Sicilia ACQUA DI PARMA 100ml - TESTER",
+      "nombre": "Mandarino di Sicilia ACQUA DI PARMA - TESTER",
       "precio": "78,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mandarino-di-sicilia-acqua-di-parma-100ml-tester",
-      "en_stock": false
-    },
-    "bergamotto-di-calabria-acqua-di-parma-180ml-tester": {
-      "nombre": "Bergamotto di Calabria ACQUA DI PARMA - TESTER",
-      "precio": "108,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/bergamotto-di-calabria-acqua-di-parma-180ml-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "bergamotto-di-calabria-acqua-di-parma-100ml-tester": {
       "nombre": "Bergamotto di Calabria ACQUA DI PARMA 100ml - TESTER",
@@ -421,7 +397,7 @@
       "en_stock": true
     },
     "arancia-di-capri-la-riserva-acqua-di-parma-tester": {
-      "nombre": "Arancia di Capri La Riserva ACQUA DI PARMA - TESTER",
+      "nombre": "Arancia di Capri La Riserva ACQUA DI PARMA 100ml TESTER",
       "precio": "117,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/arancia-di-capri-la-riserva-acqua-di-parma-tester",
       "en_stock": false
@@ -736,7 +712,7 @@
       "nombre": "Mirto di Panarea La Riserva ACQUA DI PARMA 100ml TESTER",
       "precio": "106,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "patchouli-leaves-montale": {
       "nombre": "Patchouli Leaves MONTALE Tester",
@@ -805,10 +781,10 @@
       "en_stock": true
     },
     "colonia-essenza-acqua-di-parma-180ml-tester": {
-      "nombre": "Colonia Essenza ACQUA DI PARMA TESTER",
+      "nombre": "Colonia Essenza ACQUA DI PARMA 180ml TESTER",
       "precio": "119,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/colonia-essenza-acqua-di-parma-180ml-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "mirto-di-panarea-acqua-di-parma-180ml-tester": {
       "nombre": "Mirto Di Panarea ACQUA DI PARMA 180ml TESTER",
@@ -840,12 +816,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/lily-of-the-valley-acqua-di-parma-tester",
       "en_stock": true
     },
-    "magnolia-infinita-acqua-di-parma-100ml-tester": {
-      "nombre": "Magnolia Infinita  ACQUA DI PARMA 100ml TESTER",
-      "precio": "109,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/magnolia-infinita-acqua-di-parma-100ml-tester",
-      "en_stock": false
-    },
     "si-eau-de-parfum-armani-tester": {
       "nombre": "Si Eau de Parfum ARMANI Tester",
       "precio": "69,99 €",
@@ -874,7 +844,7 @@
       "nombre": "Eau D'Ombre Leather TOM FORD - TESTER",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/eau-dombre-leather-tom-ford",
-      "en_stock": false
+      "en_stock": true
     },
     "tony-iommi-monkey-special-xerjoff-tester": {
       "nombre": "Tony Iommi Monkey Special XERJOFF - TESTER",
@@ -894,18 +864,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/ani-nishane-100ml-tester",
       "en_stock": false
     },
-    "quercia-acqua-di-parma-100ml": {
-      "nombre": "Quercia ACQUA DI PARMA TESTER",
-      "precio": "119,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/quercia-acqua-di-parma-100ml",
-      "en_stock": false
-    },
-    "oud-spice-acqua-di-parma-tester": {
-      "nombre": "Oud & Spice ACQUA DI PARMA TESTER",
-      "precio": "139,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-spice-acqua-di-parma-tester",
-      "en_stock": false
-    },
     "la-bomba-carolina-herrera": {
       "nombre": "La Bomba CAROLINA HERRERA Tester",
       "precio": "89,99 €",
@@ -913,7 +871,7 @@
       "en_stock": true
     },
     "zafferano-acqua-di-parma": {
-      "nombre": "Zafferano ACQUA DI PARMA TESTER",
+      "nombre": "Zafferano ACQUA DI PARMA 100ml TESTER",
       "precio": "129,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/zafferano-acqua-di-parma",
       "en_stock": false
@@ -1138,7 +1096,7 @@
       "nombre": "Osmanthus ACQUA DI PARMA TESTER",
       "precio": "99,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/osmanthus-acqua-di-parma-100ml-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "patchouli-mania-essential-parfums-100ml-tester": {
       "nombre": "Patchouli Mania ESSENTIAL PARFUMS Tester",
