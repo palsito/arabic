@@ -432,6 +432,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/bois-imperial-essential-parfums-tester",
       "en_stock": false
     },
+    "fan-your-flames-extrait-de-parfum-nishane-100ml": {
+      "nombre": "Fan Your Flames Extrait de Parfum NISHANE 100ml TESTER",
+      "precio": "189,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/fan-your-flames-extrait-de-parfum-nishane-100ml",
+      "en_stock": true
+    },
     "le-gemme-orom-bvlgari-30-ml": {
       "nombre": "Le Gemme Orom BVLGARI 30ml TESTER",
       "precio": "89,99 €",
@@ -1408,12 +1414,6 @@
       "nombre": "Naxos XERJOFF 100ml TESTER",
       "precio": "179,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/naxos-xerjoff-100ml-tester",
-      "en_stock": false
-    },
-    "la-vie-est-belle-leau-de-parfum-lancome-100ml-tester": {
-      "nombre": "La Vie Est Belle L'eau de Parfum Lancôme 100ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/la-vie-est-belle-leau-de-parfum-lancome-100ml-tester",
       "en_stock": false
     },
     "polo-67-ralph-lauren-edt-125ml-tester": {
