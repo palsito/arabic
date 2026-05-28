@@ -376,7 +376,7 @@
       "nombre": "Colonia Il Profumo ACQUA DI PARMA 180ml TESTER",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/colonia-il-profumo-acqua-di-parma-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "mirto-di-panarea-la-riserva-acqua-di-parma-180ml-tester-copia": {
       "nombre": "Mirto di Panarea La Riserva ACQUA DI PARMA - TESTER",
@@ -816,6 +816,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/lily-of-the-valley-acqua-di-parma-tester",
       "en_stock": true
     },
+    "magnolia-infinita-acqua-di-parma-100ml-tester": {
+      "nombre": "Magnolia Infinita  ACQUA DI PARMA - TESTER",
+      "precio": "5,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/magnolia-infinita-acqua-di-parma-100ml-tester",
+      "en_stock": true
+    },
     "si-eau-de-parfum-armani-tester": {
       "nombre": "Si Eau de Parfum ARMANI Tester",
       "precio": "69,99 €",
@@ -857,12 +863,6 @@
       "precio": "249,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/monsieur-frederic-malle-tester",
       "en_stock": true
-    },
-    "ani-nishane-100ml-tester": {
-      "nombre": "Ani NISHANE 100ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ani-nishane-100ml-tester",
-      "en_stock": false
     },
     "la-bomba-carolina-herrera": {
       "nombre": "La Bomba CAROLINA HERRERA Tester",
@@ -1290,12 +1290,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/blanche-bete-liquides-imaginaires-100ml-tester",
       "en_stock": false
     },
-    "more-than-words-xerjoff-100ml-tester": {
-      "nombre": "More Than Words Xerjoff 100ml TESTER",
-      "precio": "179,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/more-than-words-xerjoff-100ml-tester",
-      "en_stock": true
-    },
     "symphonium-xerjoff-100ml-tester": {
       "nombre": "Symphonium Xerjoff 100ml TESTER",
       "precio": "369,99 €",
@@ -1576,6 +1570,12 @@
       "nombre": "Flower by Kenzo Eau de Parfum 50ml TESTER",
       "precio": "34,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-parfum-50ml-tester",
+      "en_stock": true
+    },
+    "flower-by-kenzo-eau-de-toilette-50ml-tester": {
+      "nombre": "Flower by Kenzo Eau de Toilette 50ml TESTER",
+      "precio": "31,49 €",
+      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-toilette-50ml-tester",
       "en_stock": true
     },
     "detour-eco-al-haramain-100ml-tester": {
