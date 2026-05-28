@@ -376,7 +376,7 @@
       "nombre": "Colonia Il Profumo ACQUA DI PARMA 180ml TESTER",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/colonia-il-profumo-acqua-di-parma-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "mirto-di-panarea-la-riserva-acqua-di-parma-180ml-tester-copia": {
       "nombre": "Mirto di Panarea La Riserva ACQUA DI PARMA - TESTER",
@@ -562,6 +562,18 @@
       "nombre": "Mystique Homme AL HARAMAIN 100ml TESTER",
       "precio": "11,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mystique-homme-al-haramain-100ml-tester",
+      "en_stock": true
+    },
+    "mystique-femme-al-haramain-100ml-tester": {
+      "nombre": "Mystique Femme AL HARAMAIN 100ml TESTER",
+      "precio": "11,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mystique-femme-al-haramain-100ml-tester",
+      "en_stock": true
+    },
+    "musk-poudree-al-haramain-12ml-tester": {
+      "nombre": "Musk Poudree AL HARAMAIN 12ml TESTER",
+      "precio": "11,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/musk-poudree-al-haramain-12ml-tester",
       "en_stock": true
     },
     "musk-perfume-oil-al-haramain-12-ml-tester": {
@@ -793,7 +805,7 @@
       "en_stock": false
     },
     "yuzu-acqua-di-parma-100ml": {
-      "nombre": "Yuzu ACQUA DI PARMA - TESTER",
+      "nombre": "Yuzu ACQUA DI PARMA 100ml TESTER",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/yuzu-acqua-di-parma-100ml",
       "en_stock": true
@@ -802,6 +814,12 @@
       "nombre": "Lily of the Valley ACQUA DI PARMA TESTER",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lily-of-the-valley-acqua-di-parma-tester",
+      "en_stock": true
+    },
+    "magnolia-infinita-acqua-di-parma-100ml-tester": {
+      "nombre": "Magnolia Infinita  ACQUA DI PARMA - TESTER",
+      "precio": "109,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/magnolia-infinita-acqua-di-parma-100ml-tester",
       "en_stock": true
     },
     "si-eau-de-parfum-armani-tester": {
@@ -1248,6 +1266,24 @@
       "url": "https://arabicparfums.com/collections/tester/products/quattro-pizzi-casamorati-xerjoff-100ml-tester",
       "en_stock": false
     },
+    "oud-maracuja-maison-crivelli-50ml-tester": {
+      "nombre": "Oud Maracuja MAISON CRIVELLI 50ml TESTER",
+      "precio": "194,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/oud-maracuja-maison-crivelli-50ml-tester",
+      "en_stock": false
+    },
+    "blanche-bete-liquides-imaginaires-100ml-tester": {
+      "nombre": "Blanche Bete Liquides Imaginaires 100ml TESTER",
+      "precio": "179,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/blanche-bete-liquides-imaginaires-100ml-tester",
+      "en_stock": false
+    },
+    "more-than-words-xerjoff-100ml-tester": {
+      "nombre": "More Than Words Xerjoff 100ml TESTER",
+      "precio": "179,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/more-than-words-xerjoff-100ml-tester",
+      "en_stock": true
+    },
     "symphonium-xerjoff-100ml-tester": {
       "nombre": "Symphonium Xerjoff 100ml TESTER",
       "precio": "369,99 €",
@@ -1372,18 +1408,6 @@
       "nombre": "Naxos XERJOFF 100ml TESTER",
       "precio": "179,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/naxos-xerjoff-100ml-tester",
-      "en_stock": false
-    },
-    "opera-xerjoff-100ml-tester": {
-      "nombre": "Opera Xerjoff 100ml TESTER",
-      "precio": "179,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/opera-xerjoff-100ml-tester",
-      "en_stock": false
-    },
-    "erab-pura-xerjoff-100ml-tester": {
-      "nombre": "Erba Pura XERJOFF 100ml TESTER",
-      "precio": "167,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/erab-pura-xerjoff-100ml-tester",
       "en_stock": false
     },
     "la-vie-est-belle-leau-de-parfum-lancome-100ml-tester": {
