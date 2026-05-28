@@ -1008,6 +1008,24 @@
       "url": "https://arabicparfums.com/collections/tester/products/narcotic-delight-initio-90ml-tester",
       "en_stock": false
     },
+    "1872-masculine-original-collection-clive-christian-50ml-tester": {
+      "nombre": "1872 Masculine Original Collection CLIVE CHRISTIAN 50ml TESTER",
+      "precio": "215,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/1872-masculine-original-collection-clive-christian-50ml-tester",
+      "en_stock": false
+    },
+    "torino-24-xerjoff-50ml-tester": {
+      "nombre": "Torino 24 XERJOFF 50ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/torino-24-xerjoff-50ml-tester",
+      "en_stock": false
+    },
+    "torino-22-xerjoff-50ml-tester": {
+      "nombre": "Torino 22 XERJOFF 50ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/torino-22-xerjoff-50ml-tester",
+      "en_stock": true
+    },
     "miami-shake-juliette-has-a-gun-100ml": {
       "nombre": "Miami Shake JULIETTE HAS A GUN 100ml TESTER sin caja",
       "precio": "99,99 €",
@@ -1422,12 +1440,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/naxos-xerjoff-100ml-tester",
       "en_stock": false
     },
-    "la-vie-est-belle-leau-de-parfum-lancome-100ml-tester": {
-      "nombre": "La Vie Est Belle L'eau de Parfum Lancôme 100ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/la-vie-est-belle-leau-de-parfum-lancome-100ml-tester",
-      "en_stock": false
-    },
     "polo-67-ralph-lauren-edt-125ml-tester": {
       "nombre": "Polo 67 RALPH LAUREN 125ml TESTER",
       "precio": "39,99 €",
@@ -1564,6 +1576,12 @@
       "nombre": "Flower by Kenzo Eau de Parfum 50ml TESTER",
       "precio": "34,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-parfum-50ml-tester",
+      "en_stock": true
+    },
+    "flower-by-kenzo-eau-de-toilette-50ml-tester": {
+      "nombre": "Flower by Kenzo Eau de Toilette 50ml TESTER",
+      "precio": "31,49 €",
+      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-toilette-50ml-tester",
       "en_stock": true
     },
     "detour-eco-al-haramain-100ml-tester": {
