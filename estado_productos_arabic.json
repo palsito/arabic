@@ -564,18 +564,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/mystique-homme-al-haramain-100ml-tester",
       "en_stock": true
     },
-    "mystique-femme-al-haramain-100ml-tester": {
-      "nombre": "Mystique Femme AL HARAMAIN 100ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mystique-femme-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "musk-poudree-al-haramain-12ml-tester": {
-      "nombre": "Musk Poudree AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-poudree-al-haramain-12ml-tester",
-      "en_stock": true
-    },
     "musk-perfume-oil-al-haramain-12-ml-tester": {
       "nombre": "Musk Perfume Oil AL HARAMAIN 12 ml TESTER",
       "precio": "11,99 €",
@@ -1564,6 +1552,12 @@
       "nombre": "Flower By Kenzo L'absolue Eau de Parfum 50ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester",
+      "en_stock": true
+    },
+    "flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester": {
+      "nombre": "Flower by Kenzo Poppy Bouquet Eau de Parfum 50ml TESTER",
+      "precio": "36,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-eau-de-parfum-50ml-tester": {
