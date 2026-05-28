@@ -144,18 +144,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/oud-01-swiss-arabian-copy",
       "en_stock": true
     },
-    "risvelium-orto-parisi-sin-caja": {
-      "nombre": "Risvelium ORTO PARISI TESTER",
-      "precio": "129,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/risvelium-orto-parisi-sin-caja",
-      "en_stock": false
-    },
-    "terroni-orto-parisi-sin-caja": {
-      "nombre": "Terroni ORTO PARIS - TESTER",
-      "precio": "129,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/terroni-orto-parisi-sin-caja",
-      "en_stock": true
-    },
     "megamare-orto-parisi-sin-caja": {
       "nombre": "Megamare ORTO PARISI - TESTER",
       "precio": "129,99 €",
@@ -574,6 +562,18 @@
       "nombre": "Mystique Homme AL HARAMAIN 100ml TESTER",
       "precio": "11,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mystique-homme-al-haramain-100ml-tester",
+      "en_stock": true
+    },
+    "mystique-femme-al-haramain-100ml-tester": {
+      "nombre": "Mystique Femme AL HARAMAIN 100ml TESTER",
+      "precio": "11,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mystique-femme-al-haramain-100ml-tester",
+      "en_stock": true
+    },
+    "musk-poudree-al-haramain-12ml-tester": {
+      "nombre": "Musk Poudree AL HARAMAIN 12ml TESTER",
+      "precio": "11,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/musk-poudree-al-haramain-12ml-tester",
       "en_stock": true
     },
     "musk-perfume-oil-al-haramain-12-ml-tester": {
@@ -1344,12 +1344,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/erba-gold-xerjoff-100ml-tester",
       "en_stock": false
     },
-    "kemi-xerjoff-50ml-tester": {
-      "nombre": "Kemi Xerjoff 50ml TESTER",
-      "precio": "134,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/kemi-xerjoff-50ml-tester",
-      "en_stock": false
-    },
     "aqua-regia-xerjoff-100ml": {
       "nombre": "Aqua Regia Xerjoff 100ml TESTER",
       "precio": "189,99 €",
@@ -1570,12 +1564,6 @@
       "nombre": "Flower By Kenzo L'absolue Eau de Parfum 50ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower by Kenzo Poppy Bouquet Eau de Parfum 50ml TESTER",
-      "precio": "36,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-eau-de-parfum-50ml-tester": {
