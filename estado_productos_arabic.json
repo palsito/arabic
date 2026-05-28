@@ -144,6 +144,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/oud-01-swiss-arabian-copy",
       "en_stock": true
     },
+    "risvelium-orto-parisi-sin-caja": {
+      "nombre": "Risvelium ORTO PARISI TESTER",
+      "precio": "129,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/risvelium-orto-parisi-sin-caja",
+      "en_stock": false
+    },
+    "terroni-orto-parisi-sin-caja": {
+      "nombre": "Terroni ORTO PARIS - TESTER",
+      "precio": "129,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/terroni-orto-parisi-sin-caja",
+      "en_stock": true
+    },
     "megamare-orto-parisi-sin-caja": {
       "nombre": "Megamare ORTO PARISI - TESTER",
       "precio": "129,99 €",
@@ -793,7 +805,7 @@
       "en_stock": false
     },
     "yuzu-acqua-di-parma-100ml": {
-      "nombre": "Yuzu ACQUA DI PARMA - TESTER",
+      "nombre": "Yuzu ACQUA DI PARMA 100ml TESTER",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/yuzu-acqua-di-parma-100ml",
       "en_stock": true
@@ -802,6 +814,12 @@
       "nombre": "Lily of the Valley ACQUA DI PARMA TESTER",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lily-of-the-valley-acqua-di-parma-tester",
+      "en_stock": true
+    },
+    "magnolia-infinita-acqua-di-parma-100ml-tester": {
+      "nombre": "Magnolia Infinita  ACQUA DI PARMA - TESTER",
+      "precio": "109,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/magnolia-infinita-acqua-di-parma-100ml-tester",
       "en_stock": true
     },
     "si-eau-de-parfum-armani-tester": {
@@ -1410,6 +1428,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/naxos-xerjoff-100ml-tester",
       "en_stock": false
     },
+    "opera-xerjoff-100ml-tester": {
+      "nombre": "Opera Xerjoff 100ml TESTER",
+      "precio": "179,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/opera-xerjoff-100ml-tester",
+      "en_stock": false
+    },
+    "erab-pura-xerjoff-100ml-tester": {
+      "nombre": "Erba Pura XERJOFF 100ml TESTER",
+      "precio": "167,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/erab-pura-xerjoff-100ml-tester",
+      "en_stock": false
+    },
     "la-vie-est-belle-leau-de-parfum-lancome-100ml-tester": {
       "nombre": "La Vie Est Belle L'eau de Parfum Lancôme 100ml TESTER",
       "precio": "49,99 €",
@@ -1552,6 +1582,12 @@
       "nombre": "Flower by Kenzo Eau de Parfum 50ml TESTER",
       "precio": "34,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-parfum-50ml-tester",
+      "en_stock": true
+    },
+    "flower-by-kenzo-eau-de-toilette-50ml-tester": {
+      "nombre": "Flower by Kenzo Eau de Toilette 50ml TESTER",
+      "precio": "31,49 €",
+      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-toilette-50ml-tester",
       "en_stock": true
     },
     "detour-eco-al-haramain-100ml-tester": {
