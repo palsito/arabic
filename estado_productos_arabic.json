@@ -1,11 +1,5 @@
 {
   "https://arabicparfums.com/collections/tester": {
-    "peonia-nobile-aqua-di-parma": {
-      "nombre": "Peonia Nobile ACQUA DI PARMA 100ml TESTER",
-      "precio": "109,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/peonia-nobile-aqua-di-parma",
-      "en_stock": true
-    },
     "putain-des-palaces-etat-libre-dorange": {
       "nombre": "Putain des Palaces ETAT LIBRE D'ORANGE 100ml TESTER",
       "precio": "64,99 €",
@@ -95,12 +89,6 @@
       "precio": "149,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/wulong-cha-nishane",
       "en_stock": false
-    },
-    "yuzu-acqua-di-parma-180ml": {
-      "nombre": "Yuzu ACQUA DI PARMA 180ml TESTER",
-      "precio": "159,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/yuzu-acqua-di-parma-180ml",
-      "en_stock": true
     },
     "quercia-acqua-di-parma-180ml": {
       "nombre": "Quercia ACQUA DI PARMA 180ml TESTER",
@@ -288,6 +276,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/oud-acqua-di-parma-tester-180ml",
       "en_stock": true
     },
+    "aoud-leather-montale-tester-100ml": {
+      "nombre": "Aoud Leather MONTALE 100ml TESTER",
+      "precio": "85,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/aoud-leather-montale-tester-100ml",
+      "en_stock": false
+    },
+    "lucky-candy-montale-100ml-tester": {
+      "nombre": "Lucky Candy MONTALE 100ml TESTER",
+      "precio": "84,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/lucky-candy-montale-100ml-tester",
+      "en_stock": true
+    },
     "40-knots-xerjoff-100ml-tester": {
       "nombre": "40 knots XERJOFF 100ml TESTER",
       "precio": "189,99 €",
@@ -376,7 +376,7 @@
       "nombre": "Colonia Il Profumo ACQUA DI PARMA 180ml TESTER",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/colonia-il-profumo-acqua-di-parma-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "mirto-di-panarea-la-riserva-acqua-di-parma-180ml-tester-copia": {
       "nombre": "Mirto di Panarea La Riserva ACQUA DI PARMA - TESTER",
@@ -708,6 +708,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-black-edition-al-haramain-60ml-tester",
       "en_stock": true
     },
+    "mirto-di-panarea-la-riserva-acqua-di-parma-tester": {
+      "nombre": "Mirto di Panarea La Riserva ACQUA DI PARMA 100ml TESTER",
+      "precio": "106,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-tester",
+      "en_stock": true
+    },
+    "patchouli-leaves-montale": {
+      "nombre": "Patchouli Leaves MONTALE Tester",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/patchouli-leaves-montale",
+      "en_stock": false
+    },
     "oud-tobacco-montale-tester": {
       "nombre": "Oud Tobacco MONTALE Tester",
       "precio": "89,99 €",
@@ -793,7 +805,7 @@
       "en_stock": false
     },
     "yuzu-acqua-di-parma-100ml": {
-      "nombre": "Yuzu ACQUA DI PARMA - TESTER",
+      "nombre": "Yuzu ACQUA DI PARMA 100ml TESTER",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/yuzu-acqua-di-parma-100ml",
       "en_stock": true
@@ -802,6 +814,12 @@
       "nombre": "Lily of the Valley ACQUA DI PARMA TESTER",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lily-of-the-valley-acqua-di-parma-tester",
+      "en_stock": true
+    },
+    "magnolia-infinita-acqua-di-parma-100ml-tester": {
+      "nombre": "Magnolia Infinita  ACQUA DI PARMA - TESTER",
+      "precio": "109,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/magnolia-infinita-acqua-di-parma-100ml-tester",
       "en_stock": true
     },
     "si-eau-de-parfum-armani-tester": {
@@ -977,6 +995,24 @@
       "precio": "219,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/narcotic-delight-initio-90ml-tester",
       "en_stock": false
+    },
+    "1872-masculine-original-collection-clive-christian-50ml-tester": {
+      "nombre": "1872 Masculine Original Collection CLIVE CHRISTIAN 50ml TESTER",
+      "precio": "215,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/1872-masculine-original-collection-clive-christian-50ml-tester",
+      "en_stock": false
+    },
+    "torino-24-xerjoff-50ml-tester": {
+      "nombre": "Torino 24 XERJOFF 50ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/torino-24-xerjoff-50ml-tester",
+      "en_stock": false
+    },
+    "torino-22-xerjoff-50ml-tester": {
+      "nombre": "Torino 22 XERJOFF 50ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/torino-22-xerjoff-50ml-tester",
+      "en_stock": true
     },
     "miami-shake-juliette-has-a-gun-100ml": {
       "nombre": "Miami Shake JULIETTE HAS A GUN 100ml TESTER sin caja",
@@ -1392,6 +1428,24 @@
       "url": "https://arabicparfums.com/collections/tester/products/naxos-xerjoff-100ml-tester",
       "en_stock": false
     },
+    "opera-xerjoff-100ml-tester": {
+      "nombre": "Opera Xerjoff 100ml TESTER",
+      "precio": "179,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/opera-xerjoff-100ml-tester",
+      "en_stock": false
+    },
+    "erab-pura-xerjoff-100ml-tester": {
+      "nombre": "Erba Pura XERJOFF 100ml TESTER",
+      "precio": "167,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/erab-pura-xerjoff-100ml-tester",
+      "en_stock": false
+    },
+    "la-vie-est-belle-leau-de-parfum-lancome-100ml-tester": {
+      "nombre": "La Vie Est Belle L'eau de Parfum Lancôme 100ml TESTER",
+      "precio": "49,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/la-vie-est-belle-leau-de-parfum-lancome-100ml-tester",
+      "en_stock": false
+    },
     "polo-67-ralph-lauren-edt-125ml-tester": {
       "nombre": "Polo 67 RALPH LAUREN 125ml TESTER",
       "precio": "39,99 €",
@@ -1516,24 +1570,6 @@
       "nombre": "Flower By Kenzo L'absolue Eau de Parfum 50ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower by Kenzo Poppy Bouquet Eau de Parfum 50ml TESTER",
-      "precio": "36,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower by Kenzo Eau de Parfum 50ml TESTER",
-      "precio": "34,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-parfum-50ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-eau-de-toilette-50ml-tester": {
-      "nombre": "Flower by Kenzo Eau de Toilette 50ml TESTER",
-      "precio": "31,49 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-toilette-50ml-tester",
       "en_stock": true
     },
     "detour-eco-al-haramain-100ml-tester": {
