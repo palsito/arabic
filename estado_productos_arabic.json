@@ -264,12 +264,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
       "en_stock": true
     },
-    "velvet-vanilla-mancera-tester-120ml": {
-      "nombre": "Velvet Vanilla MANCERA 120ml TESTER",
-      "precio": "79,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/velvet-vanilla-mancera-tester-120ml",
-      "en_stock": true
-    },
     "groove-xcape-xerjoff-tester-50ml": {
       "nombre": "Groove Xcape XERJOFF TESTER 50ml",
       "precio": "169,99 €",
@@ -1152,12 +1146,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/vanille-absolu-montale-100ml-tester",
       "en_stock": true
     },
-    "vanilla-extasy-montale-100ml-tester": {
-      "nombre": "Vanilla Extasy MONTALE 100ml TESTER",
-      "precio": "75,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/vanilla-extasy-montale-100ml-tester",
-      "en_stock": true
-    },
     "starry-nights-montale-100ml-tester": {
       "nombre": "Starry Nights MONTALE 100ml TESTER",
       "precio": "74,99 €",
@@ -1294,6 +1282,12 @@
       "nombre": "Eros Flame Eau de Parfum VERSACE 100ml TESTER",
       "precio": "54,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/eros-flame-eau-de-parfum-versace-100ml-tester",
+      "en_stock": false
+    },
+    "chocolate-greedy-montale-100ml-copia": {
+      "nombre": "Chocolate Greedy MONTALE 100ml TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/chocolate-greedy-montale-100ml-copia",
       "en_stock": false
     },
     "quattro-pizzi-casamorati-xerjoff-100ml-tester": {
