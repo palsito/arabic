@@ -426,6 +426,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/my-devotion-intense-dolce-gabbana-100ml-tester",
       "en_stock": false
     },
+    "bois-imperial-essential-parfums-tester": {
+      "nombre": "Bois Imperial ESSENTIAL PARFUMS 100ml TESTER",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/bois-imperial-essential-parfums-tester",
+      "en_stock": false
+    },
     "fan-your-flames-extrait-de-parfum-nishane-100ml": {
       "nombre": "Fan Your Flames Extrait de Parfum NISHANE 100ml TESTER",
       "precio": "189,99 €",
@@ -1134,12 +1140,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/vanille-absolu-montale-100ml-tester",
       "en_stock": true
     },
-    "vanilla-extasy-montale-100ml-tester": {
-      "nombre": "Vanilla Extasy MONTALE 100ml TESTER",
-      "precio": "75,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/vanilla-extasy-montale-100ml-tester",
-      "en_stock": true
-    },
     "starry-nights-montale-100ml-tester": {
       "nombre": "Starry Nights MONTALE 100ml TESTER",
       "precio": "74,99 €",
@@ -1276,6 +1276,12 @@
       "nombre": "Eros Flame Eau de Parfum VERSACE 100ml TESTER",
       "precio": "54,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/eros-flame-eau-de-parfum-versace-100ml-tester",
+      "en_stock": false
+    },
+    "chocolate-greedy-montale-100ml-copia": {
+      "nombre": "Chocolate Greedy MONTALE 100ml TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/chocolate-greedy-montale-100ml-copia",
       "en_stock": false
     },
     "quattro-pizzi-casamorati-xerjoff-100ml-tester": {
@@ -1502,7 +1508,7 @@
     },
     "ange-ou-demon-le-secret-eau-de-parfum-givenchy": {
       "nombre": "Ange ou Démon Le Secret Eau de Parfum GIVENCHY - TESTER",
-      "precio": "64,99 €",
+      "precio": "55,24 €",
       "url": "https://arabicparfums.com/collections/tester/products/ange-ou-demon-le-secret-eau-de-parfum-givenchy",
       "en_stock": true
     },
