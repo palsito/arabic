@@ -264,12 +264,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/groove-xcape-xerjoff-tester-50ml",
       "en_stock": true
     },
-    "hayat-xerjoff-tester": {
-      "nombre": "Hayat XERJOFF TESTER 100ml",
-      "precio": "189,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/hayat-xerjoff-tester",
-      "en_stock": false
-    },
     "encense-suave-matiere-premiere-tester": {
       "nombre": "Encense Suave MATIERE PREMIERE - TESTER",
       "precio": "149,99 €",
@@ -299,12 +293,6 @@
       "precio": "84,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lucky-candy-montale-100ml-tester",
       "en_stock": true
-    },
-    "40-knots-xerjoff-100ml-tester": {
-      "nombre": "40 knots XERJOFF 100ml TESTER",
-      "precio": "189,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/40-knots-xerjoff-100ml-tester",
-      "en_stock": false
     },
     "shawq-swiss-arabian-tester-50ml": {
       "nombre": "Shawq SWISS ARABIAN TESTER 50ml",
@@ -430,6 +418,18 @@
       "nombre": "Fan Your Flames Extrait de Parfum NISHANE 100ml TESTER",
       "precio": "189,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/fan-your-flames-extrait-de-parfum-nishane-100ml",
+      "en_stock": true
+    },
+    "le-gemme-orom-bvlgari-30-ml": {
+      "nombre": "Le Gemme Orom BVLGARI 30ml TESTER",
+      "precio": "89,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/le-gemme-orom-bvlgari-30-ml",
+      "en_stock": true
+    },
+    "holy-neroli-montale-100ml-tester": {
+      "nombre": "Holy Neroli MONTALE 100ml TESTER",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/holy-neroli-montale-100ml-tester",
       "en_stock": true
     },
     "shaghaf-oud-tonka-swiss-arabian-75ml-tester": {
@@ -984,6 +984,30 @@
       "url": "https://arabicparfums.com/collections/tester/products/narcotic-delight-initio-90ml-tester",
       "en_stock": false
     },
+    "1872-masculine-original-collection-clive-christian-50ml-tester": {
+      "nombre": "1872 Masculine Original Collection CLIVE CHRISTIAN 50ml TESTER",
+      "precio": "215,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/1872-masculine-original-collection-clive-christian-50ml-tester",
+      "en_stock": false
+    },
+    "torino-22-xerjoff-50ml-tester": {
+      "nombre": "Torino 22 XERJOFF 50ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/torino-22-xerjoff-50ml-tester",
+      "en_stock": true
+    },
+    "miami-shake-juliette-has-a-gun-100ml": {
+      "nombre": "Miami Shake JULIETTE HAS A GUN 100ml TESTER sin caja",
+      "precio": "99,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/miami-shake-juliette-has-a-gun-100ml",
+      "en_stock": true
+    },
+    "hacivat-nishane-100ml-tester": {
+      "nombre": "Hacivat NISHANE 100ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/hacivat-nishane-100ml-tester",
+      "en_stock": false
+    },
     "hacivat-x-extrait-de-parfum-nishane-100ml-tester": {
       "nombre": "Hacivat X Extrait de Parfum NISHANE 100ml TESTER",
       "precio": "189,99 €",
@@ -1272,12 +1296,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/layali-swiss-arabian-50ml-tester",
       "en_stock": true
     },
-    "symphonium-xerjoff-100ml-tester": {
-      "nombre": "Symphonium Xerjoff 100ml TESTER",
-      "precio": "369,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/symphonium-xerjoff-100ml-tester",
-      "en_stock": false
-    },
     "leau-dissey-pour-homme-issey-miyake-125ml": {
       "nombre": "L'eau D'Issey Pour Homme ISSEY MIYAKE 125ml TESTER",
       "precio": "42,99 €",
@@ -1522,6 +1540,30 @@
       "nombre": "Edge Intense Men Swiss Arabian 100ml TESTER",
       "precio": "34,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/edge-intense-men-swiss-arabian-100ml-tester",
+      "en_stock": true
+    },
+    "edge-intense-swiss-arabian-100ml-tester-2": {
+      "nombre": "Edge Intense Women Swiss Arabian 100ml TESTER",
+      "precio": "34,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/edge-intense-swiss-arabian-100ml-tester-2",
+      "en_stock": true
+    },
+    "casablanca-swiss-arabian-100ml-tester": {
+      "nombre": "Casablanca SWISS ARABIAN 100ml TESTER",
+      "precio": "47,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/casablanca-swiss-arabian-100ml-tester",
+      "en_stock": true
+    },
+    "miss-edge-swiss-arabian-tester": {
+      "nombre": "Miss Edge SWISS ARABIAN 100ml TESTER",
+      "precio": "27,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/miss-edge-swiss-arabian-tester",
+      "en_stock": true
+    },
+    "shaghaf-oud-elixir-swiss-arabian": {
+      "nombre": "Shaghaf Oud Elixir SWISS ARABIAN 75ml TESTER",
+      "precio": "44,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/shaghaf-oud-elixir-swiss-arabian",
       "en_stock": true
     }
   }
