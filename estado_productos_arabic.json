@@ -126,12 +126,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/colonia-intensa-acqua-di-parma-180ml",
       "en_stock": true
     },
-    "marwa-arabiyat-prestige-tester-100ml": {
-      "nombre": "Marwa ARABIYAT PRESTIGE 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/marwa-arabiyat-prestige-tester-100ml",
-      "en_stock": false
-    },
     "rose-01-swiss-arabian-tester-50ml": {
       "nombre": "Rose 01 SWISS ARABIAN 50ml TESTER",
       "precio": "39,99 €",
@@ -576,12 +570,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/destino-french-collection-al-haramain-100ml-tester",
       "en_stock": true
     },
-    "mystique-homme-al-haramain-100ml-tester": {
-      "nombre": "Mystique Homme AL HARAMAIN 100ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mystique-homme-al-haramain-100ml-tester",
-      "en_stock": true
-    },
     "mystique-femme-al-haramain-100ml-tester": {
       "nombre": "Mystique Femme AL HARAMAIN 100ml TESTER",
       "precio": "11,99 €",
@@ -713,6 +701,12 @@
       "precio": "49,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-private-edition-al-haramain-100ml-tester",
       "en_stock": true
+    },
+    "amber-oud-carbon-edition-al-haramain-60ml-tester": {
+      "nombre": "Amber Oud Carbon Edition AL HARAMAIN 60ml TESTER",
+      "precio": "36,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-carbon-edition-al-haramain-60ml-tester",
+      "en_stock": false
     },
     "amber-oud-black-edition-al-haramain-60ml-tester": {
       "nombre": "Amber Oud Black Edition AL HARAMAIN 60ml TESTER",
@@ -1577,12 +1571,6 @@
       "precio": "42,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester",
       "en_stock": false
-    },
-    "flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower By Kenzo L'absolue Eau de Parfum 50ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester",
-      "en_stock": true
     },
     "flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester": {
       "nombre": "Flower by Kenzo Poppy Bouquet Eau de Parfum 50ml TESTER",
