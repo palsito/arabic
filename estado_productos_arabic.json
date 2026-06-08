@@ -1008,12 +1008,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/hacivat-nishane-100ml-tester",
       "en_stock": false
     },
-    "torino-24-xerjoff-50ml-tester": {
-      "nombre": "Torino 24 XERJOFF 50ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/torino-24-xerjoff-50ml-tester",
-      "en_stock": false
-    },
     "hacivat-x-extrait-de-parfum-nishane-100ml-tester": {
       "nombre": "Hacivat X Extrait de Parfum NISHANE 100ml TESTER",
       "precio": "189,99 €",
@@ -1127,6 +1121,36 @@
       "precio": "74,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/starry-nights-montale-100ml-tester",
       "en_stock": false
+    },
+    "pikovaya-dama-xerjoff-100ml-tester": {
+      "nombre": "Pikovaya Dama XERJOFF 100ml TESTER",
+      "precio": "325,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/pikovaya-dama-xerjoff-100ml-tester",
+      "en_stock": true
+    },
+    "dark-aoud-montale-100ml-tester": {
+      "nombre": "Dark Aoud MONTALE 100ml TESTER",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/dark-aoud-montale-100ml-tester",
+      "en_stock": false
+    },
+    "amber-spices-montale-100ml-copia": {
+      "nombre": "Amber & Spices MONTALE 100ml TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/amber-spices-montale-100ml-copia",
+      "en_stock": true
+    },
+    "mango-manga-montale-100ml-tester": {
+      "nombre": "Mango Manga MONTALE 100ml TESTER",
+      "precio": "73,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mango-manga-montale-100ml-tester",
+      "en_stock": true
+    },
+    "leau-revee-disa-eau-de-toilette-sisley-100ml-tester": {
+      "nombre": "L'eau Revee D'Isa Eau de Toilette SISLEY 100ml TESTER",
+      "precio": "69,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/leau-revee-disa-eau-de-toilette-sisley-100ml-tester",
+      "en_stock": true
     },
     "leau-revee-dikar-eau-de-toilette-sisley-100ml-tester": {
       "nombre": "L'eau Revee D'Ikar Eau de Toilette SISLEY 100ml TESTER",
