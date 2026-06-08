@@ -570,6 +570,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/noora-al-haramain-12ml-tester",
       "en_stock": false
     },
+    "destino-french-collection-al-haramain-100ml-tester": {
+      "nombre": "Destino French Collection AL HARAMAIN 100ml TESTER",
+      "precio": "37,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/destino-french-collection-al-haramain-100ml-tester",
+      "en_stock": true
+    },
     "mystique-homme-al-haramain-100ml-tester": {
       "nombre": "Mystique Homme AL HARAMAIN 100ml TESTER",
       "precio": "11,99 €",
@@ -707,12 +713,6 @@
       "precio": "49,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-private-edition-al-haramain-100ml-tester",
       "en_stock": true
-    },
-    "amber-oud-carbon-edition-al-haramain-60ml-tester": {
-      "nombre": "Amber Oud Carbon Edition AL HARAMAIN 60ml TESTER",
-      "precio": "36,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-carbon-edition-al-haramain-60ml-tester",
-      "en_stock": false
     },
     "amber-oud-black-edition-al-haramain-60ml-tester": {
       "nombre": "Amber Oud Black Edition AL HARAMAIN 60ml TESTER",
@@ -1282,6 +1282,12 @@
       "nombre": "Eros Flame Eau de Parfum VERSACE 100ml TESTER",
       "precio": "54,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/eros-flame-eau-de-parfum-versace-100ml-tester",
+      "en_stock": false
+    },
+    "chocolate-greedy-montale-100ml-copia": {
+      "nombre": "Chocolate Greedy MONTALE 100ml TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/chocolate-greedy-montale-100ml-copia",
       "en_stock": false
     },
     "quattro-pizzi-casamorati-xerjoff-100ml-tester": {
