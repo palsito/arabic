@@ -894,12 +894,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/bitter-peach-tom-ford-50ml-tester",
       "en_stock": false
     },
-    "radical-rose-extrait-de-parfum-matiere-premiere-tester": {
-      "nombre": "Radical Rose Extrait de Parfum MATIERE PREMIERE Tester",
-      "precio": "199,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/radical-rose-extrait-de-parfum-matiere-premiere-tester",
-      "en_stock": false
-    },
     "falcon-leather-extrait-de-parfum-matiere-premiere-tester": {
       "nombre": "Falcon Leather Extrait de Parfum MATIERE PREMIERE Tester",
       "precio": "199,99 €",
@@ -1001,6 +995,18 @@
       "precio": "149,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/hacivat-nishane-100ml-tester",
       "en_stock": false
+    },
+    "hacivat-x-extrait-de-parfum-nishane-100ml-tester": {
+      "nombre": "Hacivat X Extrait de Parfum NISHANE 100ml TESTER",
+      "precio": "189,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/hacivat-x-extrait-de-parfum-nishane-100ml-tester",
+      "en_stock": false
+    },
+    "torino-21-xerjoff-100ml-copia": {
+      "nombre": "Torino 21 XERJOFF 100ml TESTER",
+      "precio": "219,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/torino-21-xerjoff-100ml-copia",
+      "en_stock": true
     },
     "shaghaf-men-swiss-arabian-75ml-tester": {
       "nombre": "Shaghaf Men SWISS ARABIAN 75ml TESTER",
@@ -1276,6 +1282,18 @@
       "nombre": "Layali SWISS ARABIAN 50ml TESTER",
       "precio": "21,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/layali-swiss-arabian-50ml-tester",
+      "en_stock": true
+    },
+    "leau-dissey-pour-homme-issey-miyake-125ml": {
+      "nombre": "L'eau D'Issey Pour Homme ISSEY MIYAKE 125ml TESTER",
+      "precio": "42,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/leau-dissey-pour-homme-issey-miyake-125ml",
+      "en_stock": true
+    },
+    "valencia-swiss-arabian-100ml-tester": {
+      "nombre": "Valencia SWISS ARABIAN 100ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/valencia-swiss-arabian-100ml-tester",
       "en_stock": true
     },
     "lyric-amouage-100ml-tester": {
