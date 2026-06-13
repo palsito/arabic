@@ -276,6 +276,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/lucky-candy-montale-100ml-tester",
       "en_stock": true
     },
+    "40-knots-xerjoff-100ml-tester": {
+      "nombre": "40 knots XERJOFF 100ml TESTER",
+      "precio": "189,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/40-knots-xerjoff-100ml-tester",
+      "en_stock": true
+    },
     "shawq-swiss-arabian-tester-50ml": {
       "nombre": "Shawq SWISS ARABIAN TESTER 50ml",
       "precio": "15,99 €",
@@ -720,6 +726,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/intense-cherry-montale-tester",
       "en_stock": true
     },
+    "pardon-nasomatto-tester": {
+      "nombre": "Pardon NASOMATTO Tester",
+      "precio": "109,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/pardon-nasomatto-tester",
+      "en_stock": false
+    },
     "duro-nasomatto-tester": {
       "nombre": "Duro NASOMATTO Tester",
       "precio": "109,99 €",
@@ -1026,6 +1038,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/vanilla-extasy-montale-100ml-tester",
       "en_stock": true
     },
+    "alexandria-ii-xerjoff-100ml": {
+      "nombre": "Alexandria II XERJOFF 100ml TESTER",
+      "precio": "319,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/alexandria-ii-xerjoff-100ml",
+      "en_stock": true
+    },
     "pikovaya-dama-xerjoff-100ml-tester": {
       "nombre": "Pikovaya Dama XERJOFF 100ml TESTER",
       "precio": "325,00 €",
@@ -1146,6 +1164,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/versace-man-eau-fraiche-eau-de-toilette-versace-100ml-tester",
       "en_stock": false
     },
+    "eros-flame-eau-de-parfum-versace-100ml-tester": {
+      "nombre": "Eros Flame Eau de Parfum VERSACE 100ml TESTER",
+      "precio": "54,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-flame-eau-de-parfum-versace-100ml-tester",
+      "en_stock": false
+    },
     "oud-maracuja-maison-crivelli-50ml-tester": {
       "nombre": "Oud Maracuja MAISON CRIVELLI 50ml TESTER",
       "precio": "194,99 €",
@@ -1258,6 +1282,12 @@
       "nombre": "Ambra Calabria Nishane 50ml TESTER",
       "precio": "99,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/ambra-calabria-nishane",
+      "en_stock": true
+    },
+    "erab-pura-xerjoff-100ml-tester": {
+      "nombre": "Erba Pura XERJOFF 100ml TESTER",
+      "precio": "167,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/erab-pura-xerjoff-100ml-tester",
       "en_stock": true
     },
     "la-vie-est-belle-leau-de-parfum-lancome-100ml-tester": {
