@@ -877,7 +877,7 @@
       "en_stock": false
     },
     "falcon-leather-extrait-de-parfum-matiere-premiere-tester": {
-      "nombre": "Falcon Leather Extrait de Parfum MATIERE PREMIERE Tester",
+      "nombre": "Falcon Leather Extrait de Parfum MATIERE PREMIERE 100ml Tester",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/falcon-leather-extrait-de-parfum-matiere-premiere-tester",
       "en_stock": true
@@ -1132,24 +1132,6 @@
       "nombre": "Decas XERJOFF 100ml TESTER",
       "precio": "145,00 €",
       "url": "https://arabicparfums.com/collections/tester/products/decas-xerjoff-100ml-tester",
-      "en_stock": true
-    },
-    "sandalo-acqua-di-parma-100ml": {
-      "nombre": "Sandalo ACQUA DI PARMA TESTER",
-      "precio": "119,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/sandalo-acqua-di-parma-100ml",
-      "en_stock": true
-    },
-    "cipresso-di-toscana-acqua-di-parma-tester": {
-      "nombre": "Cipresso Di Toscana ACQUA DI PARMA TESTER",
-      "precio": "99,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/cipresso-di-toscana-acqua-di-parma-tester",
-      "en_stock": true
-    },
-    "alien-hypersense-mugler-90ml-tester": {
-      "nombre": "Alien Hypersense MUGLER 90ml TESTER",
-      "precio": "74,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/alien-hypersense-mugler-90ml-tester",
       "en_stock": true
     },
     "not-a-perfume-juliette-has-a-gun": {
@@ -1420,6 +1402,24 @@
       "nombre": "Oud 07 SWISS ARABIAN TESTER 50ml",
       "precio": "74,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/oud-07-swiss-arabian-50ml-tester",
+      "en_stock": true
+    },
+    "spirit-of-valencia-swiss-arabian-100ml-tester": {
+      "nombre": "Spirit Of Valencia Swiss Arabian 100ml TESTER",
+      "precio": "49,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/spirit-of-valencia-swiss-arabian-100ml-tester",
+      "en_stock": false
+    },
+    "royal-mystery-swiss-arabian-100ml-tester": {
+      "nombre": "Royal Mystery SWISS ARABIAN 100ml TESTER",
+      "precio": "41,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/royal-mystery-swiss-arabian-100ml-tester",
+      "en_stock": true
+    },
+    "intense-pride-swiss-arabian-100ml-tester": {
+      "nombre": "Intense Pride Swiss Arabian 100ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/intense-pride-swiss-arabian-100ml-tester",
       "en_stock": true
     },
     "imperial-arabia-swiss-arabian-100ml-tester": {
