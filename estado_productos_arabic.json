@@ -474,6 +474,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/azure-french-collection-al-haramain-100ml-tester",
       "en_stock": false
     },
+    "mefisto-gentiluomo-casamorati-xerjoff-100ml": {
+      "nombre": "Mefisto Gentiluomo CASAMORATI XERJOFF 100ml TESTER",
+      "precio": "169,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mefisto-gentiluomo-casamorati-xerjoff-100ml",
+      "en_stock": true
+    },
     "mefisto-casamorati-1888-xerjoff-100ml-tester": {
       "nombre": "Mefisto Casamorati 1888 XERJOFF 100ml TESTER",
       "precio": "159,99 €",
@@ -714,12 +720,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/intense-cherry-montale-tester",
       "en_stock": true
     },
-    "pardon-nasomatto-tester": {
-      "nombre": "Pardon NASOMATTO Tester",
-      "precio": "109,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/pardon-nasomatto-tester",
-      "en_stock": false
-    },
     "duro-nasomatto-tester": {
       "nombre": "Duro NASOMATTO Tester",
       "precio": "109,99 €",
@@ -900,41 +900,17 @@
       "url": "https://arabicparfums.com/collections/tester/products/layali-swiss-arabian-15ml-tester",
       "en_stock": false
     },
-    "oudmazing-montale-tester": {
-      "nombre": "Oudmazing MONTALE 100ml TESTER",
-      "precio": "109,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oudmazing-montale-tester",
-      "en_stock": false
-    },
-    "intense-cafe-montale-tester": {
-      "nombre": "Intense Cafe MONTALE 100ml TESTER",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/intense-cafe-montale-tester",
-      "en_stock": false
-    },
-    "honey-aoud-montale-tester": {
-      "nombre": "Honey Aoud MONTALE 100ml TESTER",
-      "precio": "98,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/honey-aoud-montale-tester",
-      "en_stock": false
-    },
-    "oud-for-greatness-neo-initio-90ml-copia": {
-      "nombre": "Oud For Greatness Neo INITIO 90ml TESTER",
-      "precio": "229,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-for-greatness-neo-initio-90ml-copia",
-      "en_stock": false
-    },
-    "oud-for-greatness-initio-90ml-tester": {
-      "nombre": "Oud For Greatness INITIO 90ml TESTER",
-      "precio": "222,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-for-greatness-initio-90ml-tester",
-      "en_stock": false
-    },
     "narcotic-delight-initio-90ml-tester": {
       "nombre": "Narcotic Delight INITIO 90ml TESTER",
       "precio": "219,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/narcotic-delight-initio-90ml-tester",
       "en_stock": false
+    },
+    "torino-24-xerjoff-50ml": {
+      "nombre": "Torino 24 XERJOFF 50ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/torino-24-xerjoff-50ml",
+      "en_stock": true
     },
     "torino-22-xerjoff-50ml-tester": {
       "nombre": "Torino 22 XERJOFF 50ml TESTER",
@@ -1007,6 +983,30 @@
       "precio": "49,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/laventure-femme-al-haramain-200ml-tester",
       "en_stock": true
+    },
+    "amber-oud-ruby-edition-al-hamarain-120ml-copia": {
+      "nombre": "Amber Oud Ruby Edition AL HAMARAIN 120ml TESTER",
+      "precio": "67,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-ruby-edition-al-hamarain-120ml-copia",
+      "en_stock": false
+    },
+    "osmanthus-acqua-di-parma-100ml-tester": {
+      "nombre": "Osmanthus ACQUA DI PARMA TESTER",
+      "precio": "99,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/osmanthus-acqua-di-parma-100ml-tester",
+      "en_stock": true
+    },
+    "patchouli-mania-essential-parfums-100ml-tester": {
+      "nombre": "Patchouli Mania ESSENTIAL PARFUMS Tester",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/patchouli-mania-essential-parfums-100ml-tester",
+      "en_stock": false
+    },
+    "fig-infusion-essential-parfums-100ml-tester": {
+      "nombre": "Fig Infusion ESSENTIAL PARFUMS Tester",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/fig-infusion-essential-parfums-100ml-tester",
+      "en_stock": false
     },
     "aoud-lime-montale-100ml-tester": {
       "nombre": "Aoud Lime MONTALE 100ml TESTER",
@@ -1144,12 +1144,6 @@
       "nombre": "Versace Man Eau Fraiche Eau de Toilette VERSACE 100ml TESTER",
       "precio": "42,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/versace-man-eau-fraiche-eau-de-toilette-versace-100ml-tester",
-      "en_stock": false
-    },
-    "eros-flame-eau-de-parfum-versace-100ml-tester": {
-      "nombre": "Eros Flame Eau de Parfum VERSACE 100ml TESTER",
-      "precio": "54,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/eros-flame-eau-de-parfum-versace-100ml-tester",
       "en_stock": false
     },
     "oud-maracuja-maison-crivelli-50ml-tester": {
