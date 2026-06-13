@@ -282,18 +282,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/lucky-candy-montale-100ml-tester",
       "en_stock": true
     },
-    "shawq-swiss-arabian-tester-50ml": {
-      "nombre": "Shawq SWISS ARABIAN TESTER 50ml",
-      "precio": "15,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/shawq-swiss-arabian-tester-50ml",
-      "en_stock": false
-    },
-    "oud-74-swiss-arabian-tester": {
-      "nombre": "Oud 74 SWISS ARABIAN TESTER",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-74-swiss-arabian-tester",
-      "en_stock": false
-    },
     "ishq-swiss-arabian-50ml-tester": {
       "nombre": "Ishq SWISS ARABIAN 50ml TESTER",
       "precio": "59,99 €",
@@ -576,12 +564,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/musk-noir-al-haramain-12-ml-tester",
       "en_stock": true
     },
-    "musk-floral-al-haramain-12ml-tester": {
-      "nombre": "Musk Floral Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-floral-al-haramain-12ml-tester",
-      "en_stock": true
-    },
     "musk-collection-al-haramain-100ml-tester": {
       "nombre": "Musk Collection AL HARAMAIN 100ml TESTER",
       "precio": "31,99 €",
@@ -738,12 +720,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/azlan-oud-bleu-al-haramain-extrait-de-parfum-tester",
       "en_stock": false
     },
-    "tero-extrait-de-parfum-nishane-100ml-tester": {
-      "nombre": "Tero Extrait de Parfum NISHANE 100ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/tero-extrait-de-parfum-nishane-100ml-tester",
-      "en_stock": false
-    },
     "tero-extrait-de-parfum-nishane-tester": {
       "nombre": "Tero Extrait de Parfum NISHANE 50ml TESTER",
       "precio": "98,99 €",
@@ -858,6 +834,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/zafferano-acqua-di-parma",
       "en_stock": false
     },
+    "ibiza-sunset-cafe-ramon-monegal-100ml-tester": {
+      "nombre": "Ibiza Sunset Cafe RAMON MONEGAL 100ml TESTER",
+      "precio": "102,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/ibiza-sunset-cafe-ramon-monegal-100ml-tester",
+      "en_stock": true
+    },
+    "bitter-peach-tom-ford-50ml-tester": {
+      "nombre": "Bitter Peach TOM FORD 50ml Tester",
+      "precio": "189,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/bitter-peach-tom-ford-50ml-tester",
+      "en_stock": false
+    },
     "falcon-leather-extrait-de-parfum-matiere-premiere-tester": {
       "nombre": "Falcon Leather Extrait de Parfum MATIERE PREMIERE 100ml Tester",
       "precio": "199,99 €",
@@ -892,36 +880,6 @@
       "nombre": "Layali SWISS ARABIAN 15ml TESTER",
       "precio": "22,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/layali-swiss-arabian-15ml-tester",
-      "en_stock": false
-    },
-    "oudmazing-montale-tester": {
-      "nombre": "Oudmazing MONTALE 100ml TESTER",
-      "precio": "109,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oudmazing-montale-tester",
-      "en_stock": false
-    },
-    "intense-cafe-montale-tester": {
-      "nombre": "Intense Cafe MONTALE 100ml TESTER",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/intense-cafe-montale-tester",
-      "en_stock": false
-    },
-    "honey-aoud-montale-tester": {
-      "nombre": "Honey Aoud MONTALE 100ml TESTER",
-      "precio": "98,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/honey-aoud-montale-tester",
-      "en_stock": false
-    },
-    "oud-for-greatness-neo-initio-90ml-copia": {
-      "nombre": "Oud For Greatness Neo INITIO 90ml TESTER",
-      "precio": "229,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-for-greatness-neo-initio-90ml-copia",
-      "en_stock": false
-    },
-    "oud-for-greatness-initio-90ml-tester": {
-      "nombre": "Oud For Greatness INITIO 90ml TESTER",
-      "precio": "222,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-for-greatness-initio-90ml-tester",
       "en_stock": false
     },
     "narcotic-delight-initio-90ml-tester": {
@@ -1044,12 +1002,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/vanilla-extasy-montale-100ml-tester",
       "en_stock": true
     },
-    "starry-nights-montale-100ml-tester": {
-      "nombre": "Starry Nights MONTALE 100ml TESTER",
-      "precio": "74,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/starry-nights-montale-100ml-tester",
-      "en_stock": false
-    },
     "pikovaya-dama-xerjoff-100ml-tester": {
       "nombre": "Pikovaya Dama XERJOFF 100ml TESTER",
       "precio": "325,00 €",
@@ -1060,12 +1012,6 @@
       "nombre": "Dark Aoud MONTALE 100ml TESTER",
       "precio": "79,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/dark-aoud-montale-100ml-tester",
-      "en_stock": false
-    },
-    "amber-spices-montale-100ml-copia": {
-      "nombre": "Amber & Spices MONTALE 100ml TESTER",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-spices-montale-100ml-copia",
       "en_stock": false
     },
     "mango-manga-montale-100ml-tester": {
@@ -1182,12 +1128,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/eros-flame-eau-de-parfum-versace-100ml-tester",
       "en_stock": false
     },
-    "chocolate-greedy-montale-100ml-copia": {
-      "nombre": "Chocolate Greedy MONTALE 100ml TESTER",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/chocolate-greedy-montale-100ml-copia",
-      "en_stock": false
-    },
     "oud-maracuja-maison-crivelli-50ml-tester": {
       "nombre": "Oud Maracuja MAISON CRIVELLI 50ml TESTER",
       "precio": "194,99 €",
@@ -1200,6 +1140,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/blanche-bete-liquides-imaginaires-100ml-tester",
       "en_stock": false
     },
+    "chocolate-greedy-montale-100ml-copia": {
+      "nombre": "Chocolate Greedy MONTALE 100ml TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/chocolate-greedy-montale-100ml-copia",
+      "en_stock": false
+    },
     "more-than-words-xerjoff-100ml-tester": {
       "nombre": "More Than Words Xerjoff 100ml TESTER",
       "precio": "179,99 €",
@@ -1210,12 +1156,6 @@
       "nombre": "Angel's Dust Extrait de Parfum FRANCESCA BIANCHI Tester",
       "precio": "99,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/angels-dust-extrait-de-parfum-francesca-bianchi-30ml-tester",
-      "en_stock": true
-    },
-    "desirtoxic-lintense-m-micallef-100ml-copia": {
-      "nombre": "DesirToxic L'intense M.Micallef 100ml TESTER",
-      "precio": "237,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/desirtoxic-lintense-m-micallef-100ml-copia",
       "en_stock": true
     },
     "layali-swiss-arabian-50ml-tester": {
@@ -1264,6 +1204,36 @@
       "nombre": "Eros Parfum VERSACE 100ml TESTER",
       "precio": "64,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/eros-parfum-versace-100ml-copia",
+      "en_stock": true
+    },
+    "eros-versace-eau-de-parfum-100ml-tester-1": {
+      "nombre": "Eros Versace Eau de Parfum 100ml TESTER",
+      "precio": "59,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-versace-eau-de-parfum-100ml-tester-1",
+      "en_stock": false
+    },
+    "eros-versace-eau-de-parfum-100ml-tester": {
+      "nombre": "Eros Versace Eau de Parfum Women 100ml TESTER",
+      "precio": "54,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-versace-eau-de-parfum-100ml-tester",
+      "en_stock": true
+    },
+    "juliette-has-a-gun-lady-vengeance-100ml-tester": {
+      "nombre": "Juliette Has A Gun Lady Vengeance 100ml TESTER",
+      "precio": "77,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/juliette-has-a-gun-lady-vengeance-100ml-tester",
+      "en_stock": true
+    },
+    "renaissance-xerjoff-100ml-copia": {
+      "nombre": "Renaissance Xerjoff 100ml TESTER",
+      "precio": "169,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/renaissance-xerjoff-100ml-copia",
+      "en_stock": true
+    },
+    "arabians-tonka-montale-100ml-tester": {
+      "nombre": "Arabians Tonka MONTALE 100ml TESTER",
+      "precio": "109,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/arabians-tonka-montale-100ml-tester",
       "en_stock": true
     },
     "polo-67-ralph-lauren-edt-125ml-tester": {
