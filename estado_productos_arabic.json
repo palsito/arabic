@@ -270,12 +270,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/oud-acqua-di-parma-tester-180ml",
       "en_stock": true
     },
-    "aoud-leather-montale-tester-100ml": {
-      "nombre": "Aoud Leather MONTALE 100ml TESTER",
-      "precio": "85,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/aoud-leather-montale-tester-100ml",
-      "en_stock": false
-    },
     "lucky-candy-montale-100ml-tester": {
       "nombre": "Lucky Candy MONTALE 100ml TESTER",
       "precio": "84,99 €",
@@ -286,6 +280,12 @@
       "nombre": "Shawq SWISS ARABIAN TESTER 50ml",
       "precio": "15,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/shawq-swiss-arabian-tester-50ml",
+      "en_stock": false
+    },
+    "oud-74-swiss-arabian-tester": {
+      "nombre": "Oud 74 SWISS ARABIAN TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/oud-74-swiss-arabian-tester",
       "en_stock": false
     },
     "ishq-swiss-arabian-50ml-tester": {
@@ -570,12 +570,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/musk-noir-al-haramain-12-ml-tester",
       "en_stock": true
     },
-    "musk-floral-al-haramain-12ml-tester": {
-      "nombre": "Musk Floral Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-floral-al-haramain-12ml-tester",
-      "en_stock": true
-    },
     "musk-collection-al-haramain-100ml-tester": {
       "nombre": "Musk Collection AL HARAMAIN 100ml TESTER",
       "precio": "31,99 €",
@@ -732,6 +726,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/azlan-oud-bleu-al-haramain-extrait-de-parfum-tester",
       "en_stock": false
     },
+    "tero-extrait-de-parfum-nishane-100ml-tester": {
+      "nombre": "Tero Extrait de Parfum NISHANE 100ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/tero-extrait-de-parfum-nishane-100ml-tester",
+      "en_stock": false
+    },
     "tero-extrait-de-parfum-nishane-tester": {
       "nombre": "Tero Extrait de Parfum NISHANE 50ml TESTER",
       "precio": "98,99 €",
@@ -766,7 +766,7 @@
       "nombre": "Damarose XERJOFF Tester",
       "precio": "299,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/damarose-xerjoff-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "yuzu-acqua-di-parma-100ml": {
       "nombre": "Yuzu ACQUA DI PARMA 100ml TESTER",
@@ -844,18 +844,6 @@
       "nombre": "Zafferano ACQUA DI PARMA 100ml TESTER",
       "precio": "129,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/zafferano-acqua-di-parma",
-      "en_stock": false
-    },
-    "ibiza-sunset-cafe-ramon-monegal-100ml-tester": {
-      "nombre": "Ibiza Sunset Cafe RAMON MONEGAL 100ml TESTER",
-      "precio": "102,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ibiza-sunset-cafe-ramon-monegal-100ml-tester",
-      "en_stock": true
-    },
-    "bitter-peach-tom-ford-50ml-tester": {
-      "nombre": "Bitter Peach TOM FORD 50ml Tester",
-      "precio": "189,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/bitter-peach-tom-ford-50ml-tester",
       "en_stock": false
     },
     "falcon-leather-extrait-de-parfum-matiere-premiere-tester": {
@@ -1002,36 +990,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/laventure-femme-al-haramain-200ml-tester",
       "en_stock": true
     },
-    "amber-oud-ruby-edition-al-hamarain-120ml-copia": {
-      "nombre": "Amber Oud Ruby Edition AL HAMARAIN 120ml TESTER",
-      "precio": "67,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-ruby-edition-al-hamarain-120ml-copia",
-      "en_stock": false
-    },
-    "osmanthus-acqua-di-parma-100ml-tester": {
-      "nombre": "Osmanthus ACQUA DI PARMA TESTER",
-      "precio": "99,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/osmanthus-acqua-di-parma-100ml-tester",
-      "en_stock": true
-    },
-    "patchouli-mania-essential-parfums-100ml-tester": {
-      "nombre": "Patchouli Mania ESSENTIAL PARFUMS Tester",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/patchouli-mania-essential-parfums-100ml-tester",
-      "en_stock": false
-    },
-    "fig-infusion-essential-parfums-100ml-tester": {
-      "nombre": "Fig Infusion ESSENTIAL PARFUMS Tester",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/fig-infusion-essential-parfums-100ml-tester",
-      "en_stock": false
-    },
-    "aoud-lime-montale-100ml-tester": {
-      "nombre": "Aoud Lime MONTALE 100ml TESTER",
-      "precio": "74,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/aoud-lime-montale-100ml-tester",
-      "en_stock": true
-    },
     "vanille-absolu-montale-100ml-tester": {
       "nombre": "Vanille Absolu MONTALE 100ml TESTER",
       "precio": "75,99 €",
@@ -1044,12 +1002,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/vanilla-extasy-montale-100ml-tester",
       "en_stock": true
     },
-    "starry-nights-montale-100ml-tester": {
-      "nombre": "Starry Nights MONTALE 100ml TESTER",
-      "precio": "74,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/starry-nights-montale-100ml-tester",
-      "en_stock": false
-    },
     "pikovaya-dama-xerjoff-100ml-tester": {
       "nombre": "Pikovaya Dama XERJOFF 100ml TESTER",
       "precio": "325,00 €",
@@ -1060,12 +1012,6 @@
       "nombre": "Dark Aoud MONTALE 100ml TESTER",
       "precio": "79,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/dark-aoud-montale-100ml-tester",
-      "en_stock": false
-    },
-    "amber-spices-montale-100ml-copia": {
-      "nombre": "Amber & Spices MONTALE 100ml TESTER",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-spices-montale-100ml-copia",
       "en_stock": false
     },
     "mango-manga-montale-100ml-tester": {
@@ -1144,6 +1090,48 @@
       "nombre": "Palo Santo CARNER BARCELONA 100ml TESTER",
       "precio": "107,00 €",
       "url": "https://arabicparfums.com/collections/tester/products/palo-santo-carner-barcelona-100ml-tester",
+      "en_stock": false
+    },
+    "d600-carner-barcelona-100ml-tester": {
+      "nombre": "D600 CARNER BARCELONA 100ml TESTER",
+      "precio": "92,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/d600-carner-barcelona-100ml-tester",
+      "en_stock": false
+    },
+    "bo-bo-carner-barcelona-100ml-tester": {
+      "nombre": "Bo Bo CARNER BARCELONA 100ml TESTER",
+      "precio": "92,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/bo-bo-carner-barcelona-100ml-tester",
+      "en_stock": false
+    },
+    "lafayette-street-bond-no-9-100ml-tester-sin-tapon": {
+      "nombre": "Lafayette Street BOND NO.9 100ml TESTER SIN TAPON",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/lafayette-street-bond-no-9-100ml-tester-sin-tapon",
+      "en_stock": false
+    },
+    "bleecker-street-bond-no-9-100ml-tester-sin-tapon": {
+      "nombre": "Bleecker Street BOND NO.9 100ml TESTER SIN TAPON",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/bleecker-street-bond-no-9-100ml-tester-sin-tapon",
+      "en_stock": false
+    },
+    "versace-man-eau-fraiche-eau-de-toilette-versace-100ml-tester": {
+      "nombre": "Versace Man Eau Fraiche Eau de Toilette VERSACE 100ml TESTER",
+      "precio": "42,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/versace-man-eau-fraiche-eau-de-toilette-versace-100ml-tester",
+      "en_stock": false
+    },
+    "eros-flame-eau-de-parfum-versace-100ml-tester": {
+      "nombre": "Eros Flame Eau de Parfum VERSACE 100ml TESTER",
+      "precio": "54,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-flame-eau-de-parfum-versace-100ml-tester",
+      "en_stock": false
+    },
+    "oud-maracuja-maison-crivelli-50ml-tester": {
+      "nombre": "Oud Maracuja MAISON CRIVELLI 50ml TESTER",
+      "precio": "194,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/oud-maracuja-maison-crivelli-50ml-tester",
       "en_stock": false
     },
     "blanche-bete-liquides-imaginaires-100ml-tester": {
