@@ -970,7 +970,7 @@
       "nombre": "Miami Shake JULIETTE HAS A GUN 100ml TESTER sin caja",
       "precio": "99,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/miami-shake-juliette-has-a-gun-100ml",
-      "en_stock": true
+      "en_stock": false
     },
     "torino-21-xerjoff-100ml-copia": {
       "nombre": "Torino 21 XERJOFF 100ml TESTER",
@@ -1132,6 +1132,24 @@
       "nombre": "Decas XERJOFF 100ml TESTER",
       "precio": "145,00 €",
       "url": "https://arabicparfums.com/collections/tester/products/decas-xerjoff-100ml-tester",
+      "en_stock": true
+    },
+    "sandalo-acqua-di-parma-100ml": {
+      "nombre": "Sandalo ACQUA DI PARMA TESTER",
+      "precio": "119,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/sandalo-acqua-di-parma-100ml",
+      "en_stock": true
+    },
+    "cipresso-di-toscana-acqua-di-parma-tester": {
+      "nombre": "Cipresso Di Toscana ACQUA DI PARMA TESTER",
+      "precio": "99,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/cipresso-di-toscana-acqua-di-parma-tester",
+      "en_stock": true
+    },
+    "alien-hypersense-mugler-90ml-tester": {
+      "nombre": "Alien Hypersense MUGLER 90ml TESTER",
+      "precio": "74,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/alien-hypersense-mugler-90ml-tester",
       "en_stock": true
     },
     "not-a-perfume-juliette-has-a-gun": {
