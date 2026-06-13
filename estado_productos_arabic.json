@@ -864,29 +864,11 @@
       "url": "https://arabicparfums.com/collections/tester/products/zafferano-acqua-di-parma",
       "en_stock": false
     },
-    "ole-ramon-monegal-100ml-tester-copia": {
-      "nombre": "Ole RAMON MONEGAL 50ml TESTER",
-      "precio": "112,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ole-ramon-monegal-100ml-tester-copia",
-      "en_stock": false
-    },
-    "ole-ramon-monegal-tester": {
-      "nombre": "Ole RAMON MONEGAL 100ml TESTER",
-      "precio": "154,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ole-ramon-monegal-tester",
-      "en_stock": false
-    },
     "ibiza-sunset-cafe-ramon-monegal-100ml-tester": {
       "nombre": "Ibiza Sunset Cafe RAMON MONEGAL 100ml TESTER",
       "precio": "102,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/ibiza-sunset-cafe-ramon-monegal-100ml-tester",
-      "en_stock": false
-    },
-    "ibiza-la-isla-blanca-ramon-monegal-100ml-tester": {
-      "nombre": "Ibiza La Isla Blanca RAMON MONEGAL 100ml TESTER",
-      "precio": "102,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ibiza-la-isla-blanca-ramon-monegal-100ml-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "bitter-peach-tom-ford-50ml-tester": {
       "nombre": "Bitter Peach TOM FORD 50ml Tester",
@@ -1438,24 +1420,6 @@
       "nombre": "Oud 07 SWISS ARABIAN TESTER 50ml",
       "precio": "74,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/oud-07-swiss-arabian-50ml-tester",
-      "en_stock": true
-    },
-    "spirit-of-valencia-swiss-arabian-100ml-tester": {
-      "nombre": "Spirit Of Valencia Swiss Arabian 100ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/spirit-of-valencia-swiss-arabian-100ml-tester",
-      "en_stock": false
-    },
-    "royal-mystery-swiss-arabian-100ml-tester": {
-      "nombre": "Royal Mystery SWISS ARABIAN 100ml TESTER",
-      "precio": "41,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/royal-mystery-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "intense-pride-swiss-arabian-100ml-tester": {
-      "nombre": "Intense Pride Swiss Arabian 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/intense-pride-swiss-arabian-100ml-tester",
       "en_stock": true
     },
     "imperial-arabia-swiss-arabian-100ml-tester": {
