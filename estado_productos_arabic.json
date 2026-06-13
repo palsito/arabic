@@ -738,6 +738,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/azlan-oud-bleu-al-haramain-extrait-de-parfum-tester",
       "en_stock": false
     },
+    "tero-extrait-de-parfum-nishane-100ml-tester": {
+      "nombre": "Tero Extrait de Parfum NISHANE 100ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/tero-extrait-de-parfum-nishane-100ml-tester",
+      "en_stock": false
+    },
     "tero-extrait-de-parfum-nishane-tester": {
       "nombre": "Tero Extrait de Parfum NISHANE 50ml TESTER",
       "precio": "98,99 €",
@@ -850,18 +856,6 @@
       "nombre": "Zafferano ACQUA DI PARMA 100ml TESTER",
       "precio": "129,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/zafferano-acqua-di-parma",
-      "en_stock": false
-    },
-    "ibiza-sunset-cafe-ramon-monegal-100ml-tester": {
-      "nombre": "Ibiza Sunset Cafe RAMON MONEGAL 100ml TESTER",
-      "precio": "102,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ibiza-sunset-cafe-ramon-monegal-100ml-tester",
-      "en_stock": true
-    },
-    "bitter-peach-tom-ford-50ml-tester": {
-      "nombre": "Bitter Peach TOM FORD 50ml Tester",
-      "precio": "189,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/bitter-peach-tom-ford-50ml-tester",
       "en_stock": false
     },
     "falcon-leather-extrait-de-parfum-matiere-premiere-tester": {
@@ -1390,54 +1384,6 @@
       "nombre": "Oud 07 SWISS ARABIAN TESTER 50ml",
       "precio": "74,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/oud-07-swiss-arabian-50ml-tester",
-      "en_stock": true
-    },
-    "spirit-of-valencia-swiss-arabian-100ml-tester": {
-      "nombre": "Spirit Of Valencia Swiss Arabian 100ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/spirit-of-valencia-swiss-arabian-100ml-tester",
-      "en_stock": false
-    },
-    "royal-mystery-swiss-arabian-100ml-tester": {
-      "nombre": "Royal Mystery SWISS ARABIAN 100ml TESTER",
-      "precio": "41,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/royal-mystery-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "intense-pride-swiss-arabian-100ml-tester": {
-      "nombre": "Intense Pride Swiss Arabian 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/intense-pride-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "imperial-arabia-swiss-arabian-100ml-tester": {
-      "nombre": "Imperial Arabia Swiss Arabian 100ml TESTER",
-      "precio": "21,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/imperial-arabia-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-la-recolte-parisienne-75ml-tester": {
-      "nombre": "Flower By Kenzo La Récolte Parisienne 75ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-la-recolte-parisienne-75ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester": {
-      "nombre": "Flower By Kenzo Ikebana Eau de Parfum 75ml TESTER",
-      "precio": "42,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester",
-      "en_stock": false
-    },
-    "flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower By Kenzo L'absolue Eau de Parfum 50ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower by Kenzo Poppy Bouquet Eau de Parfum 50ml TESTER",
-      "precio": "36,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-eau-de-parfum-50ml-tester": {
