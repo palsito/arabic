@@ -10,7 +10,7 @@
       "nombre": "Peonia Nobile ACQUA DI PARMA 100ml TESTER",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/peonia-nobile-aqua-di-parma",
-      "en_stock": false
+      "en_stock": true
     },
     "putain-des-palaces-etat-libre-dorange": {
       "nombre": "Putain des Palaces ETAT LIBRE D'ORANGE 100ml TESTER",
@@ -744,12 +744,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/azlan-oud-bleu-al-haramain-extrait-de-parfum-tester",
       "en_stock": false
     },
-    "tero-extrait-de-parfum-nishane-100ml-tester": {
-      "nombre": "Tero Extrait de Parfum NISHANE 100ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/tero-extrait-de-parfum-nishane-100ml-tester",
-      "en_stock": false
-    },
     "tero-extrait-de-parfum-nishane-tester": {
       "nombre": "Tero Extrait de Parfum NISHANE 50ml TESTER",
       "precio": "98,99 €",
@@ -863,6 +857,12 @@
       "precio": "129,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/zafferano-acqua-di-parma",
       "en_stock": false
+    },
+    "ibiza-sunset-cafe-ramon-monegal-100ml-tester": {
+      "nombre": "Ibiza Sunset Cafe RAMON MONEGAL 100ml TESTER",
+      "precio": "102,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/ibiza-sunset-cafe-ramon-monegal-100ml-tester",
+      "en_stock": true
     },
     "bitter-peach-tom-ford-50ml-tester": {
       "nombre": "Bitter Peach TOM FORD 50ml Tester",
