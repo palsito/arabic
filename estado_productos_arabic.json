@@ -1,5 +1,11 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "mahd-al-dhahab-arabiyat-prestige": {
+      "nombre": "Mahd Al Dhahab ARABIYAT PRESTIGE 100ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mahd-al-dhahab-arabiyat-prestige",
+      "en_stock": true
+    },
     "rosa-nobile-acqua-di-parma": {
       "nombre": "Rosa Nobile ACQUA DI PARMA 100ml TESTER",
       "precio": "109,99 €",
@@ -281,12 +287,6 @@
       "precio": "189,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/40-knots-xerjoff-100ml-tester",
       "en_stock": true
-    },
-    "shawq-swiss-arabian-tester-50ml": {
-      "nombre": "Shawq SWISS ARABIAN TESTER 50ml",
-      "precio": "15,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/shawq-swiss-arabian-tester-50ml",
-      "en_stock": false
     },
     "oud-74-swiss-arabian-tester": {
       "nombre": "Oud 74 SWISS ARABIAN TESTER",
