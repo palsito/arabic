@@ -868,7 +868,7 @@
       "nombre": "Ibiza Sunset Cafe RAMON MONEGAL 100ml TESTER",
       "precio": "102,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/ibiza-sunset-cafe-ramon-monegal-100ml-tester",
-      "en_stock": true
+      "en_stock": false
     },
     "bitter-peach-tom-ford-50ml-tester": {
       "nombre": "Bitter Peach TOM FORD 50ml Tester",
@@ -1096,7 +1096,7 @@
       "nombre": "Sandalo ACQUA DI PARMA TESTER",
       "precio": "119,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/sandalo-acqua-di-parma-100ml",
-      "en_stock": true
+      "en_stock": false
     },
     "cipresso-di-toscana-acqua-di-parma-tester": {
       "nombre": "Cipresso Di Toscana ACQUA DI PARMA TESTER",
