@@ -720,6 +720,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-black-edition-al-haramain-60ml-tester",
       "en_stock": true
     },
+    "mirto-di-panarea-la-riserva-acqua-di-parma-tester": {
+      "nombre": "Mirto di Panarea La Riserva ACQUA DI PARMA 100ml TESTER",
+      "precio": "106,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-tester",
+      "en_stock": true
+    },
+    "patchouli-leaves-montale": {
+      "nombre": "Patchouli Leaves MONTALE Tester",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/patchouli-leaves-montale",
+      "en_stock": false
+    },
     "oud-tobacco-montale-tester": {
       "nombre": "Oud Tobacco MONTALE Tester",
       "precio": "89,99 €",
@@ -1414,12 +1426,6 @@
       "nombre": "Flower By Kenzo L'absolue Eau de Parfum 50ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower by Kenzo Poppy Bouquet Eau de Parfum 50ml TESTER",
-      "precio": "36,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-eau-de-parfum-50ml-tester": {
