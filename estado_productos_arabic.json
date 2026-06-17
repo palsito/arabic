@@ -576,6 +576,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/destino-french-collection-al-haramain-100ml-tester",
       "en_stock": true
     },
+    "mystique-homme-al-haramain-100ml-tester": {
+      "nombre": "Mystique Homme AL HARAMAIN 100ml TESTER",
+      "precio": "11,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mystique-homme-al-haramain-100ml-tester",
+      "en_stock": true
+    },
     "mystique-femme-al-haramain-100ml-tester": {
       "nombre": "Mystique Femme AL HARAMAIN 100ml TESTER",
       "precio": "11,99 €",
@@ -1000,24 +1006,6 @@
       "nombre": "Amber Oud Ruby Edition AL HARAMAIN 60ml TESTER",
       "precio": "36,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-ruby-edition-al-haramain-60ml-tester",
-      "en_stock": false
-    },
-    "floral-fair-extrait-de-parfumal-haramain-100ml-copia": {
-      "nombre": "Floral Fair Extrait de ParfumAL HARAMAIN 100ml TESTER",
-      "precio": "53,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/floral-fair-extrait-de-parfumal-haramain-100ml-copia",
-      "en_stock": true
-    },
-    "laventure-femme-al-haramain-200ml-tester": {
-      "nombre": "L'aventure Femme AL HARAMAIN 200ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/laventure-femme-al-haramain-200ml-tester",
-      "en_stock": true
-    },
-    "amber-oud-ruby-edition-al-hamarain-120ml-copia": {
-      "nombre": "Amber Oud Ruby Edition AL HAMARAIN 120ml TESTER",
-      "precio": "67,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-ruby-edition-al-hamarain-120ml-copia",
       "en_stock": false
     },
     "osmanthus-acqua-di-parma-100ml-tester": {
