@@ -288,6 +288,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/vanilla-vibes-juliette-has-a-gun-tester-100ml",
       "en_stock": true
     },
+    "oud-acqua-di-parma-tester-180ml": {
+      "nombre": "Oud ACQUA DI PARMA 180ml TESTER",
+      "precio": "169,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/oud-acqua-di-parma-tester-180ml",
+      "en_stock": true
+    },
     "lucky-candy-montale-100ml-tester": {
       "nombre": "Lucky Candy MONTALE 100ml TESTER",
       "precio": "84,99 €",
@@ -502,7 +508,7 @@
       "nombre": "Mefisto Gentiluomo CASAMORATI XERJOFF 100ml TESTER",
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mefisto-gentiluomo-casamorati-xerjoff-100ml",
-      "en_stock": true
+      "en_stock": false
     },
     "mefisto-casamorati-1888-xerjoff-100ml-tester": {
       "nombre": "Mefisto Casamorati 1888 XERJOFF 100ml TESTER",
@@ -568,12 +574,6 @@
       "nombre": "Destino French Collection AL HARAMAIN 100ml TESTER",
       "precio": "37,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/destino-french-collection-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "mystique-homme-al-haramain-100ml-tester": {
-      "nombre": "Mystique Homme AL HARAMAIN 100ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mystique-homme-al-haramain-100ml-tester",
       "en_stock": true
     },
     "mystique-femme-al-haramain-100ml-tester": {
@@ -712,6 +712,24 @@
       "nombre": "Amber Oud Carbon Edition AL HARAMAIN 60ml TESTER",
       "precio": "36,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-carbon-edition-al-haramain-60ml-tester",
+      "en_stock": false
+    },
+    "amber-oud-black-edition-al-haramain-60ml-tester": {
+      "nombre": "Amber Oud Black Edition AL HARAMAIN 60ml TESTER",
+      "precio": "38,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-black-edition-al-haramain-60ml-tester",
+      "en_stock": true
+    },
+    "mirto-di-panarea-la-riserva-acqua-di-parma-tester": {
+      "nombre": "Mirto di Panarea La Riserva ACQUA DI PARMA 100ml TESTER",
+      "precio": "106,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-tester",
+      "en_stock": true
+    },
+    "patchouli-leaves-montale": {
+      "nombre": "Patchouli Leaves MONTALE Tester",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/patchouli-leaves-montale",
       "en_stock": false
     },
     "oud-tobacco-montale-tester": {
@@ -1270,6 +1288,12 @@
       "nombre": "Lira Casamorati 1888 Xerjoff 100ml TESTER",
       "precio": "149,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lira-casamorati-1888-xerjoff-100ml",
+      "en_stock": true
+    },
+    "arabians-tonka-montale-100ml-tester": {
+      "nombre": "Arabians Tonka MONTALE 100ml TESTER",
+      "precio": "109,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/arabians-tonka-montale-100ml-tester",
       "en_stock": true
     },
     "ambra-calabria-nishane": {
