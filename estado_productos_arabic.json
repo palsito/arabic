@@ -1,5 +1,17 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "kumkat-wood-mancera-120ml-copia": {
+      "nombre": "Kumkat Wood MANCERA 120ml TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/kumkat-wood-mancera-120ml-copia",
+      "en_stock": true
+    },
+    "gran-ballo-casamorati-xerjoff": {
+      "nombre": "Gran Ballo CASAMORATI - XERJOFF 100ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/gran-ballo-casamorati-xerjoff",
+      "en_stock": true
+    },
     "mahd-al-dhahab-arabiyat-prestige": {
       "nombre": "Mahd Al Dhahab ARABIYAT PRESTIGE 100ml TESTER",
       "precio": "39,99 €",
@@ -983,6 +995,18 @@
       "precio": "53,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/floral-fair-extrait-de-parfumal-haramain-100ml-copia",
       "en_stock": true
+    },
+    "laventure-femme-al-haramain-200ml-tester": {
+      "nombre": "L'aventure Femme AL HARAMAIN 200ml TESTER",
+      "precio": "49,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/laventure-femme-al-haramain-200ml-tester",
+      "en_stock": true
+    },
+    "amber-oud-ruby-edition-al-hamarain-120ml-copia": {
+      "nombre": "Amber Oud Ruby Edition AL HAMARAIN 120ml TESTER",
+      "precio": "67,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-ruby-edition-al-hamarain-120ml-copia",
+      "en_stock": false
     },
     "osmanthus-acqua-di-parma-100ml-tester": {
       "nombre": "Osmanthus ACQUA DI PARMA TESTER",
