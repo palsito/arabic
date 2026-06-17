@@ -502,7 +502,7 @@
       "nombre": "Mefisto Gentiluomo CASAMORATI XERJOFF 100ml TESTER",
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mefisto-gentiluomo-casamorati-xerjoff-100ml",
-      "en_stock": true
+      "en_stock": false
     },
     "mefisto-casamorati-1888-xerjoff-100ml-tester": {
       "nombre": "Mefisto Casamorati 1888 XERJOFF 100ml TESTER",
@@ -1426,6 +1426,12 @@
       "nombre": "Flower By Kenzo L'absolue Eau de Parfum 50ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester",
+      "en_stock": true
+    },
+    "flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester": {
+      "nombre": "Flower by Kenzo Poppy Bouquet Eau de Parfum 50ml TESTER",
+      "precio": "36,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-eau-de-parfum-50ml-tester": {
