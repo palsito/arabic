@@ -1,5 +1,29 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "portrait-of-a-lady-frederic-malle-100ml-copia": {
+      "nombre": "Portrait Of A Lady FREDERIC MALLE 100ml TESTER",
+      "precio": "249,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/portrait-of-a-lady-frederic-malle-100ml-copia",
+      "en_stock": true
+    },
+    "1872-feminine-clive-christian": {
+      "nombre": "1872 Feminine CLIVE CHRISTIAN 50ml TESTER",
+      "precio": "169,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/1872-feminine-clive-christian",
+      "en_stock": true
+    },
+    "kumkat-wood-mancera-120ml-copia": {
+      "nombre": "Kumkat Wood MANCERA 120ml TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/kumkat-wood-mancera-120ml-copia",
+      "en_stock": true
+    },
+    "gran-ballo-casamorati-xerjoff": {
+      "nombre": "Gran Ballo CASAMORATI - XERJOFF 100ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/gran-ballo-casamorati-xerjoff",
+      "en_stock": true
+    },
     "mahd-al-dhahab-arabiyat-prestige": {
       "nombre": "Mahd Al Dhahab ARABIYAT PRESTIGE 100ml TESTER",
       "precio": "39,99 €",
@@ -696,6 +720,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-black-edition-al-haramain-60ml-tester",
       "en_stock": true
     },
+    "mirto-di-panarea-la-riserva-acqua-di-parma-tester": {
+      "nombre": "Mirto di Panarea La Riserva ACQUA DI PARMA 100ml TESTER",
+      "precio": "106,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-tester",
+      "en_stock": true
+    },
+    "patchouli-leaves-montale": {
+      "nombre": "Patchouli Leaves MONTALE Tester",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/patchouli-leaves-montale",
+      "en_stock": false
+    },
     "oud-tobacco-montale-tester": {
       "nombre": "Oud Tobacco MONTALE Tester",
       "precio": "89,99 €",
@@ -1367,6 +1403,12 @@
       "precio": "49,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-la-recolte-parisienne-75ml-tester",
       "en_stock": true
+    },
+    "flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester": {
+      "nombre": "Flower By Kenzo Ikebana Eau de Parfum 75ml TESTER",
+      "precio": "42,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester",
+      "en_stock": false
     },
     "flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester": {
       "nombre": "Flower By Kenzo L'absolue Eau de Parfum 50ml TESTER",
