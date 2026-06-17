@@ -1,5 +1,23 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "1872-feminine-clive-christian": {
+      "nombre": "1872 Feminine CLIVE CHRISTIAN 50ml TESTER",
+      "precio": "169,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/1872-feminine-clive-christian",
+      "en_stock": true
+    },
+    "kumkat-wood-mancera-120ml-copia": {
+      "nombre": "Kumkat Wood MANCERA 120ml TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/kumkat-wood-mancera-120ml-copia",
+      "en_stock": true
+    },
+    "gran-ballo-casamorati-xerjoff": {
+      "nombre": "Gran Ballo CASAMORATI - XERJOFF 100ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/gran-ballo-casamorati-xerjoff",
+      "en_stock": true
+    },
     "mahd-al-dhahab-arabiyat-prestige": {
       "nombre": "Mahd Al Dhahab ARABIYAT PRESTIGE 100ml TESTER",
       "precio": "39,99 €",
@@ -268,12 +286,6 @@
       "nombre": "Vanilla Vibes JULIETTE HAS A GUN 100ml TESTER",
       "precio": "72,00 €",
       "url": "https://arabicparfums.com/collections/tester/products/vanilla-vibes-juliette-has-a-gun-tester-100ml",
-      "en_stock": true
-    },
-    "oud-acqua-di-parma-tester-180ml": {
-      "nombre": "Oud ACQUA DI PARMA 180ml TESTER",
-      "precio": "169,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-acqua-di-parma-tester-180ml",
       "en_stock": true
     },
     "lucky-candy-montale-100ml-tester": {
@@ -701,12 +713,6 @@
       "precio": "36,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-carbon-edition-al-haramain-60ml-tester",
       "en_stock": false
-    },
-    "amber-oud-black-edition-al-haramain-60ml-tester": {
-      "nombre": "Amber Oud Black Edition AL HARAMAIN 60ml TESTER",
-      "precio": "38,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-black-edition-al-haramain-60ml-tester",
-      "en_stock": true
     },
     "oud-tobacco-montale-tester": {
       "nombre": "Oud Tobacco MONTALE Tester",
@@ -1264,12 +1270,6 @@
       "nombre": "Lira Casamorati 1888 Xerjoff 100ml TESTER",
       "precio": "149,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lira-casamorati-1888-xerjoff-100ml",
-      "en_stock": true
-    },
-    "arabians-tonka-montale-100ml-tester": {
-      "nombre": "Arabians Tonka MONTALE 100ml TESTER",
-      "precio": "109,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/arabians-tonka-montale-100ml-tester",
       "en_stock": true
     },
     "ambra-calabria-nishane": {
