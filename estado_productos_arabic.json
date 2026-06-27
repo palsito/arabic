@@ -1308,12 +1308,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/lira-casamorati-1888-xerjoff-100ml",
       "en_stock": false
     },
-    "arabians-tonka-montale-100ml-tester": {
-      "nombre": "Arabians Tonka MONTALE 100ml TESTER",
-      "precio": "109,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/arabians-tonka-montale-100ml-tester",
-      "en_stock": false
-    },
     "ambra-calabria-nishane": {
       "nombre": "Ambra Calabria Nishane 50ml TESTER",
       "precio": "99,99 €",
@@ -1322,9 +1316,9 @@
     },
     "erab-pura-xerjoff-100ml-tester": {
       "nombre": "Erba Pura XERJOFF 100ml TESTER",
-      "precio": "167,99 €",
+      "precio": "179,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/erab-pura-xerjoff-100ml-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "la-vie-est-belle-leau-de-parfum-lancome-100ml-tester": {
       "nombre": "La Vie Est Belle L'eau de Parfum Lancôme 100ml TESTER",
