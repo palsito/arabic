@@ -876,12 +876,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/monsieur-frederic-malle-tester",
       "en_stock": true
     },
-    "ani-nishane-100ml-tester": {
-      "nombre": "Ani NISHANE 100ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ani-nishane-100ml-tester",
-      "en_stock": false
-    },
     "la-bomba-carolina-herrera": {
       "nombre": "La Bomba CAROLINA HERRERA Tester",
       "precio": "89,99 €",
@@ -1007,6 +1001,12 @@
       "precio": "33,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/bergamot-and-cedarwood-swiss-arabian-100ml-tester",
       "en_stock": true
+    },
+    "amber-oud-ruby-edition-al-haramain-60ml-tester": {
+      "nombre": "Amber Oud Ruby Edition AL HARAMAIN 60ml TESTER",
+      "precio": "36,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-ruby-edition-al-haramain-60ml-tester",
+      "en_stock": false
     },
     "floral-fair-extrait-de-parfumal-haramain-100ml-copia": {
       "nombre": "Floral Fair Extrait de ParfumAL HARAMAIN 100ml TESTER",
