@@ -48,6 +48,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/putain-des-palaces-etat-libre-dorange",
       "en_stock": true
     },
+    "ghost-in-the-shell-etat-libre-dorange": {
+      "nombre": "The Ghost In The Shell ETAT LIBRE D'ORANGE 100ml TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/ghost-in-the-shell-etat-libre-dorange",
+      "en_stock": true
+    },
     "ambre-sultan-serge-lutens-t": {
       "nombre": "Ambre Sultan SERGE LUTENS 50ml TESTER",
       "precio": "59,99 €",
@@ -1289,12 +1295,6 @@
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/renaissance-xerjoff-100ml-copia",
       "en_stock": true
-    },
-    "lira-casamorati-1888-xerjoff-100ml": {
-      "nombre": "Lira Casamorati 1888 Xerjoff 100ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/lira-casamorati-1888-xerjoff-100ml",
-      "en_stock": false
     },
     "ambra-calabria-nishane": {
       "nombre": "Ambra Calabria Nishane 50ml TESTER",
