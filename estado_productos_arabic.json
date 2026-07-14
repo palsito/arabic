@@ -948,6 +948,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/narcotic-delight-initio-90ml-tester",
       "en_stock": false
     },
+    "silver-mountain-water-creed": {
+      "nombre": "Silver Mountain Water CREED 100ml TESTER",
+      "precio": "219,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/silver-mountain-water-creed",
+      "en_stock": true
+    },
     "torino-24-xerjoff-50ml": {
       "nombre": "Torino 24 XERJOFF 50ml TESTER",
       "precio": "149,99 €",
@@ -1144,12 +1150,6 @@
       "nombre": "Alien Hypersense MUGLER 90ml TESTER",
       "precio": "63,74 €",
       "url": "https://arabicparfums.com/collections/tester/products/alien-hypersense-mugler-90ml-tester",
-      "en_stock": true
-    },
-    "not-a-perfume-juliette-has-a-gun": {
-      "nombre": "Not A Perfume JULIETTE HAS A GUN 100ml TESTER",
-      "precio": "59,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/not-a-perfume-juliette-has-a-gun",
       "en_stock": true
     },
     "cocaine-franck-boclet-100ml-tester": {
