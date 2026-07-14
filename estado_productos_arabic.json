@@ -432,6 +432,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/arancia-di-capri-la-riserva-acqua-di-parma-tester",
       "en_stock": false
     },
+    "my-devotion-intense-dolce-gabbana-100ml-tester": {
+      "nombre": "My Devotion Intense DOLCE & GABBANA - TESTER",
+      "precio": "94,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/my-devotion-intense-dolce-gabbana-100ml-tester",
+      "en_stock": false
+    },
     "bois-imperial-essential-parfums-tester": {
       "nombre": "Bois Imperial ESSENTIAL PARFUMS 100ml TESTER",
       "precio": "79,99 €",
@@ -856,6 +862,12 @@
       "nombre": "Sauvage Eau de Toilette DIOR Tester",
       "precio": "79,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/sauvage-eau-de-toilette-dior-tester",
+      "en_stock": false
+    },
+    "sauvage-eau-de-parfum-dior-tester": {
+      "nombre": "Sauvage Eau de Parfum DIOR Tester",
+      "precio": "89,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/sauvage-eau-de-parfum-dior-tester",
       "en_stock": false
     },
     "eau-dombre-leather-tom-ford": {
@@ -1283,6 +1295,12 @@
       "precio": "64,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/eros-parfum-versace-100ml-copia",
       "en_stock": true
+    },
+    "eros-versace-eau-de-parfum-100ml-tester-1": {
+      "nombre": "Eros Versace Eau de Parfum 100ml TESTER",
+      "precio": "59,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-versace-eau-de-parfum-100ml-tester-1",
+      "en_stock": false
     },
     "eros-versace-eau-de-parfum-100ml-tester": {
       "nombre": "Eros Versace Eau de Parfum Women 100ml TESTER",
