@@ -144,42 +144,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/melograno-fiorentino-teatro-fragranze-uniche-50ml",
       "en_stock": true
     },
-    "foglie-di-fico-teatro-fragranze-uniche-50ml": {
-      "nombre": "Foglie di Fico - Ambientador en Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/foglie-di-fico-teatro-fragranze-uniche-50ml",
-      "en_stock": true
-    },
-    "fiore-teatro-fragranze-uniche-50ml": {
-      "nombre": "Fiore - Ambientador Spary TEATRO FRAGRANZE UNICHE 50ml TESTER",
-      "precio": "13,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/fiore-teatro-fragranze-uniche-50ml",
-      "en_stock": true
-    },
-    "ceresia-ambientador-spray-teatro-fragranze-uniche": {
-      "nombre": "Ceresia - Ambientador Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
-      "precio": "14,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ceresia-ambientador-spray-teatro-fragranze-uniche",
-      "en_stock": true
-    },
-    "borgo-degli-agrumi-teatro-fragranze-uniche-50ml": {
-      "nombre": "Borgo degli Agrumi - Ambientador en Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/borgo-degli-agrumi-teatro-fragranze-uniche-50ml",
-      "en_stock": true
-    },
-    "bianco-divino-ambientador-spray-teatro-fragranze-niche": {
-      "nombre": "Bianco Divino - Ambientador Spray TEATRO FRAGRANZE NICHE 50ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/bianco-divino-ambientador-spray-teatro-fragranze-niche",
-      "en_stock": true
-    },
-    "wulong-cha-nishane": {
-      "nombre": "Wulong Cha NISHANE 100ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/wulong-cha-nishane",
-      "en_stock": false
-    },
     "yuzu-acqua-di-parma-180ml": {
       "nombre": "Yuzu ACQUA DI PARMA 180ml TESTER",
       "precio": "159,99 €",
@@ -244,7 +208,7 @@
       "nombre": "Darcy PARFUMS DE MARLY Tester",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/darcy-parfums-de-marly",
-      "en_stock": false
+      "en_stock": true
     },
     "pegasus-exclusif-parfums-de-marly-tester-125ml": {
       "nombre": "Pegasus Exclusif PARFUMS DE MARLY 125ml TESTER",
