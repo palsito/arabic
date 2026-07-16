@@ -144,42 +144,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/melograno-fiorentino-teatro-fragranze-uniche-50ml",
       "en_stock": true
     },
-    "foglie-di-fico-teatro-fragranze-uniche-50ml": {
-      "nombre": "Foglie di Fico - Ambientador en Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/foglie-di-fico-teatro-fragranze-uniche-50ml",
-      "en_stock": true
-    },
-    "fiore-teatro-fragranze-uniche-50ml": {
-      "nombre": "Fiore - Ambientador Spary TEATRO FRAGRANZE UNICHE 50ml TESTER",
-      "precio": "13,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/fiore-teatro-fragranze-uniche-50ml",
-      "en_stock": true
-    },
-    "ceresia-ambientador-spray-teatro-fragranze-uniche": {
-      "nombre": "Ceresia - Ambientador Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
-      "precio": "14,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ceresia-ambientador-spray-teatro-fragranze-uniche",
-      "en_stock": true
-    },
-    "borgo-degli-agrumi-teatro-fragranze-uniche-50ml": {
-      "nombre": "Borgo degli Agrumi - Ambientador en Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/borgo-degli-agrumi-teatro-fragranze-uniche-50ml",
-      "en_stock": true
-    },
-    "bianco-divino-ambientador-spray-teatro-fragranze-niche": {
-      "nombre": "Bianco Divino - Ambientador Spray TEATRO FRAGRANZE NICHE 50ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/bianco-divino-ambientador-spray-teatro-fragranze-niche",
-      "en_stock": true
-    },
-    "wulong-cha-nishane": {
-      "nombre": "Wulong Cha NISHANE 100ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/wulong-cha-nishane",
-      "en_stock": false
-    },
     "yuzu-acqua-di-parma-180ml": {
       "nombre": "Yuzu ACQUA DI PARMA 180ml TESTER",
       "precio": "159,99 €",
@@ -288,6 +252,42 @@
       "url": "https://arabicparfums.com/collections/tester/products/tero-extrait-de-patfum-nishane-copia",
       "en_stock": true
     },
+    "eau-de-givenchy-givenchy-tester-100ml": {
+      "nombre": "Eau de Givenchy GIVENCHY 100ml TESTER",
+      "precio": "44,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eau-de-givenchy-givenchy-tester-100ml",
+      "en_stock": true
+    },
+    "reve-lotus-kenzo-tester": {
+      "nombre": "Rêve Lotus KENZO 75ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/reve-lotus-kenzo-tester",
+      "en_stock": false
+    },
+    "jeu-damour-kenzo-tester": {
+      "nombre": "Jeu D'Amour KENZO 50ml TESTER",
+      "precio": "49,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/jeu-damour-kenzo-tester",
+      "en_stock": true
+    },
+    "leau-par-kenzo-pour-homme-kenzo-tester-100ml": {
+      "nombre": "L'Eau Pour Homme KENZO 100ml TESTER",
+      "precio": "29,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/leau-par-kenzo-pour-homme-kenzo-tester-100ml",
+      "en_stock": false
+    },
+    "kenzo-world-kenzo-tester-75ml": {
+      "nombre": "Kenzo World KENZO TESTER 75ml",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/kenzo-world-kenzo-tester-75ml",
+      "en_stock": true
+    },
+    "encens-lumiere-kenzo-tester-75ml": {
+      "nombre": "Encens Lumiere KENZO TESTER 75ml",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/encens-lumiere-kenzo-tester-75ml",
+      "en_stock": false
+    },
     "nuit-tatami-kenzo-tester-75ml": {
       "nombre": "Nuit Tatami KENZO 75ml TESTER",
       "precio": "39,99 €",
@@ -330,6 +330,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/40-knots-xerjoff-100ml-tester",
       "en_stock": true
     },
+    "wild-spirit-swiss-arabian-tester-100ml": {
+      "nombre": "Wild Spirit SWISS ARABIAN TESTER 100ml",
+      "precio": "42,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/wild-spirit-swiss-arabian-tester-100ml",
+      "en_stock": true
+    },
+    "passion-of-venice-extrait-de-parfum-swiss-arabian-100ml-tester": {
+      "nombre": "Passion of Venice Extrait de Parfum SWISS ARABIAN 100ml TESTER",
+      "precio": "77,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/passion-of-venice-extrait-de-parfum-swiss-arabian-100ml-tester",
+      "en_stock": false
+    },
     "shawq-swiss-arabian-tester-50ml": {
       "nombre": "Shawq SWISS ARABIAN TESTER 50ml",
       "precio": "15,99 €",
@@ -358,6 +370,12 @@
       "nombre": "Hayaam SWISS ARABIAN 50ml TESTER",
       "precio": "54,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/hayaam-swiss-arabian-50ml-tester",
+      "en_stock": true
+    },
+    "aventus-cologne-creed": {
+      "nombre": "Aventus Cologne CREED 100ml TESTER",
+      "precio": "239,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/aventus-cologne-creed",
       "en_stock": true
     },
     "la-danza-delle-libellule-exceptional-edition-nobile-1942-75ml": {
@@ -664,60 +682,6 @@
       "nombre": "Green Dubai AL HARAMAIN 100ml TESTER",
       "precio": "38,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/green-dubai-extrait-de-parfum-al-haramain-100ml",
-      "en_stock": true
-    },
-    "farasha-al-haramain-100ml": {
-      "nombre": "Farasha Al HARAMAIN 100ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/farasha-al-haramain-100ml",
-      "en_stock": true
-    },
-    "dunes-of-dubai-perfume-oil-al-haramain-12ml": {
-      "nombre": "Dunes of Dubai Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "9,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/dunes-of-dubai-perfume-oil-al-haramain-12ml",
-      "en_stock": true
-    },
-    "belle-rouge-al-haramain-75ml-tester": {
-      "nombre": "Belle Rouge AL HARAMAIN TESTER",
-      "precio": "15,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/belle-rouge-al-haramain-75ml-tester",
-      "en_stock": true
-    },
-    "belle-al-haramain-tester": {
-      "nombre": "Belle AL HARAMAIN TESTER",
-      "precio": "15,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/belle-al-haramain-tester",
-      "en_stock": true
-    },
-    "areej-al-oud-al-haramain-tester": {
-      "nombre": "Areej Al Oud AL HARAMAIN TESTER",
-      "precio": "15,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/areej-al-oud-al-haramain-tester",
-      "en_stock": true
-    },
-    "amber-oud-tobacco-edition-al-haramain": {
-      "nombre": "Amber Oud Tobacco Edition AL HARAMAIN 60ml TESTER",
-      "precio": "33,14 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-tobacco-edition-al-haramain",
-      "en_stock": true
-    },
-    "amber-oud-rouge-al-haramain-60ml-tester": {
-      "nombre": "Amber Oud Rouge AL HARAMAIN 60ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-rouge-al-haramain-60ml-tester",
-      "en_stock": false
-    },
-    "amber-oud-ruby-edition-al-hamarain-100ml-tester": {
-      "nombre": "Amber Oud Ruby Edition AL HAMARAIN 100ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-ruby-edition-al-hamarain-100ml-tester",
-      "en_stock": false
-    },
-    "amber-oud-private-edition-al-haramain-60ml-tester": {
-      "nombre": "Amber Oud Private Edition AL HARAMAIN 60ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-private-edition-al-haramain-60ml-tester",
       "en_stock": true
     },
     "amber-oud-private-edition-al-haramain-120ml-tester": {
@@ -1096,96 +1060,6 @@
       "nombre": "Fig Infusion ESSENTIAL PARFUMS Tester",
       "precio": "69,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/fig-infusion-essential-parfums-100ml-tester",
-      "en_stock": false
-    },
-    "aoud-lime-montale-100ml-tester": {
-      "nombre": "Aoud Lime MONTALE 100ml TESTER",
-      "precio": "74,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/aoud-lime-montale-100ml-tester",
-      "en_stock": true
-    },
-    "vanille-absolu-montale-100ml-tester": {
-      "nombre": "Vanille Absolu MONTALE 100ml TESTER",
-      "precio": "75,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/vanille-absolu-montale-100ml-tester",
-      "en_stock": true
-    },
-    "vanilla-extasy-montale-100ml-tester": {
-      "nombre": "Vanilla Extasy MONTALE 100ml TESTER",
-      "precio": "75,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/vanilla-extasy-montale-100ml-tester",
-      "en_stock": false
-    },
-    "alexandria-ii-xerjoff-100ml": {
-      "nombre": "Alexandria II XERJOFF 100ml TESTER",
-      "precio": "319,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/alexandria-ii-xerjoff-100ml",
-      "en_stock": true
-    },
-    "pikovaya-dama-xerjoff-100ml-tester": {
-      "nombre": "Pikovaya Dama XERJOFF 100ml TESTER",
-      "precio": "325,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/pikovaya-dama-xerjoff-100ml-tester",
-      "en_stock": true
-    },
-    "dark-aoud-montale-100ml-tester": {
-      "nombre": "Dark Aoud MONTALE 100ml TESTER",
-      "precio": "79,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/dark-aoud-montale-100ml-tester",
-      "en_stock": false
-    },
-    "mango-manga-montale-100ml-tester": {
-      "nombre": "Mango Manga MONTALE 100ml TESTER",
-      "precio": "73,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mango-manga-montale-100ml-tester",
-      "en_stock": true
-    },
-    "leau-revee-disa-eau-de-toilette-sisley-100ml-tester": {
-      "nombre": "L'eau Revee D'Isa Eau de Toilette SISLEY 100ml TESTER",
-      "precio": "69,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/leau-revee-disa-eau-de-toilette-sisley-100ml-tester",
-      "en_stock": true
-    },
-    "leau-revee-dikar-eau-de-toilette-sisley-100ml-tester": {
-      "nombre": "L'eau Revee D'Ikar Eau de Toilette SISLEY 100ml TESTER",
-      "precio": "69,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/leau-revee-dikar-eau-de-toilette-sisley-100ml-tester",
-      "en_stock": true
-    },
-    "leau-revee-dalma-eau-de-toilette-sisley-100ml-tester": {
-      "nombre": "L'eau Revee D'alma Eau de Toilette SISLEY 100ml TESTER",
-      "precio": "66,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/leau-revee-dalma-eau-de-toilette-sisley-100ml-tester",
-      "en_stock": false
-    },
-    "alien-goddess-intense-mugler-eau-de-parfum-60ml-tester": {
-      "nombre": "Alien Goddess Intense Eau de Parfum 60ml  MUGLER - TESTER",
-      "precio": "58,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/alien-goddess-intense-mugler-eau-de-parfum-60ml-tester",
-      "en_stock": false
-    },
-    "decas-xerjoff-100ml-tester": {
-      "nombre": "Decas XERJOFF 100ml TESTER",
-      "precio": "145,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/decas-xerjoff-100ml-tester",
-      "en_stock": false
-    },
-    "pi-givenchy-eau-de-toilette-100ml-tester": {
-      "nombre": "Pi GIVENCHY Eau de Toilette 100ml TESTER",
-      "precio": "44,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/pi-givenchy-eau-de-toilette-100ml-tester",
-      "en_stock": false
-    },
-    "sandalo-acqua-di-parma-100ml": {
-      "nombre": "Sandalo ACQUA DI PARMA TESTER",
-      "precio": "119,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/sandalo-acqua-di-parma-100ml",
-      "en_stock": false
-    },
-    "cipresso-di-toscana-acqua-di-parma-tester": {
-      "nombre": "Cipresso Di Toscana ACQUA DI PARMA TESTER",
-      "precio": "99,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/cipresso-di-toscana-acqua-di-parma-tester",
       "en_stock": false
     },
     "alien-hypersense-mugler-90ml-tester": {
