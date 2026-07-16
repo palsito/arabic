@@ -288,6 +288,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/ege-extrait-de-parfum-nishane-copia",
       "en_stock": true
     },
+    "tero-extrait-de-patfum-nishane-copia": {
+      "nombre": "Tero Extrait de Patfum NISHANE 100ml TESTER",
+      "precio": "189,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/tero-extrait-de-patfum-nishane-copia",
+      "en_stock": true
+    },
+    "wulong-cha-x-extrait-de-parfum-nishane": {
+      "nombre": "Wulong Cha X NISHANE 100ml TESTER",
+      "precio": "169,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/wulong-cha-x-extrait-de-parfum-nishane",
+      "en_stock": true
+    },
     "eau-de-givenchy-givenchy-tester-100ml": {
       "nombre": "Eau de Givenchy GIVENCHY 100ml TESTER",
       "precio": "44,99 €",
@@ -562,6 +574,18 @@
       "nombre": "L'Aventure Gold AL HARAMAIN 100ml TESTER",
       "precio": "32,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/laventure-gold-al-haramain-100ml-tester",
+      "en_stock": false
+    },
+    "khuasat-al-oudh-alharamain-100ml-tester": {
+      "nombre": "Khulasat Al Oudh ALHARAMAIN 100ml TESTER",
+      "precio": "16,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/khuasat-al-oudh-alharamain-100ml-tester",
+      "en_stock": false
+    },
+    "azure-french-collection-al-haramain-100ml-tester": {
+      "nombre": "Azure French Collection AL HARAMAIN 100ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/azure-french-collection-al-haramain-100ml-tester",
       "en_stock": false
     },
     "mefisto-gentiluomo-casamorati-xerjoff-100ml": {
@@ -984,6 +1008,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/zest-di-sorrento-simone-andreoli-100ml-tester",
       "en_stock": true
     },
+    "cuirs-carner-barcelona-100ml-tester": {
+      "nombre": "Cuirs CARNER BARCELONA 100ml TESTER",
+      "precio": "109,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/cuirs-carner-barcelona-100ml-tester",
+      "en_stock": true
+    },
+    "layali-rouge-swiss-arabian-15ml-tester": {
+      "nombre": "Layali Rouge SWISS ARABIAN 15ml TESTER",
+      "precio": "22,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/layali-rouge-swiss-arabian-15ml-tester",
+      "en_stock": false
+    },
     "layali-swiss-arabian-15ml-tester": {
       "nombre": "Layali SWISS ARABIAN 15ml TESTER",
       "precio": "22,99 €",
@@ -1200,11 +1236,11 @@
       "url": "https://arabicparfums.com/collections/tester/products/alien-goddess-intense-mugler-eau-de-parfum-60ml-tester",
       "en_stock": false
     },
-    "decas-xerjoff-100ml-tester": {
+    "decas-xerjoff": {
       "nombre": "Decas XERJOFF 100ml TESTER",
-      "precio": "145,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/decas-xerjoff-100ml-tester",
-      "en_stock": false
+      "precio": "139,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/decas-xerjoff",
+      "en_stock": true
     },
     "pi-givenchy-eau-de-toilette-100ml-tester": {
       "nombre": "Pi GIVENCHY Eau de Toilette 100ml TESTER",
@@ -1309,7 +1345,7 @@
       "en_stock": false
     },
     "more-than-words-xerjoff-100ml-tester": {
-      "nombre": "More Than Words Xerjoff 100ml TESTER",
+      "nombre": "More Than Words XERJOFF 100ml TESTER",
       "precio": "179,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/more-than-words-xerjoff-100ml-tester",
       "en_stock": true
@@ -1546,6 +1582,18 @@
       "nombre": "Intense Pride Swiss Arabian 100ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/intense-pride-swiss-arabian-100ml-tester",
+      "en_stock": true
+    },
+    "imperial-arabia-swiss-arabian-100ml-tester": {
+      "nombre": "Imperial Arabia Swiss Arabian 100ml TESTER",
+      "precio": "21,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/imperial-arabia-swiss-arabian-100ml-tester",
+      "en_stock": true
+    },
+    "flower-by-kenzo-la-recolte-parisienne-75ml-tester": {
+      "nombre": "Flower By Kenzo La Récolte Parisienne 75ml TESTER",
+      "precio": "49,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-la-recolte-parisienne-75ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester": {
