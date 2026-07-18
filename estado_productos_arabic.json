@@ -342,6 +342,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
       "en_stock": false
     },
+    "velvet-vanilla-mancera-tester-120ml": {
+      "nombre": "Velvet Vanilla MANCERA 120ml TESTER",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/velvet-vanilla-mancera-tester-120ml",
+      "en_stock": false
+    },
     "groove-xcape-xerjoff-tester-50ml": {
       "nombre": "Groove Xcape XERJOFF TESTER 50ml",
       "precio": "169,99 €",
@@ -426,12 +432,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/la-danza-delle-libellule-exceptional-edition-nobile-1942-75ml",
       "en_stock": false
     },
-    "mandarino-laboratorio-olfattivo-100ml": {
-      "nombre": "Mandarino LABORATORIO OLFATTIVO 100ml TESTER",
-      "precio": "89,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mandarino-laboratorio-olfattivo-100ml",
-      "en_stock": true
-    },
     "bergamotto-laboratorio-olfattivo-100ml-tester": {
       "nombre": "Bergamotto LABORATORIO OLFATTIVO 100ml TESTER",
       "precio": "89,99 €",
@@ -473,12 +473,6 @@
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-180ml-tester-copia",
       "en_stock": true
-    },
-    "mandarino-di-sicilia-acqua-di-parma-100ml-tester": {
-      "nombre": "Mandarino di Sicilia ACQUA DI PARMA - TESTER",
-      "precio": "78,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mandarino-di-sicilia-acqua-di-parma-100ml-tester",
-      "en_stock": false
     },
     "bergamotto-di-calabria-acqua-di-parma-100ml-tester": {
       "nombre": "Bergamotto di Calabria ACQUA DI PARMA 100ml - TESTER",
@@ -574,6 +568,12 @@
       "nombre": "Azure French Collection AL HARAMAIN 100ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/azure-french-collection-al-haramain-100ml-tester",
+      "en_stock": false
+    },
+    "mefisto-gentiluomo-casamorati-xerjoff-100ml": {
+      "nombre": "Mefisto Gentiluomo CASAMORATI XERJOFF 100ml TESTER",
+      "precio": "169,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mefisto-gentiluomo-casamorati-xerjoff-100ml",
       "en_stock": false
     },
     "mefisto-casamorati-1888-xerjoff-100ml-tester": {
@@ -1002,12 +1002,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/layali-rouge-swiss-arabian-15ml-tester",
       "en_stock": false
     },
-    "layali-swiss-arabian-15ml-tester": {
-      "nombre": "Layali SWISS ARABIAN 15ml TESTER",
-      "precio": "22,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/layali-swiss-arabian-15ml-tester",
-      "en_stock": false
-    },
     "eros-energy-pour-homme-versace": {
       "nombre": "Eros Energy Pour homme VERSACE Tester",
       "precio": "59,99 €",
@@ -1144,6 +1138,12 @@
       "nombre": "Patchouli Mania ESSENTIAL PARFUMS Tester",
       "precio": "69,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/patchouli-mania-essential-parfums-100ml-tester",
+      "en_stock": false
+    },
+    "fig-infusion-essential-parfums-100ml-tester": {
+      "nombre": "Fig Infusion ESSENTIAL PARFUMS Tester",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/fig-infusion-essential-parfums-100ml-tester",
       "en_stock": false
     },
     "aoud-lime-montale-100ml-tester": {
