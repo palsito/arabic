@@ -1,5 +1,17 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "the-tragedy-of-lord-george-penhaligons": {
+      "nombre": "The Tragedy of Lord George PENHALIGON'S 75ml TESTER",
+      "precio": "219,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/the-tragedy-of-lord-george-penhaligons",
+      "en_stock": true
+    },
+    "the-omniscient-miste-thompson-penhaligons": {
+      "nombre": "The Omniscient Miste Thompson PENHALIGON'S 75ml TESTER",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/the-omniscient-miste-thompson-penhaligons",
+      "en_stock": true
+    },
     "the-inimitable-william-penhaligons": {
       "nombre": "The Inimitable William PENHALIGON'S 75ml TESTER",
       "precio": "199,99 €",
@@ -282,6 +294,42 @@
       "url": "https://arabicparfums.com/collections/tester/products/pegasus-exclusif-parfums-de-marly-tester-125ml",
       "en_stock": true
     },
+    "halfeti-penhaligons": {
+      "nombre": "Halfeti PENHALIGON'S 100ml TESTER",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/halfeti-penhaligons",
+      "en_stock": true
+    },
+    "madison-avenue-bond-no-9-tester-100ml": {
+      "nombre": "Madison Avenue BOND NO.9 100ml TESTER",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/madison-avenue-bond-no-9-tester-100ml",
+      "en_stock": true
+    },
+    "le-male-lover-jean-paul-gaultier-tester-125ml": {
+      "nombre": "Le Male Lover JEAN PAUL GAULTIER 125ml TESTER",
+      "precio": "89,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/le-male-lover-jean-paul-gaultier-tester-125ml",
+      "en_stock": false
+    },
+    "le-male-le-parfum-jean-paul-gaultier-tester-125ml": {
+      "nombre": "Le Male Le Parfum JEAN PAUL GAULTIER 125ml TESTER",
+      "precio": "59,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/le-male-le-parfum-jean-paul-gaultier-tester-125ml",
+      "en_stock": false
+    },
+    "tartine-chocolate-ptimusc-tartine-et-chocolat-tester-100ml": {
+      "nombre": "Tartine & Chocolate Ptimusc GIVENCHY 100ml TESTER",
+      "precio": "24,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/tartine-chocolate-ptimusc-tartine-et-chocolat-tester-100ml",
+      "en_stock": false
+    },
+    "ege-extrait-de-parfum-nishane-copia": {
+      "nombre": "Ege Extrait de Parfum NISHANE 100ml TESTER",
+      "precio": "144,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/ege-extrait-de-parfum-nishane-copia",
+      "en_stock": true
+    },
     "tero-extrait-de-patfum-nishane-copia": {
       "nombre": "Tero Extrait de Patfum NISHANE 100ml TESTER",
       "precio": "189,99 €",
@@ -336,12 +384,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
       "en_stock": false
     },
-    "velvet-vanilla-mancera-tester-120ml": {
-      "nombre": "Velvet Vanilla MANCERA 120ml TESTER",
-      "precio": "79,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/velvet-vanilla-mancera-tester-120ml",
-      "en_stock": false
-    },
     "groove-xcape-xerjoff-tester-50ml": {
       "nombre": "Groove Xcape XERJOFF TESTER 50ml",
       "precio": "169,99 €",
@@ -388,12 +430,6 @@
       "nombre": "Shawq SWISS ARABIAN TESTER 50ml",
       "precio": "15,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/shawq-swiss-arabian-tester-50ml",
-      "en_stock": false
-    },
-    "oud-74-swiss-arabian-tester": {
-      "nombre": "Oud 74 SWISS ARABIAN TESTER",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-74-swiss-arabian-tester",
       "en_stock": false
     },
     "ishq-swiss-arabian-50ml-tester": {
@@ -828,6 +864,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/duro-nasomatto-tester",
       "en_stock": false
     },
+    "sauvage-eau-forte-dior-100ml-tester": {
+      "nombre": "Sauvage Eau Forte DIOR 100ml TESTER",
+      "precio": "98,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/sauvage-eau-forte-dior-100ml-tester",
+      "en_stock": true
+    },
     "azlan-oud-bleu-al-haramain-extrait-de-parfum-tester": {
       "nombre": "Azlan Oud Bleu AL HARAMAIN TESTER",
       "precio": "55,99 €",
@@ -958,12 +1000,6 @@
       "nombre": "Larmes du Desert ATELIER DES ORS 100ml TESTER",
       "precio": "129,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/larmes-du-desert-atelier-des-ors-100ml-tester",
-      "en_stock": true
-    },
-    "rose-omeyyade-atelier-des-ors-100ml-tester": {
-      "nombre": "Rose Omeyyade ATELIER DES ORS 100ml TESTER",
-      "precio": "129,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/rose-omeyyade-atelier-des-ors-100ml-tester",
       "en_stock": true
     },
     "eight-bob-original-100ml-tester": {
@@ -1254,6 +1290,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/palo-santo-carner-barcelona-100ml-tester",
       "en_stock": false
     },
+    "d600-carner-barcelona-100ml-tester": {
+      "nombre": "D600 CARNER BARCELONA 100ml TESTER",
+      "precio": "92,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/d600-carner-barcelona-100ml-tester",
+      "en_stock": false
+    },
     "bo-bo-carner-barcelona-100ml-tester": {
       "nombre": "Bo Bo CARNER BARCELONA 100ml TESTER",
       "precio": "92,00 €",
@@ -1384,18 +1426,6 @@
       "nombre": "Renaissance Xerjoff 100ml TESTER",
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/renaissance-xerjoff-100ml-copia",
-      "en_stock": true
-    },
-    "lira-casamorati-1888-xerjoff-100ml": {
-      "nombre": "Lira Casamorati 1888 Xerjoff 100ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/lira-casamorati-1888-xerjoff-100ml",
-      "en_stock": false
-    },
-    "delina-parfums-de-marly-75ml-tester": {
-      "nombre": "Delina PARFUMS DE MARLY 75ml TESTER",
-      "precio": "219,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/delina-parfums-de-marly-75ml-tester",
       "en_stock": true
     },
     "pegasus-parfums-de-marly-125ml-tester": {
@@ -1540,18 +1570,6 @@
       "nombre": "Intense Pride Swiss Arabian 100ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/intense-pride-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "imperial-arabia-swiss-arabian-100ml-tester": {
-      "nombre": "Imperial Arabia Swiss Arabian 100ml TESTER",
-      "precio": "21,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/imperial-arabia-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-la-recolte-parisienne-75ml-tester": {
-      "nombre": "Flower By Kenzo La Récolte Parisienne 75ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-la-recolte-parisienne-75ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester": {
