@@ -342,12 +342,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
       "en_stock": false
     },
-    "velvet-vanilla-mancera-tester-120ml": {
-      "nombre": "Velvet Vanilla MANCERA 120ml TESTER",
-      "precio": "79,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/velvet-vanilla-mancera-tester-120ml",
-      "en_stock": false
-    },
     "groove-xcape-xerjoff-tester-50ml": {
       "nombre": "Groove Xcape XERJOFF TESTER 50ml",
       "precio": "169,99 €",
@@ -492,12 +486,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/bergamotto-di-calabria-acqua-di-parma-100ml-tester",
       "en_stock": true
     },
-    "arancia-di-capri-la-riserva-acqua-di-parma-tester": {
-      "nombre": "Arancia di Capri La Riserva ACQUA DI PARMA 100ml TESTER",
-      "precio": "117,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/arancia-di-capri-la-riserva-acqua-di-parma-tester",
-      "en_stock": false
-    },
     "my-devotion-intense-dolce-gabbana-100ml-tester": {
       "nombre": "My Devotion Intense DOLCE & GABBANA - TESTER",
       "precio": "94,99 €",
@@ -574,6 +562,18 @@
       "nombre": "L'Aventure Gold AL HARAMAIN 100ml TESTER",
       "precio": "32,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/laventure-gold-al-haramain-100ml-tester",
+      "en_stock": false
+    },
+    "khuasat-al-oudh-alharamain-100ml-tester": {
+      "nombre": "Khulasat Al Oudh ALHARAMAIN 100ml TESTER",
+      "precio": "16,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/khuasat-al-oudh-alharamain-100ml-tester",
+      "en_stock": false
+    },
+    "azure-french-collection-al-haramain-100ml-tester": {
+      "nombre": "Azure French Collection AL HARAMAIN 100ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/azure-french-collection-al-haramain-100ml-tester",
       "en_stock": false
     },
     "mefisto-gentiluomo-casamorati-xerjoff-100ml": {
@@ -851,6 +851,18 @@
       "precio": "98,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/tero-extrait-de-parfum-nishane-tester",
       "en_stock": false
+    },
+    "aqua-di-gio-pour-homme-parfum-armani-tester": {
+      "nombre": "Aqua di Gio Pour Homme Parfum ARMANI Tester",
+      "precio": "64,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/aqua-di-gio-pour-homme-parfum-armani-tester",
+      "en_stock": false
+    },
+    "acqua-di-gio-pour-homme-elixir-armani": {
+      "nombre": "Acqua di Gio Pour Homme Elixir ARMANI - TESTER",
+      "precio": "69,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/acqua-di-gio-pour-homme-elixir-armani",
+      "en_stock": true
     },
     "colonia-essenza-acqua-di-parma-180ml-tester": {
       "nombre": "Colonia Essenza ACQUA DI PARMA 180ml TESTER",
