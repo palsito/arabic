@@ -1134,24 +1134,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-ruby-edition-al-hamarain-120ml-copia",
       "en_stock": false
     },
-    "osmanthus-acqua-di-parma-100ml-tester": {
-      "nombre": "Osmanthus ACQUA DI PARMA TESTER",
-      "precio": "99,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/osmanthus-acqua-di-parma-100ml-tester",
-      "en_stock": true
-    },
-    "patchouli-mania-essential-parfums-100ml-tester": {
-      "nombre": "Patchouli Mania ESSENTIAL PARFUMS Tester",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/patchouli-mania-essential-parfums-100ml-tester",
-      "en_stock": false
-    },
-    "fig-infusion-essential-parfums-100ml-tester": {
-      "nombre": "Fig Infusion ESSENTIAL PARFUMS Tester",
-      "precio": "69,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/fig-infusion-essential-parfums-100ml-tester",
-      "en_stock": false
-    },
     "aoud-lime-montale-100ml-tester": {
       "nombre": "Aoud Lime MONTALE 100ml TESTER",
       "precio": "74,99 €",
@@ -1236,12 +1218,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/sandalo-acqua-di-parma-100ml",
       "en_stock": false
     },
-    "cipresso-di-toscana-acqua-di-parma-tester": {
-      "nombre": "Cipresso Di Toscana ACQUA DI PARMA TESTER",
-      "precio": "99,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/cipresso-di-toscana-acqua-di-parma-tester",
-      "en_stock": false
-    },
     "alien-hypersense-mugler-90ml-tester": {
       "nombre": "Alien Hypersense MUGLER 90ml TESTER",
       "precio": "63,74 €",
@@ -1294,6 +1270,12 @@
       "nombre": "Bleecker Street BOND NO.9 100ml TESTER SIN TAPON",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/bleecker-street-bond-no-9-100ml-tester-sin-tapon",
+      "en_stock": false
+    },
+    "versace-man-eau-fraiche-eau-de-toilette-versace-100ml-tester": {
+      "nombre": "Versace Man Eau Fraiche Eau de Toilette VERSACE 100ml TESTER",
+      "precio": "42,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/versace-man-eau-fraiche-eau-de-toilette-versace-100ml-tester",
       "en_stock": false
     },
     "eros-flame-eau-de-parfum-versace-100ml-tester": {
