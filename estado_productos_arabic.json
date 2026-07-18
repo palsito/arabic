@@ -576,24 +576,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/laventure-gold-al-haramain-100ml-tester",
       "en_stock": false
     },
-    "khuasat-al-oudh-alharamain-100ml-tester": {
-      "nombre": "Khulasat Al Oudh ALHARAMAIN 100ml TESTER",
-      "precio": "16,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/khuasat-al-oudh-alharamain-100ml-tester",
-      "en_stock": false
-    },
-    "azure-french-collection-al-haramain-100ml-tester": {
-      "nombre": "Azure French Collection AL HARAMAIN 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/azure-french-collection-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "mefisto-gentiluomo-casamorati-xerjoff-100ml": {
-      "nombre": "Mefisto Gentiluomo CASAMORATI XERJOFF 100ml TESTER",
-      "precio": "169,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mefisto-gentiluomo-casamorati-xerjoff-100ml",
-      "en_stock": false
-    },
     "mefisto-casamorati-1888-xerjoff-100ml-tester": {
       "nombre": "Mefisto Casamorati 1888 XERJOFF 100ml TESTER",
       "precio": "159,99 €",
@@ -1146,6 +1128,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/amber-oud-ruby-edition-al-hamarain-120ml-copia",
       "en_stock": false
     },
+    "patchouli-mania-essential-parfums-100ml-tester": {
+      "nombre": "Patchouli Mania ESSENTIAL PARFUMS Tester",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/patchouli-mania-essential-parfums-100ml-tester",
+      "en_stock": false
+    },
     "fig-infusion-essential-parfums-100ml-tester": {
       "nombre": "Fig Infusion ESSENTIAL PARFUMS Tester",
       "precio": "69,99 €",
@@ -1282,12 +1270,6 @@
       "nombre": "Lafayette Street BOND NO.9 100ml TESTER SIN TAPON",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lafayette-street-bond-no-9-100ml-tester-sin-tapon",
-      "en_stock": false
-    },
-    "bleecker-street-bond-no-9-100ml-tester-sin-tapon": {
-      "nombre": "Bleecker Street BOND NO.9 100ml TESTER SIN TAPON",
-      "precio": "199,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/bleecker-street-bond-no-9-100ml-tester-sin-tapon",
       "en_stock": false
     },
     "versace-man-eau-fraiche-eau-de-toilette-versace-100ml-tester": {
@@ -1432,6 +1414,12 @@
       "nombre": "Yulali Swiss Arabian 15ml TESTER",
       "precio": "22,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/yulali-swiss-arabian-15ml-tester",
+      "en_stock": false
+    },
+    "erab-pura-xerjoff-100ml-tester": {
+      "nombre": "Erba Pura XERJOFF 100ml TESTER",
+      "precio": "179,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/erab-pura-xerjoff-100ml-tester",
       "en_stock": false
     },
     "red-tobacco-mancera-120ml-tester": {
