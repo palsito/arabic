@@ -1,5 +1,11 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "the-inimitable-william-penhaligons": {
+      "nombre": "The Inimitable William PENHALIGON'S 75ml TESTER",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/the-inimitable-william-penhaligons",
+      "en_stock": true
+    },
     "the-blazing-mister-sam-penhaligons": {
       "nombre": "The Blazing Mister Sam PENHALIGON'S 75ml TESTER",
       "precio": "229,99 €",
@@ -138,24 +144,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/black-orchid-reserve-tom-ford",
       "en_stock": true
     },
-    "noir-extreme-tom-ford": {
-      "nombre": "Noir Extreme Parfum TOM FORD - TESTER",
-      "precio": "129,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/noir-extreme-tom-ford",
-      "en_stock": false
-    },
-    "costa-azzura-parfum-tom-ford": {
-      "nombre": "Costa Azzurra Parfum TOM FORD - TESTER",
-      "precio": "129,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/costa-azzura-parfum-tom-ford",
-      "en_stock": false
-    },
-    "nero-divino-teatro-fragranze-uniche-50ml": {
-      "nombre": "Nero Divino - Ambientador en spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/nero-divino-teatro-fragranze-uniche-50ml",
-      "en_stock": true
-    },
     "melograno-fiorentino-teatro-fragranze-uniche-50ml": {
       "nombre": "Melograno Fiorentino - Ambientador Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
       "precio": "12,99 €",
@@ -270,12 +258,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/pegasus-exclusif-parfums-de-marly-tester-125ml",
       "en_stock": true
     },
-    "halfeti-penhaligons": {
-      "nombre": "Halfeti PENHALIGON'S 100ml TESTER",
-      "precio": "199,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/halfeti-penhaligons",
-      "en_stock": true
-    },
     "madison-avenue-bond-no-9-tester-100ml": {
       "nombre": "Madison Avenue BOND NO.9 100ml TESTER",
       "precio": "199,99 €",
@@ -358,6 +340,12 @@
       "nombre": "Nuit Tatami KENZO 75ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
+      "en_stock": false
+    },
+    "velvet-vanilla-mancera-tester-120ml": {
+      "nombre": "Velvet Vanilla MANCERA 120ml TESTER",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/velvet-vanilla-mancera-tester-120ml",
       "en_stock": false
     },
     "groove-xcape-xerjoff-tester-50ml": {
@@ -858,6 +846,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/azlan-oud-bleu-al-haramain-extrait-de-parfum-tester",
       "en_stock": false
     },
+    "tero-extrait-de-parfum-nishane-tester": {
+      "nombre": "Tero Extrait de Parfum NISHANE 50ml TESTER",
+      "precio": "98,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/tero-extrait-de-parfum-nishane-tester",
+      "en_stock": false
+    },
     "aqua-di-gio-pour-homme-parfum-armani-tester": {
       "nombre": "Aqua di Gio Pour Homme Parfum ARMANI Tester",
       "precio": "64,99 €",
@@ -1284,6 +1278,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/bo-bo-carner-barcelona-100ml-tester",
       "en_stock": false
     },
+    "lafayette-street-bond-no-9-100ml-tester-sin-tapon": {
+      "nombre": "Lafayette Street BOND NO.9 100ml TESTER SIN TAPON",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/lafayette-street-bond-no-9-100ml-tester-sin-tapon",
+      "en_stock": false
+    },
     "bleecker-street-bond-no-9-100ml-tester-sin-tapon": {
       "nombre": "Bleecker Street BOND NO.9 100ml TESTER SIN TAPON",
       "precio": "199,99 €",
@@ -1564,6 +1564,12 @@
       "nombre": "Imperial Arabia Swiss Arabian 100ml TESTER",
       "precio": "21,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/imperial-arabia-swiss-arabian-100ml-tester",
+      "en_stock": true
+    },
+    "flower-by-kenzo-la-recolte-parisienne-75ml-tester": {
+      "nombre": "Flower By Kenzo La Récolte Parisienne 75ml TESTER",
+      "precio": "49,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-la-recolte-parisienne-75ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester": {
