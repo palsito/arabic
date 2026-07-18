@@ -432,6 +432,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/shawq-swiss-arabian-tester-50ml",
       "en_stock": false
     },
+    "oud-74-swiss-arabian-tester": {
+      "nombre": "Oud 74 SWISS ARABIAN TESTER",
+      "precio": "69,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/oud-74-swiss-arabian-tester",
+      "en_stock": false
+    },
     "ishq-swiss-arabian-50ml-tester": {
       "nombre": "Ishq SWISS ARABIAN 50ml TESTER",
       "precio": "59,99 €",
@@ -1002,6 +1008,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/larmes-du-desert-atelier-des-ors-100ml-tester",
       "en_stock": true
     },
+    "rose-omeyyade-atelier-des-ors-100ml-tester": {
+      "nombre": "Rose Omeyyade ATELIER DES ORS 100ml TESTER",
+      "precio": "129,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/rose-omeyyade-atelier-des-ors-100ml-tester",
+      "en_stock": true
+    },
     "eight-bob-original-100ml-tester": {
       "nombre": "Eight & Bob Original 100ml TESTER",
       "precio": "99,99 €",
@@ -1570,6 +1582,18 @@
       "nombre": "Intense Pride Swiss Arabian 100ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/intense-pride-swiss-arabian-100ml-tester",
+      "en_stock": true
+    },
+    "imperial-arabia-swiss-arabian-100ml-tester": {
+      "nombre": "Imperial Arabia Swiss Arabian 100ml TESTER",
+      "precio": "21,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/imperial-arabia-swiss-arabian-100ml-tester",
+      "en_stock": true
+    },
+    "flower-by-kenzo-la-recolte-parisienne-75ml-tester": {
+      "nombre": "Flower By Kenzo La Récolte Parisienne 75ml TESTER",
+      "precio": "49,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-la-recolte-parisienne-75ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester": {
