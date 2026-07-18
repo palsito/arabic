@@ -144,6 +144,30 @@
       "url": "https://arabicparfums.com/collections/tester/products/black-orchid-reserve-tom-ford",
       "en_stock": true
     },
+    "noir-extreme-tom-ford": {
+      "nombre": "Noir Extreme Parfum TOM FORD - TESTER",
+      "precio": "129,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/noir-extreme-tom-ford",
+      "en_stock": false
+    },
+    "oud-minerale-tom-ford": {
+      "nombre": "Oud Minerale TOM FORD 100ml TESTER",
+      "precio": "119,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/oud-minerale-tom-ford",
+      "en_stock": true
+    },
+    "costa-azzura-parfum-tom-ford": {
+      "nombre": "Costa Azzurra Parfum TOM FORD - TESTER",
+      "precio": "129,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/costa-azzura-parfum-tom-ford",
+      "en_stock": false
+    },
+    "nero-divino-teatro-fragranze-uniche-50ml": {
+      "nombre": "Nero Divino - Ambientador en spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
+      "precio": "12,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/nero-divino-teatro-fragranze-uniche-50ml",
+      "en_stock": true
+    },
     "melograno-fiorentino-teatro-fragranze-uniche-50ml": {
       "nombre": "Melograno Fiorentino - Ambientador Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
       "precio": "12,99 €",
@@ -258,6 +282,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/pegasus-exclusif-parfums-de-marly-tester-125ml",
       "en_stock": true
     },
+    "halfeti-penhaligons": {
+      "nombre": "Halfeti PENHALIGON'S 100ml TESTER",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/halfeti-penhaligons",
+      "en_stock": true
+    },
     "madison-avenue-bond-no-9-tester-100ml": {
       "nombre": "Madison Avenue BOND NO.9 100ml TESTER",
       "precio": "199,99 €",
@@ -340,12 +370,6 @@
       "nombre": "Nuit Tatami KENZO 75ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
-      "en_stock": false
-    },
-    "velvet-vanilla-mancera-tester-120ml": {
-      "nombre": "Velvet Vanilla MANCERA 120ml TESTER",
-      "precio": "79,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/velvet-vanilla-mancera-tester-120ml",
       "en_stock": false
     },
     "groove-xcape-xerjoff-tester-50ml": {
@@ -551,36 +575,6 @@
       "precio": "11,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/miracle-al-haramain-15ml-tester",
       "en_stock": true
-    },
-    "maze-al-haramain-50ml-tester": {
-      "nombre": "Maze AL HARAMAIN 50ml TESTER",
-      "precio": "16,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/maze-al-haramain-50ml-tester",
-      "en_stock": false
-    },
-    "laventure-gold-al-haramain-100ml-tester": {
-      "nombre": "L'Aventure Gold AL HARAMAIN 100ml TESTER",
-      "precio": "32,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/laventure-gold-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "khuasat-al-oudh-alharamain-100ml-tester": {
-      "nombre": "Khulasat Al Oudh ALHARAMAIN 100ml TESTER",
-      "precio": "16,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/khuasat-al-oudh-alharamain-100ml-tester",
-      "en_stock": false
-    },
-    "azure-french-collection-al-haramain-100ml-tester": {
-      "nombre": "Azure French Collection AL HARAMAIN 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/azure-french-collection-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "mefisto-gentiluomo-casamorati-xerjoff-100ml": {
-      "nombre": "Mefisto Gentiluomo CASAMORATI XERJOFF 100ml TESTER",
-      "precio": "169,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mefisto-gentiluomo-casamorati-xerjoff-100ml",
-      "en_stock": false
     },
     "mefisto-casamorati-1888-xerjoff-100ml-tester": {
       "nombre": "Mefisto Casamorati 1888 XERJOFF 100ml TESTER",
@@ -1558,18 +1552,6 @@
       "nombre": "Intense Pride Swiss Arabian 100ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/intense-pride-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "imperial-arabia-swiss-arabian-100ml-tester": {
-      "nombre": "Imperial Arabia Swiss Arabian 100ml TESTER",
-      "precio": "21,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/imperial-arabia-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-la-recolte-parisienne-75ml-tester": {
-      "nombre": "Flower By Kenzo La Récolte Parisienne 75ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-la-recolte-parisienne-75ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester": {
