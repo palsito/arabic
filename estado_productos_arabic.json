@@ -342,6 +342,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
       "en_stock": false
     },
+    "velvet-vanilla-mancera-tester-120ml": {
+      "nombre": "Velvet Vanilla MANCERA 120ml TESTER",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/velvet-vanilla-mancera-tester-120ml",
+      "en_stock": false
+    },
     "groove-xcape-xerjoff-tester-50ml": {
       "nombre": "Groove Xcape XERJOFF TESTER 50ml",
       "precio": "169,99 €",
@@ -425,12 +431,6 @@
       "precio": "119,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/la-danza-delle-libellule-exceptional-edition-nobile-1942-75ml",
       "en_stock": false
-    },
-    "mandarino-laboratorio-olfattivo-100ml": {
-      "nombre": "Mandarino LABORATORIO OLFATTIVO 100ml TESTER",
-      "precio": "89,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mandarino-laboratorio-olfattivo-100ml",
-      "en_stock": true
     },
     "bergamotto-laboratorio-olfattivo-100ml-tester": {
       "nombre": "Bergamotto LABORATORIO OLFATTIVO 100ml TESTER",
@@ -1558,18 +1558,6 @@
       "nombre": "Intense Pride Swiss Arabian 100ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/intense-pride-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "imperial-arabia-swiss-arabian-100ml-tester": {
-      "nombre": "Imperial Arabia Swiss Arabian 100ml TESTER",
-      "precio": "21,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/imperial-arabia-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-la-recolte-parisienne-75ml-tester": {
-      "nombre": "Flower By Kenzo La Récolte Parisienne 75ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-la-recolte-parisienne-75ml-tester",
       "en_stock": true
     },
     "flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester": {
