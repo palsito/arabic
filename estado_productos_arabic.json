@@ -282,6 +282,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/darcy-parfums-de-marly",
       "en_stock": false
     },
+    "pegasus-exclusif-parfums-de-marly-tester-125ml": {
+      "nombre": "Pegasus Exclusif PARFUMS DE MARLY 125ml TESTER",
+      "precio": "209,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/pegasus-exclusif-parfums-de-marly-tester-125ml",
+      "en_stock": true
+    },
     "halfeti-penhaligons": {
       "nombre": "Halfeti PENHALIGON'S 100ml TESTER",
       "precio": "199,99 €",
@@ -850,12 +856,6 @@
       "nombre": "Pardon NASOMATTO Tester",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/pardon-nasomatto-tester",
-      "en_stock": false
-    },
-    "duro-nasomatto-tester": {
-      "nombre": "Duro NASOMATTO Tester",
-      "precio": "109,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/duro-nasomatto-tester",
       "en_stock": false
     },
     "sauvage-eau-forte-dior-100ml-tester": {
@@ -1570,12 +1570,6 @@
       "nombre": "Spirit Of Valencia Swiss Arabian 100ml TESTER",
       "precio": "49,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/spirit-of-valencia-swiss-arabian-100ml-tester",
-      "en_stock": false
-    },
-    "royal-mystery-swiss-arabian-100ml-tester": {
-      "nombre": "Royal Mystery SWISS ARABIAN 100ml TESTER",
-      "precio": "41,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/royal-mystery-swiss-arabian-100ml-tester",
       "en_stock": false
     },
     "intense-pride-swiss-arabian-100ml-tester": {
