@@ -48,12 +48,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/molecule-01-escentric-molecules",
       "en_stock": false
     },
-    "viking-creed": {
-      "nombre": "Viking CREED 100ml TESTER",
-      "precio": "239,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/viking-creed",
-      "en_stock": true
-    },
     "original-santal-creed": {
       "nombre": "Original Santal CREED 100ml TESTER",
       "precio": "189,99 €",
@@ -142,6 +136,12 @@
       "nombre": "The Ghost In The Shell ETAT LIBRE D'ORANGE 100ml TESTER",
       "precio": "69,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/ghost-in-the-shell-etat-libre-dorange",
+      "en_stock": true
+    },
+    "ambre-sultan-serge-lutens-t": {
+      "nombre": "Ambre Sultan SERGE LUTENS 50ml TESTER",
+      "precio": "59,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/ambre-sultan-serge-lutens-t",
       "en_stock": true
     },
     "black-orchid-reserve-tom-ford": {
@@ -1288,6 +1288,12 @@
       "nombre": "Tardes CARNER BARCELONA 100ml TESTER",
       "precio": "92,00 €",
       "url": "https://arabicparfums.com/collections/tester/products/tardes-carner-barcelona-100ml",
+      "en_stock": false
+    },
+    "palo-santo-carner-barcelona-100ml-tester": {
+      "nombre": "Palo Santo CARNER BARCELONA 100ml TESTER",
+      "precio": "107,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/palo-santo-carner-barcelona-100ml-tester",
       "en_stock": false
     },
     "d600-carner-barcelona-100ml-tester": {
