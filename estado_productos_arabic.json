@@ -870,12 +870,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/sauvage-eau-forte-dior-100ml-tester",
       "en_stock": true
     },
-    "azlan-oud-bleu-al-haramain-extrait-de-parfum-tester": {
-      "nombre": "Azlan Oud Bleu AL HARAMAIN TESTER",
-      "precio": "55,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/azlan-oud-bleu-al-haramain-extrait-de-parfum-tester",
-      "en_stock": false
-    },
     "tero-extrait-de-parfum-nishane-tester": {
       "nombre": "Tero Extrait de Parfum NISHANE 50ml TESTER",
       "precio": "98,99 €",
@@ -1067,12 +1061,6 @@
       "precio": "149,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/torino-22-xerjoff-50ml-tester",
       "en_stock": true
-    },
-    "miami-shake-juliette-has-a-gun-100ml": {
-      "nombre": "Miami Shake JULIETTE HAS A GUN 100ml TESTER sin caja",
-      "precio": "99,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/miami-shake-juliette-has-a-gun-100ml",
-      "en_stock": false
     },
     "hacivat-nishane-100ml-tester": {
       "nombre": "Hacivat NISHANE 100ml TESTER",
@@ -1272,12 +1260,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/alien-hypersense-mugler-90ml-tester",
       "en_stock": true
     },
-    "not-a-perfume-juliette-has-a-gun": {
-      "nombre": "Not A Perfume JULIETTE HAS A GUN 100ml TESTER",
-      "precio": "59,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/not-a-perfume-juliette-has-a-gun",
-      "en_stock": false
-    },
     "cocaine-franck-boclet-100ml-tester": {
       "nombre": "Cocaïne FRANCK BOCLET 100ml TESTER",
       "precio": "79,99 €",
@@ -1294,6 +1276,24 @@
       "nombre": "Palo Santo CARNER BARCELONA 100ml TESTER",
       "precio": "107,00 €",
       "url": "https://arabicparfums.com/collections/tester/products/palo-santo-carner-barcelona-100ml-tester",
+      "en_stock": false
+    },
+    "d600-carner-barcelona-100ml-tester": {
+      "nombre": "D600 CARNER BARCELONA 100ml TESTER",
+      "precio": "92,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/d600-carner-barcelona-100ml-tester",
+      "en_stock": false
+    },
+    "bo-bo-carner-barcelona-100ml-tester": {
+      "nombre": "Bo Bo CARNER BARCELONA 100ml TESTER",
+      "precio": "92,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/bo-bo-carner-barcelona-100ml-tester",
+      "en_stock": false
+    },
+    "lafayette-street-bond-no-9-100ml-tester-sin-tapon": {
+      "nombre": "Lafayette Street BOND NO.9 100ml TESTER SIN TAPON",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/lafayette-street-bond-no-9-100ml-tester-sin-tapon",
       "en_stock": false
     },
     "bleecker-street-bond-no-9-100ml-tester-sin-tapon": {
