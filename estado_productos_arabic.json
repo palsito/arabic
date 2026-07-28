@@ -102,12 +102,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/kumkat-wood-mancera-120ml-copia",
       "en_stock": false
     },
-    "gran-ballo-casamorati-xerjoff": {
-      "nombre": "Gran Ballo CASAMORATI - XERJOFF 100ml TESTER",
-      "precio": "149,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/gran-ballo-casamorati-xerjoff",
-      "en_stock": false
-    },
     "mahd-al-dhahab-arabiyat-prestige": {
       "nombre": "Mahd Al Dhahab ARABIYAT PRESTIGE 100ml TESTER",
       "precio": "39,99 €",
@@ -402,12 +396,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/lucky-candy-montale-100ml-tester",
       "en_stock": false
     },
-    "40-knots-xerjoff-100ml-tester": {
-      "nombre": "40 knots XERJOFF 100ml TESTER",
-      "precio": "189,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/40-knots-xerjoff-100ml-tester",
-      "en_stock": false
-    },
     "wild-spirit-swiss-arabian-tester-100ml": {
       "nombre": "Wild Spirit SWISS ARABIAN TESTER 100ml",
       "precio": "42,99 €",
@@ -606,23 +594,11 @@
       "url": "https://arabicparfums.com/collections/tester/products/azure-french-collection-al-haramain-100ml-tester",
       "en_stock": false
     },
-    "mefisto-gentiluomo-casamorati-xerjoff-100ml": {
-      "nombre": "Mefisto Gentiluomo CASAMORATI XERJOFF 100ml TESTER",
-      "precio": "169,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mefisto-gentiluomo-casamorati-xerjoff-100ml",
-      "en_stock": false
-    },
     "mefisto-casamorati-1888-xerjoff-100ml-tester": {
       "nombre": "Mefisto Casamorati 1888 XERJOFF 100ml TESTER",
       "precio": "159,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mefisto-casamorati-1888-xerjoff-100ml-tester",
       "en_stock": true
-    },
-    "italica-casamorati-xerjoff-100m": {
-      "nombre": "Italica CASAMORATI - XERJOFF 100ml TESTER",
-      "precio": "159,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/italica-casamorati-xerjoff-100m",
-      "en_stock": false
     },
     "xplore-sapphire-al-haramain-100ml-tester": {
       "nombre": "Xplore Sapphire AL HARAMAIN 100ml TESTER",
@@ -900,12 +876,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-acqua-di-parma-180ml-tester",
       "en_stock": true
     },
-    "damarose-xerjoff-tester": {
-      "nombre": "Damarose XERJOFF Tester",
-      "precio": "299,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/damarose-xerjoff-tester",
-      "en_stock": false
-    },
     "yuzu-acqua-di-parma-100ml": {
       "nombre": "Yuzu ACQUA DI PARMA 100ml TESTER",
       "precio": "109,99 €",
@@ -1067,12 +1037,6 @@
       "precio": "179,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/hacivat-nishane-100ml-tester",
       "en_stock": true
-    },
-    "torino-21-xerjoff-100ml-copia": {
-      "nombre": "Torino 21 XERJOFF 100ml TESTER",
-      "precio": "219,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/torino-21-xerjoff-100ml-copia",
-      "en_stock": false
     },
     "zefiro-xerjoff-100ml-copia": {
       "nombre": "Zefiro Xerjoff 100ml TESTER",
@@ -1294,6 +1258,12 @@
       "nombre": "Lafayette Street BOND NO.9 100ml TESTER SIN TAPON",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lafayette-street-bond-no-9-100ml-tester-sin-tapon",
+      "en_stock": false
+    },
+    "bleecker-street-bond-no-9-100ml-tester-sin-tapon": {
+      "nombre": "Bleecker Street BOND NO.9 100ml TESTER SIN TAPON",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/bleecker-street-bond-no-9-100ml-tester-sin-tapon",
       "en_stock": false
     },
     "versace-man-eau-fraiche-eau-de-toilette-versace-100ml-tester": {
