@@ -1,5 +1,11 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "replica-by-the-fireplace-maison-margiela": {
+      "nombre": "Replica By The Fireplace MAISON MARGIELA 100ml TESTER",
+      "precio": "84,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/replica-by-the-fireplace-maison-margiela",
+      "en_stock": true
+    },
     "the-tragedy-of-lord-george-penhaligons": {
       "nombre": "The Tragedy of Lord George PENHALIGON'S 75ml TESTER",
       "precio": "219,99 €",
@@ -425,6 +431,12 @@
       "precio": "59,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/ishq-swiss-arabian-50ml-tester",
       "en_stock": true
+    },
+    "musk-07-swiss-arabian-50ml-tester": {
+      "nombre": "Musk 07 SWISS ARABIAN 50ml TESTER",
+      "precio": "44,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/musk-07-swiss-arabian-50ml-tester",
+      "en_stock": false
     },
     "hayaam-swiss-arabian-50ml-tester": {
       "nombre": "Hayaam SWISS ARABIAN 50ml TESTER",
