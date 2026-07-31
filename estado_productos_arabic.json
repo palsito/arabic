@@ -1,5 +1,11 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "viking-cologne-creed": {
+      "nombre": "Viking Cologne CREED 100ml TESTER",
+      "precio": "199,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/viking-cologne-creed",
+      "en_stock": true
+    },
     "replica-by-the-fireplace-maison-margiela": {
       "nombre": "Replica By The Fireplace MAISON MARGIELA 100ml TESTER",
       "precio": "84,99 €",
@@ -1289,12 +1295,6 @@
       "precio": "69,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/hindu-kush-mancera-120ml-copia",
       "en_stock": true
-    },
-    "oud-maracuja-maison-crivelli-50ml-tester": {
-      "nombre": "Oud Maracuja MAISON CRIVELLI 50ml TESTER",
-      "precio": "194,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-maracuja-maison-crivelli-50ml-tester",
-      "en_stock": false
     },
     "more-than-words-xerjoff-100ml-tester": {
       "nombre": "More Than Words XERJOFF 100ml TESTER",
