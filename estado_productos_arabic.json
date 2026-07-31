@@ -546,12 +546,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/holy-neroli-montale-100ml-tester",
       "en_stock": true
     },
-    "shaghaf-oud-tonka-swiss-arabian-75ml-tester": {
-      "nombre": "Shaghaf Oud Tonka SWISS ARABIAN 75ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/shaghaf-oud-tonka-swiss-arabian-75ml-tester",
-      "en_stock": false
-    },
     "amber-oud-carbon-edition-al-haramain-100ml-tester": {
       "nombre": "Amber Oud Carbon Edition AL HARAMAIN 100ml TESTER",
       "precio": "39,99 €",
@@ -719,12 +713,6 @@
       "precio": "38,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/miracle-dubai-al-haramain-tester",
       "en_stock": true
-    },
-    "madinah-al-haramain-100ml-tester": {
-      "nombre": "Madinah AL HARAMAIN 100ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/madinah-al-haramain-100ml-tester",
-      "en_stock": false
     },
     "laventure-rose-al-haramain-100ml": {
       "nombre": "L'aventure Rose Al HARAMAIN 100ml TESTER",
@@ -1616,7 +1604,7 @@
     },
     "casablanca-swiss-arabian-100ml-tester": {
       "nombre": "Casablanca SWISS ARABIAN 100ml TESTER",
-      "precio": "35,99 €",
+      "precio": "29,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/casablanca-swiss-arabian-100ml-tester",
       "en_stock": true
     },
