@@ -714,6 +714,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/madinah-al-haramain-100ml-tester",
       "en_stock": false
     },
+    "laventure-rose-al-haramain-100ml": {
+      "nombre": "L'aventure Rose Al HARAMAIN 100ml TESTER",
+      "precio": "31,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/laventure-rose-al-haramain-100ml",
+      "en_stock": true
+    },
     "green-dubai-extrait-de-parfum-al-haramain-100ml": {
       "nombre": "Green Dubai AL HARAMAIN 100ml TESTER",
       "precio": "38,99 €",
@@ -852,12 +858,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/aqua-di-gio-pour-homme-parfum-armani-tester",
       "en_stock": false
     },
-    "acqua-di-gio-pour-homme-elixir-armani": {
-      "nombre": "Acqua di Gio Pour Homme Elixir ARMANI - TESTER",
-      "precio": "69,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/acqua-di-gio-pour-homme-elixir-armani",
-      "en_stock": true
-    },
     "colonia-essenza-acqua-di-parma-180ml-tester": {
       "nombre": "Colonia Essenza ACQUA DI PARMA 180ml TESTER",
       "precio": "119,99 €",
@@ -994,6 +994,12 @@
       "nombre": "Layali SWISS ARABIAN 15ml TESTER",
       "precio": "22,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/layali-swiss-arabian-15ml-tester",
+      "en_stock": false
+    },
+    "eros-energy-pour-homme-versace": {
+      "nombre": "Eros Energy Pour homme VERSACE Tester",
+      "precio": "59,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-energy-pour-homme-versace",
       "en_stock": false
     },
     "narcotic-delight-initio-90ml-tester": {
