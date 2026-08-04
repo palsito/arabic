@@ -522,12 +522,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/my-devotion-intense-dolce-gabbana-100ml-tester",
       "en_stock": false
     },
-    "bois-imperial-essential-parfums-tester": {
-      "nombre": "Bois Imperial ESSENTIAL PARFUMS 100ml TESTER",
-      "precio": "79,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/bois-imperial-essential-parfums-tester",
-      "en_stock": false
-    },
     "fan-your-flames-extrait-de-parfum-nishane-100ml": {
       "nombre": "Fan Your Flames Extrait de Parfum NISHANE 100ml TESTER",
       "precio": "189,99 €",
@@ -575,6 +569,12 @@
       "precio": "11,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/miracle-al-haramain-15ml-tester",
       "en_stock": true
+    },
+    "maze-al-haramain-50ml-tester": {
+      "nombre": "Maze AL HARAMAIN 50ml TESTER",
+      "precio": "16,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/maze-al-haramain-50ml-tester",
+      "en_stock": false
     },
     "laventure-gold-al-haramain-100ml-tester": {
       "nombre": "L'Aventure Gold AL HARAMAIN 100ml TESTER",
@@ -858,12 +858,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/aqua-di-gio-pour-homme-parfum-armani-tester",
       "en_stock": false
     },
-    "acqua-di-gio-pour-homme-elixir-armani": {
-      "nombre": "Acqua di Gio Pour Homme Elixir ARMANI - TESTER",
-      "precio": "69,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/acqua-di-gio-pour-homme-elixir-armani",
-      "en_stock": true
-    },
     "colonia-essenza-acqua-di-parma-180ml-tester": {
       "nombre": "Colonia Essenza ACQUA DI PARMA 180ml TESTER",
       "precio": "119,99 €",
@@ -1000,6 +994,12 @@
       "nombre": "Layali SWISS ARABIAN 15ml TESTER",
       "precio": "22,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/layali-swiss-arabian-15ml-tester",
+      "en_stock": false
+    },
+    "eros-energy-pour-homme-versace": {
+      "nombre": "Eros Energy Pour homme VERSACE Tester",
+      "precio": "59,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/eros-energy-pour-homme-versace",
       "en_stock": false
     },
     "narcotic-delight-initio-90ml-tester": {
