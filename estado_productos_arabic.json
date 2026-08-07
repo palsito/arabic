@@ -276,12 +276,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/megamare-orto-parisi-sin-caja",
       "en_stock": true
     },
-    "darcy-parfums-de-marly": {
-      "nombre": "Darcy PARFUMS DE MARLY Tester",
-      "precio": "199,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/darcy-parfums-de-marly",
-      "en_stock": false
-    },
     "pegasus-exclusif-parfums-de-marly-tester-125ml": {
       "nombre": "Pegasus Exclusif PARFUMS DE MARLY 125ml TESTER",
       "precio": "209,99 €",
@@ -431,6 +425,12 @@
       "precio": "59,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/ishq-swiss-arabian-50ml-tester",
       "en_stock": true
+    },
+    "musk-07-swiss-arabian-50ml-tester": {
+      "nombre": "Musk 07 SWISS ARABIAN 50ml TESTER",
+      "precio": "44,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/musk-07-swiss-arabian-50ml-tester",
+      "en_stock": false
     },
     "hayaam-swiss-arabian-50ml-tester": {
       "nombre": "Hayaam SWISS ARABIAN 50ml TESTER",
@@ -712,6 +712,12 @@
       "nombre": "Green Dubai AL HARAMAIN 100ml TESTER",
       "precio": "38,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/green-dubai-extrait-de-parfum-al-haramain-100ml",
+      "en_stock": true
+    },
+    "farasha-al-haramain-100ml": {
+      "nombre": "Farasha Al HARAMAIN 100ml TESTER",
+      "precio": "11,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/farasha-al-haramain-100ml",
       "en_stock": true
     },
     "dunes-of-dubai-perfume-oil-al-haramain-12ml": {
@@ -1570,6 +1576,12 @@
       "nombre": "Detour Noir AL HARAMAIN 100ml TESTER",
       "precio": "27,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/detour-noir-al-hamarain-100ml-tester",
+      "en_stock": true
+    },
+    "edge-intense-men-swiss-arabian-100ml-tester": {
+      "nombre": "Edge Intense Men Swiss Arabian 100ml TESTER",
+      "precio": "26,24 €",
+      "url": "https://arabicparfums.com/collections/tester/products/edge-intense-men-swiss-arabian-100ml-tester",
       "en_stock": true
     },
     "edge-intense-swiss-arabian-100ml-tester-2": {
