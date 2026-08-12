@@ -114,6 +114,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/kumkat-wood-mancera-120ml-tester",
       "en_stock": false
     },
+    "gran-ballo-casamorati-xerjoff": {
+      "nombre": "Gran Ballo CASAMORATI - XERJOFF 100ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/gran-ballo-casamorati-xerjoff",
+      "en_stock": true
+    },
     "rosa-nobile-acqua-di-parma": {
       "nombre": "Rosa Nobile ACQUA DI PARMA 100ml TESTER",
       "precio": "109,99 €",
@@ -570,6 +576,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/laventure-gold-al-haramain-100ml-tester",
       "en_stock": false
     },
+    "khuasat-al-oudh-alharamain-100ml-tester": {
+      "nombre": "Khulasat Al Oudh ALHARAMAIN 100ml TESTER",
+      "precio": "16,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/khuasat-al-oudh-alharamain-100ml-tester",
+      "en_stock": false
+    },
     "azure-french-collection-al-haramain-100ml-tester": {
       "nombre": "Azure French Collection AL HARAMAIN 100ml TESTER",
       "precio": "39,99 €",
@@ -580,6 +592,12 @@
       "nombre": "Mefisto Casamorati 1888 XERJOFF 100ml TESTER",
       "precio": "159,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mefisto-casamorati-1888-xerjoff-100ml-tester",
+      "en_stock": true
+    },
+    "italica-casamorati-xerjoff": {
+      "nombre": "Italica CASAMORATI - XERJOFF 100ml TESTER",
+      "precio": "159,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/italica-casamorati-xerjoff",
       "en_stock": true
     },
     "xplore-sapphire-al-haramain-100ml-tester": {
@@ -846,6 +864,18 @@
       "url": "https://arabicparfums.com/collections/tester/products/acqua-di-gio-pour-homme-elixir-armani",
       "en_stock": true
     },
+    "colonia-essenza-acqua-di-parma-180ml-tester": {
+      "nombre": "Colonia Essenza ACQUA DI PARMA 180ml TESTER",
+      "precio": "119,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/colonia-essenza-acqua-di-parma-180ml-tester",
+      "en_stock": false
+    },
+    "mirto-di-panarea-acqua-di-parma-180ml-tester": {
+      "nombre": "Mirto Di Panarea ACQUA DI PARMA 180ml TESTER",
+      "precio": "139,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-acqua-di-parma-180ml-tester",
+      "en_stock": true
+    },
     "yuzu-acqua-di-parma-100ml": {
       "nombre": "Yuzu ACQUA DI PARMA 100ml TESTER",
       "precio": "109,99 €",
@@ -1008,9 +1038,15 @@
       "url": "https://arabicparfums.com/collections/tester/products/hacivat-nishane-100ml-tester",
       "en_stock": false
     },
+    "torino-21-xerjoff": {
+      "nombre": "Torino 21 XERJOFF 100ml TESTER",
+      "precio": "194,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/torino-21-xerjoff",
+      "en_stock": true
+    },
     "zefiro-xerjoff-100ml-tester": {
-      "nombre": "Zefiro Xerjoff 100ml TESTER",
-      "precio": "159,99 €",
+      "nombre": "Zefiro Xerjoff 100ml TESTER 100ml",
+      "precio": "149,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/zefiro-xerjoff-100ml-tester",
       "en_stock": true
     },
@@ -1348,7 +1384,7 @@
       "nombre": "Lira Casamorati 1888 Xerjoff 100ml TESTER",
       "precio": "149,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lira-casamorati-1888-xerjoff-100ml",
-      "en_stock": false
+      "en_stock": true
     },
     "delina-parfums-de-marly-75ml-tester": {
       "nombre": "Delina PARFUMS DE MARLY 75ml TESTER",
@@ -1384,7 +1420,7 @@
       "nombre": "Erba Pura XERJOFF 100ml TESTER",
       "precio": "179,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/erab-pura-xerjoff-100ml-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "red-tobacco-mancera-120ml-tester": {
       "nombre": "Red Tobacco MANCERA 120ml TESTER",
@@ -1402,6 +1438,30 @@
       "nombre": "Polo 67 RALPH LAUREN 125ml TESTER",
       "precio": "33,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/polo-67-ralph-lauren-edt-125ml-tester",
+      "en_stock": true
+    },
+    "irresistible-givenchy-edt-fraiche-80ml-tester": {
+      "nombre": "Irresistible Givenchy EDT Fraiche 80ml TESTER",
+      "precio": "44,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/irresistible-givenchy-edt-fraiche-80ml-tester",
+      "en_stock": true
+    },
+    "irresistible-givenchy-edt-80ml-tester": {
+      "nombre": "Irresistible Givenchy EDT 80ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/irresistible-givenchy-edt-80ml-tester",
+      "en_stock": false
+    },
+    "organza-givenchy-edp-50ml-tester": {
+      "nombre": "Organza Givenchy EDP 50ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/organza-givenchy-edp-50ml-tester",
+      "en_stock": false
+    },
+    "amarige-givenchy-edt-100ml": {
+      "nombre": "Amarige Eau de Toilette GIVENCHY - TESTER",
+      "precio": "44,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/amarige-givenchy-edt-100ml",
       "en_stock": true
     },
     "gentleman-givenchy-edt-originale-100ml-tester": {
