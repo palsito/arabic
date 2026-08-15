@@ -1,11 +1,5 @@
 {
   "https://arabicparfums.com/collections/tester": {
-    "viking-cologne-creed": {
-      "nombre": "Viking Cologne CREED 100ml TESTER",
-      "precio": "199,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/viking-cologne-creed",
-      "en_stock": true
-    },
     "replica-by-the-fireplace-maison-margiela": {
       "nombre": "Replica By The Fireplace MAISON MARGIELA 100ml TESTER",
       "precio": "84,99 €",
@@ -60,12 +54,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/molecule-01-escentric-molecules",
       "en_stock": false
     },
-    "original-santal-creed": {
-      "nombre": "Original Santal CREED 100ml TESTER",
-      "precio": "189,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/original-santal-creed",
-      "en_stock": true
-    },
     "ramad-oriental-arabiyat-prestige-100ml-tester": {
       "nombre": "Ramad Oriental ARABIYAT PRESTIGE 100ml TESTER",
       "precio": "34,99 €",
@@ -83,12 +71,6 @@
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/forbidden-arabiyaat-prestige",
       "en_stock": true
-    },
-    "himalaya-creed": {
-      "nombre": "Himalaya CREED 100ml TESTER",
-      "precio": "199,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/himalaya-creed",
-      "en_stock": false
     },
     "rose-darabie-armani-prive": {
       "nombre": "Rose D'Arabie ARMANI PRIVE 100ml TESTER",
@@ -143,6 +125,24 @@
       "precio": "69,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/ghost-in-the-shell-etat-libre-dorange",
       "en_stock": false
+    },
+    "ambre-sultan-serge-lutens-t": {
+      "nombre": "Ambre Sultan SERGE LUTENS 50ml TESTER",
+      "precio": "59,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/ambre-sultan-serge-lutens-t",
+      "en_stock": true
+    },
+    "nero-divino-teatro-fragranze-uniche-50ml": {
+      "nombre": "Nero Divino - Ambientador en spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
+      "precio": "12,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/nero-divino-teatro-fragranze-uniche-50ml",
+      "en_stock": true
+    },
+    "melograno-fiorentino-teatro-fragranze-uniche-50ml": {
+      "nombre": "Melograno Fiorentino - Ambientador Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
+      "precio": "12,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/melograno-fiorentino-teatro-fragranze-uniche-50ml",
+      "en_stock": true
     },
     "foglie-di-fico-teatro-fragranze-uniche-50ml": {
       "nombre": "Foglie di Fico - Ambientador en Spray TEATRO FRAGRANZE UNICHE 50ml TESTER",
@@ -1326,64 +1326,22 @@
       "url": "https://arabicparfums.com/collections/tester/products/miss-edge-swiss-arabian-tester",
       "en_stock": true
     },
-    "irresistible-givenchy-edt-fraiche-80ml-tester": {
-      "nombre": "Irresistible Givenchy EDT Fraiche 80ml TESTER",
+    "shaghaf-oud-elixir-swiss-arabian": {
+      "nombre": "Shaghaf Oud Elixir SWISS ARABIAN 75ml TESTER",
       "precio": "44,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/irresistible-givenchy-edt-fraiche-80ml-tester",
+      "url": "https://arabicparfums.com/collections/tester/products/shaghaf-oud-elixir-swiss-arabian",
       "en_stock": true
     },
-    "irresistible-givenchy-edt-80ml-tester": {
-      "nombre": "Irresistible Givenchy EDT 80ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/irresistible-givenchy-edt-80ml-tester",
+    "nawaf-swiss-arabian-50ml-tester": {
+      "nombre": "Nawaf Swiss Arabian 50ml TESTER",
+      "precio": "54,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/nawaf-swiss-arabian-50ml-tester",
       "en_stock": false
     },
-    "organza-givenchy-edp-50ml-tester": {
-      "nombre": "Organza Givenchy EDP 50ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/organza-givenchy-edp-50ml-tester",
-      "en_stock": false
-    },
-    "amarige-givenchy-edt-100ml": {
-      "nombre": "Amarige Eau de Toilette GIVENCHY - TESTER",
-      "precio": "44,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/amarige-givenchy-edt-100ml",
-      "en_stock": true
-    },
-    "gentleman-givenchy-edt-originale-100ml-tester": {
-      "nombre": "Gentleman Givenchy EDT Originale 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/gentleman-givenchy-edt-originale-100ml-tester",
-      "en_stock": false
-    },
-    "gentleman-givenchy-edt-intense-100ml-tester": {
-      "nombre": "Gentleman Givenchy EDT Intense 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/gentleman-givenchy-edt-intense-100ml-tester",
-      "en_stock": false
-    },
-    "gentleman-eau-de-toilette-givenchy-100ml-tester": {
-      "nombre": "Gentleman Eau de Toilette Givenchy 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/gentleman-eau-de-toilette-givenchy-100ml-tester",
-      "en_stock": false
-    },
-    "gentlemen-only-eau-de-toilette-givenchy-100ml-tester": {
-      "nombre": "Gentlemen Only Eau de Toilette Givenchy 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/gentlemen-only-eau-de-toilette-givenchy-100ml-tester",
-      "en_stock": false
-    },
-    "linterdit-givenchy-edt-80ml-tester": {
-      "nombre": "L'interdit Givenchy EDT 80ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/linterdit-givenchy-edt-80ml-tester",
-      "en_stock": false
-    },
-    "ange-ou-demon-le-secret-eau-de-parfum-givenchy": {
-      "nombre": "Ange ou Démon Le Secret Eau de Parfum GIVENCHY - TESTER",
-      "precio": "48,74 €",
-      "url": "https://arabicparfums.com/collections/tester/products/ange-ou-demon-le-secret-eau-de-parfum-givenchy",
+    "al-waseem-swiss-arabian-tester": {
+      "nombre": "Al Waseem SWISS ARABIAN TESTER",
+      "precio": "25,45 €",
+      "url": "https://arabicparfums.com/collections/tester/products/al-waseem-swiss-arabian-tester",
       "en_stock": true
     }
   }
