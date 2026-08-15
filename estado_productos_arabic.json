@@ -432,10 +432,34 @@
       "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-180ml-tester-copia",
       "en_stock": true
     },
+    "aventus-cologne-creed": {
+      "nombre": "Aventus Cologne CREED 100ml TESTER",
+      "precio": "239,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/aventus-cologne-creed",
+      "en_stock": true
+    },
+    "gentleman-society-eau-de-parfum-extreme-givenchy-tester": {
+      "nombre": "Gentleman Society Eau de Parfum Extrême GIVENCHY - TESTER",
+      "precio": "64,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/gentleman-society-eau-de-parfum-extreme-givenchy-tester",
+      "en_stock": true
+    },
+    "ange-ou-demon-eau-de-parfum-givenchy-100ml": {
+      "nombre": "Ange Ou Demon Eau de Parfum GIVENCHY - TESTER",
+      "precio": "64,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/ange-ou-demon-eau-de-parfum-givenchy-100ml",
+      "en_stock": true
+    },
     "bergamotto-di-calabria-acqua-di-parma-100ml-tester": {
       "nombre": "Bergamotto di Calabria ACQUA DI PARMA 100ml - TESTER",
       "precio": "79,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/bergamotto-di-calabria-acqua-di-parma-100ml-tester",
+      "en_stock": false
+    },
+    "my-devotion-intense-dolce-gabbana-100ml-tester": {
+      "nombre": "My Devotion Intense DOLCE & GABBANA - TESTER",
+      "precio": "94,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/my-devotion-intense-dolce-gabbana-100ml-tester",
       "en_stock": false
     },
     "fan-your-flames-extrait-de-parfum-nishane-100ml": {
@@ -443,6 +467,12 @@
       "precio": "189,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/fan-your-flames-extrait-de-parfum-nishane-100ml",
       "en_stock": false
+    },
+    "le-gemme-orom-bvlgari-30-ml": {
+      "nombre": "Le Gemme Orom BVLGARI 30ml TESTER",
+      "precio": "89,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/le-gemme-orom-bvlgari-30-ml",
+      "en_stock": true
     },
     "holy-neroli-montale-100ml-tester": {
       "nombre": "Holy Neroli MONTALE 100ml TESTER",
@@ -490,90 +520,6 @@
       "nombre": "L'Aventure Gold AL HARAMAIN 100ml TESTER",
       "precio": "32,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/laventure-gold-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "khuasat-al-oudh-alharamain-100ml-tester": {
-      "nombre": "Khulasat Al Oudh ALHARAMAIN 100ml TESTER",
-      "precio": "16,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/khuasat-al-oudh-alharamain-100ml-tester",
-      "en_stock": false
-    },
-    "azure-french-collection-al-haramain-100ml-tester": {
-      "nombre": "Azure French Collection AL HARAMAIN 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/azure-french-collection-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "mefisto-casamorati-1888-xerjoff-100ml-tester": {
-      "nombre": "Mefisto Casamorati 1888 XERJOFF 100ml TESTER",
-      "precio": "159,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mefisto-casamorati-1888-xerjoff-100ml-tester",
-      "en_stock": true
-    },
-    "italica-casamorati-xerjoff": {
-      "nombre": "Italica CASAMORATI - XERJOFF 100ml TESTER",
-      "precio": "159,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/italica-casamorati-xerjoff",
-      "en_stock": true
-    },
-    "xplore-sapphire-al-haramain-100ml-tester": {
-      "nombre": "Xplore Sapphire AL HARAMAIN 100ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/xplore-sapphire-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "xplore-ruby-al-haramain-100ml-tester": {
-      "nombre": "Xplore Ruby AL HARAMAIN 100ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/xplore-ruby-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "xplore-night-al-haramain-100ml-tester": {
-      "nombre": "Xplore Night AL HARAMAIN 100ML TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/xplore-night-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "story-of-my-life-al-haramain-75ml": {
-      "nombre": "Story of My Life AL HARAMAIN 75ml TESTER",
-      "precio": "11,04 €",
-      "url": "https://arabicparfums.com/collections/tester/products/story-of-my-life-al-haramain-75ml",
-      "en_stock": true
-    },
-    "sama-al-haramain-15ml-tester": {
-      "nombre": "Sama AL HARAMAIN 15ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/sama-al-haramain-15ml-tester",
-      "en_stock": true
-    },
-    "sadaf-perfume-oil-al-haramain-12ml-tester": {
-      "nombre": "Sadaf Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/sadaf-perfume-oil-al-haramain-12ml-tester",
-      "en_stock": true
-    },
-    "oyuny-al-haramain-100ml-tester": {
-      "nombre": "Oyuny AL HARAMAIN 100ml TESTER",
-      "precio": "17,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oyuny-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "noora-al-haramain-12ml-tester": {
-      "nombre": "Noora Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/noora-al-haramain-12ml-tester",
-      "en_stock": false
-    },
-    "destino-french-collection-al-haramain-100ml-tester": {
-      "nombre": "Destino French Collection AL HARAMAIN 100ml TESTER",
-      "precio": "37,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/destino-french-collection-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "mystique-homme-al-haramain-100ml-tester": {
-      "nombre": "Mystique Homme AL HARAMAIN 100ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mystique-homme-al-haramain-100ml-tester",
       "en_stock": false
     },
     "mystique-femme-al-haramain-100ml-tester": {
