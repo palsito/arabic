@@ -288,42 +288,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/vanilla-vibes-juliette-has-a-gun-tester-100ml",
       "en_stock": true
     },
-    "reve-lotus-kenzo-tester": {
-      "nombre": "Rêve Lotus KENZO 75ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/reve-lotus-kenzo-tester",
-      "en_stock": false
-    },
-    "jeu-damour-kenzo-tester": {
-      "nombre": "Jeu D'Amour KENZO 50ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/jeu-damour-kenzo-tester",
-      "en_stock": true
-    },
-    "leau-par-kenzo-pour-homme-kenzo-tester-100ml": {
-      "nombre": "L'Eau Pour Homme KENZO 100ml TESTER",
-      "precio": "29,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/leau-par-kenzo-pour-homme-kenzo-tester-100ml",
-      "en_stock": false
-    },
-    "kenzo-world-kenzo-tester-75ml": {
-      "nombre": "Kenzo World KENZO TESTER 75ml",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/kenzo-world-kenzo-tester-75ml",
-      "en_stock": true
-    },
-    "encens-lumiere-kenzo-tester-75ml": {
-      "nombre": "Encens Lumiere KENZO TESTER 75ml",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/encens-lumiere-kenzo-tester-75ml",
-      "en_stock": false
-    },
-    "nuit-tatami-kenzo-tester-75ml": {
-      "nombre": "Nuit Tatami KENZO 75ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
-      "en_stock": false
-    },
     "oud-acqua-di-parma-tester-180ml": {
       "nombre": "Oud ACQUA DI PARMA 180ml TESTER",
       "precio": "169,99 €",
@@ -402,12 +366,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/sugar-addict-borntostandout-50ml",
       "en_stock": false
     },
-    "gaultier-divine-elixir-parfum-jean-paul-gaultier": {
-      "nombre": "Gaultier Divine Elixir Parfum JEAN PAUL GAULTIER - TESTER",
-      "precio": "89,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/gaultier-divine-elixir-parfum-jean-paul-gaultier",
-      "en_stock": false
-    },
     "colonia-il-profumo-acqua-di-parma-tester": {
       "nombre": "Colonia Il Profumo ACQUA DI PARMA 180ml TESTER",
       "precio": "199,99 €",
@@ -419,6 +377,60 @@
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-180ml-tester-copia",
       "en_stock": true
+    },
+    "bergamotto-di-calabria-acqua-di-parma-100ml-tester": {
+      "nombre": "Bergamotto di Calabria ACQUA DI PARMA 100ml - TESTER",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/bergamotto-di-calabria-acqua-di-parma-100ml-tester",
+      "en_stock": false
+    },
+    "fan-your-flames-extrait-de-parfum-nishane-100ml": {
+      "nombre": "Fan Your Flames Extrait de Parfum NISHANE 100ml TESTER",
+      "precio": "189,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/fan-your-flames-extrait-de-parfum-nishane-100ml",
+      "en_stock": false
+    },
+    "holy-neroli-montale-100ml-tester": {
+      "nombre": "Holy Neroli MONTALE 100ml TESTER",
+      "precio": "79,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/holy-neroli-montale-100ml-tester",
+      "en_stock": true
+    },
+    "amber-oud-carbon-edition-al-haramain-100ml-tester": {
+      "nombre": "Amber Oud Carbon Edition AL HARAMAIN 100ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/amber-oud-carbon-edition-al-haramain-100ml-tester",
+      "en_stock": false
+    },
+    "urbanist-femme-al-haramain-100ml-tester": {
+      "nombre": "Urbanist Femme AL HARAMAIN 100ml TESTER",
+      "precio": "16,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/urbanist-femme-al-haramain-100ml-tester",
+      "en_stock": false
+    },
+    "solitaire-al-haramain-85ml-tester": {
+      "nombre": "Solitaire AL HARAMAIN 85ml TESTER",
+      "precio": "16,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/solitaire-al-haramain-85ml-tester",
+      "en_stock": false
+    },
+    "palm-dubai-al-haramain-100ml-tester": {
+      "nombre": "Palm Dubai AL HARAMAIN 100ml TESTER",
+      "precio": "39,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/palm-dubai-al-haramain-100ml-tester",
+      "en_stock": false
+    },
+    "miracle-al-haramain-15ml-tester": {
+      "nombre": "Miracle AL HARAMAIN 15ml TESTER",
+      "precio": "11,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/miracle-al-haramain-15ml-tester",
+      "en_stock": true
+    },
+    "maze-al-haramain-50ml-tester": {
+      "nombre": "Maze AL HARAMAIN 50ml TESTER",
+      "precio": "16,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/maze-al-haramain-50ml-tester",
+      "en_stock": false
     },
     "laventure-gold-al-haramain-100ml-tester": {
       "nombre": "L'Aventure Gold AL HARAMAIN 100ml TESTER",
@@ -508,60 +520,6 @@
       "nombre": "Mystique Homme AL HARAMAIN 100ml TESTER",
       "precio": "11,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mystique-homme-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "mystique-femme-al-haramain-100ml-tester": {
-      "nombre": "Mystique Femme AL HARAMAIN 100ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mystique-femme-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "musk-poudree-al-haramain-12ml-tester": {
-      "nombre": "Musk Poudree AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-poudree-al-haramain-12ml-tester",
-      "en_stock": true
-    },
-    "musk-perfume-oil-al-haramain-12-ml-tester": {
-      "nombre": "Musk Perfume Oil AL HARAMAIN 12 ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-perfume-oil-al-haramain-12-ml-tester",
-      "en_stock": true
-    },
-    "musk-orchid-al-haramain-12ml-tester": {
-      "nombre": "Musk Orchid Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-orchid-al-haramain-12ml-tester",
-      "en_stock": true
-    },
-    "musk-noir-al-haramain-12-ml-tester": {
-      "nombre": "Musk Noir Perfume Oil AL HARAMAIN 12 ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-noir-al-haramain-12-ml-tester",
-      "en_stock": true
-    },
-    "musk-floral-al-haramain-12ml-tester": {
-      "nombre": "Musk Floral Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "9,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-floral-al-haramain-12ml-tester",
-      "en_stock": true
-    },
-    "musk-collection-al-haramain-100ml-tester": {
-      "nombre": "Musk Collection AL HARAMAIN 100ml TESTER",
-      "precio": "31,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-collection-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "miracle-dubai-al-haramain-tester": {
-      "nombre": "Miracle Dubai AL HARAMAIN 100ml TESTER",
-      "precio": "38,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/miracle-dubai-al-haramain-tester",
-      "en_stock": true
-    },
-    "madinah-al-haramain-100ml-tester": {
-      "nombre": "Madinah AL HARAMAIN 100ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/madinah-al-haramain-100ml-tester",
       "en_stock": false
     },
     "laventure-rose-al-haramain-100ml": {
