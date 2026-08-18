@@ -288,42 +288,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/vanilla-vibes-juliette-has-a-gun-tester-100ml",
       "en_stock": true
     },
-    "reve-lotus-kenzo-tester": {
-      "nombre": "Rêve Lotus KENZO 75ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/reve-lotus-kenzo-tester",
-      "en_stock": false
-    },
-    "jeu-damour-kenzo-tester": {
-      "nombre": "Jeu D'Amour KENZO 50ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/jeu-damour-kenzo-tester",
-      "en_stock": true
-    },
-    "leau-par-kenzo-pour-homme-kenzo-tester-100ml": {
-      "nombre": "L'Eau Pour Homme KENZO 100ml TESTER",
-      "precio": "29,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/leau-par-kenzo-pour-homme-kenzo-tester-100ml",
-      "en_stock": false
-    },
-    "kenzo-world-kenzo-tester-75ml": {
-      "nombre": "Kenzo World KENZO TESTER 75ml",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/kenzo-world-kenzo-tester-75ml",
-      "en_stock": true
-    },
-    "encens-lumiere-kenzo-tester-75ml": {
-      "nombre": "Encens Lumiere KENZO TESTER 75ml",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/encens-lumiere-kenzo-tester-75ml",
-      "en_stock": false
-    },
-    "nuit-tatami-kenzo-tester-75ml": {
-      "nombre": "Nuit Tatami KENZO 75ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/nuit-tatami-kenzo-tester-75ml",
-      "en_stock": false
-    },
     "oud-acqua-di-parma-tester-180ml": {
       "nombre": "Oud ACQUA DI PARMA 180ml TESTER",
       "precio": "169,99 €",
@@ -400,12 +364,6 @@
       "nombre": "Sugar Addict BORNTOSTANDOUT 50ml TESTER",
       "precio": "119,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/sugar-addict-borntostandout-50ml",
-      "en_stock": false
-    },
-    "gaultier-divine-elixir-parfum-jean-paul-gaultier": {
-      "nombre": "Gaultier Divine Elixir Parfum JEAN PAUL GAULTIER - TESTER",
-      "precio": "89,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/gaultier-divine-elixir-parfum-jean-paul-gaultier",
       "en_stock": false
     },
     "colonia-il-profumo-acqua-di-parma-tester": {
@@ -1276,60 +1234,6 @@
       "nombre": "Al Waseem SWISS ARABIAN TESTER",
       "precio": "25,45 €",
       "url": "https://arabicparfums.com/collections/tester/products/al-waseem-swiss-arabian-tester",
-      "en_stock": true
-    },
-    "leau-kenzo-pour-femme-100ml-tester": {
-      "nombre": "L'eau Kenzo Pour Femme 100ml TESTER",
-      "precio": "38,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/leau-kenzo-pour-femme-100ml-tester",
-      "en_stock": false
-    },
-    "aqua-kenzo-pour-femme-100ml-tester": {
-      "nombre": "Aqua Kenzo Pour Femme 100ml TESTER",
-      "precio": "33,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/aqua-kenzo-pour-femme-100ml-tester",
-      "en_stock": true
-    },
-    "kenzo-homme-eau-de-toilette-110ml-tester-2": {
-      "nombre": "Kenzo Homme Eau de Toilette 110ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/kenzo-homme-eau-de-toilette-110ml-tester-2",
-      "en_stock": true
-    },
-    "flower-by-kenzo-la-recolte-parisienne-75ml-tester": {
-      "nombre": "Flower By Kenzo La Récolte Parisienne 75ml TESTER",
-      "precio": "49,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-la-recolte-parisienne-75ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester": {
-      "nombre": "Flower By Kenzo Ikebana Eau de Parfum 75ml TESTER",
-      "precio": "42,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-ikebana-eau-de-parfum-75ml-tester",
-      "en_stock": false
-    },
-    "flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower By Kenzo L'absolue Eau de Parfum 50ml TESTER",
-      "precio": "33,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-labsolue-eau-de-parfum-50ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower by Kenzo Poppy Bouquet Eau de Parfum 50ml TESTER",
-      "precio": "36,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-poppy-bouquet-eau-de-parfum-50ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-eau-de-parfum-50ml-tester": {
-      "nombre": "Flower by Kenzo Eau de Parfum 50ml TESTER",
-      "precio": "26,24 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-parfum-50ml-tester",
-      "en_stock": true
-    },
-    "flower-by-kenzo-eau-de-toilette-50ml-tester": {
-      "nombre": "Flower by Kenzo Eau de Toilette 50ml TESTER",
-      "precio": "26,77 €",
-      "url": "https://arabicparfums.com/collections/tester/products/flower-by-kenzo-eau-de-toilette-50ml-tester",
       "en_stock": true
     }
   }
