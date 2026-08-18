@@ -522,60 +522,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/mystique-homme-al-haramain-100ml-tester",
       "en_stock": false
     },
-    "mystique-femme-al-haramain-100ml-tester": {
-      "nombre": "Mystique Femme AL HARAMAIN 100ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mystique-femme-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "musk-poudree-al-haramain-12ml-tester": {
-      "nombre": "Musk Poudree AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-poudree-al-haramain-12ml-tester",
-      "en_stock": true
-    },
-    "musk-perfume-oil-al-haramain-12-ml-tester": {
-      "nombre": "Musk Perfume Oil AL HARAMAIN 12 ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-perfume-oil-al-haramain-12-ml-tester",
-      "en_stock": true
-    },
-    "musk-orchid-al-haramain-12ml-tester": {
-      "nombre": "Musk Orchid Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-orchid-al-haramain-12ml-tester",
-      "en_stock": true
-    },
-    "musk-noir-al-haramain-12-ml-tester": {
-      "nombre": "Musk Noir Perfume Oil AL HARAMAIN 12 ml TESTER",
-      "precio": "11,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-noir-al-haramain-12-ml-tester",
-      "en_stock": true
-    },
-    "musk-floral-al-haramain-12ml-tester": {
-      "nombre": "Musk Floral Perfume Oil AL HARAMAIN 12ml TESTER",
-      "precio": "9,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-floral-al-haramain-12ml-tester",
-      "en_stock": true
-    },
-    "musk-collection-al-haramain-100ml-tester": {
-      "nombre": "Musk Collection AL HARAMAIN 100ml TESTER",
-      "precio": "31,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/musk-collection-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "miracle-dubai-al-haramain-tester": {
-      "nombre": "Miracle Dubai AL HARAMAIN 100ml TESTER",
-      "precio": "38,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/miracle-dubai-al-haramain-tester",
-      "en_stock": true
-    },
-    "madinah-al-haramain-100ml-tester": {
-      "nombre": "Madinah AL HARAMAIN 100ml TESTER",
-      "precio": "12,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/madinah-al-haramain-100ml-tester",
-      "en_stock": false
-    },
     "laventure-rose-al-haramain-100ml": {
       "nombre": "L'aventure Rose Al HARAMAIN 100ml TESTER",
       "precio": "31,99 €",
@@ -810,12 +756,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/layali-swiss-arabian-15ml-tester",
       "en_stock": false
     },
-    "eros-energy-pour-homme-versace": {
-      "nombre": "Eros Energy Pour homme VERSACE Tester",
-      "precio": "59,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/eros-energy-pour-homme-versace",
-      "en_stock": false
-    },
     "narcotic-delight-initio-90ml-tester": {
       "nombre": "Narcotic Delight INITIO 90ml TESTER",
       "precio": "219,99 €",
@@ -863,6 +803,12 @@
       "precio": "21,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/shaghaf-men-swiss-arabian-75ml-tester",
       "en_stock": false
+    },
+    "rose-and-patchouli-swiss-arabian-100ml-tester": {
+      "nombre": "Rose and Patchouli SWISS ARABIAN 100ml TESTER",
+      "precio": "34,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/rose-and-patchouli-swiss-arabian-100ml-tester",
+      "en_stock": true
     },
     "rakaan-swiss-arabian-50ml-tester": {
       "nombre": "Rakaan SWISS ARABIAN 50ml TESTER",
@@ -1000,12 +946,6 @@
       "nombre": "Tardes CARNER BARCELONA 100ml TESTER",
       "precio": "92,00 €",
       "url": "https://arabicparfums.com/collections/tester/products/tardes-carner-barcelona-100ml",
-      "en_stock": false
-    },
-    "palo-santo-carner-barcelona-100ml-tester": {
-      "nombre": "Palo Santo CARNER BARCELONA 100ml TESTER",
-      "precio": "107,00 €",
-      "url": "https://arabicparfums.com/collections/tester/products/palo-santo-carner-barcelona-100ml-tester",
       "en_stock": false
     },
     "d600-carner-barcelona-100ml-tester": {
