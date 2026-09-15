@@ -1,5 +1,11 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "wulong-cha-nishane-50ml-tester": {
+      "nombre": "Wulong Cha NISHANE 50ml TESTER",
+      "precio": "96,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/wulong-cha-nishane-50ml-tester",
+      "en_stock": true
+    },
     "uhud-arabiyat-prestige-100ml": {
       "nombre": "Uhud ARABIYAT PRESTIGE 100ml TESTER",
       "precio": "31,99 €",
@@ -298,7 +304,7 @@
       "nombre": "Wulong Cha X NISHANE 100ml TESTER",
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/wulong-cha-x-extrait-de-parfum-nishane",
-      "en_stock": false
+      "en_stock": true
     },
     "groove-xcape-xerjoff-tester-50ml": {
       "nombre": "Groove Xcape XERJOFF TESTER 50ml",
@@ -840,6 +846,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/hacivat-nishane-100ml-tester",
       "en_stock": true
     },
+    "hacivat-x-extrait-de-parfum-nishane-100ml-tester": {
+      "nombre": "Hacivat X NISHANE 100ml TESTER",
+      "precio": "179,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/hacivat-x-extrait-de-parfum-nishane-100ml-tester",
+      "en_stock": true
+    },
     "torino-21-xerjoff": {
       "nombre": "Torino 21 XERJOFF 100ml TESTER",
       "precio": "194,99 €",
@@ -1132,7 +1144,7 @@
       "nombre": "Naxos XERJOFF 100ml TESTER",
       "precio": "179,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/naxos-xerjoff-100ml-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "yulali-swiss-arabian-15ml-tester": {
       "nombre": "Yulali Swiss Arabian 15ml TESTER",
