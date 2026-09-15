@@ -838,7 +838,7 @@
       "nombre": "Hacivat NISHANE 100ml TESTER",
       "precio": "179,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/hacivat-nishane-100ml-tester",
-      "en_stock": false
+      "en_stock": true
     },
     "torino-21-xerjoff": {
       "nombre": "Torino 21 XERJOFF 100ml TESTER",
@@ -853,10 +853,10 @@
       "en_stock": true
     },
     "hacivat-nishane-extrait-de-parfum-50ml": {
-      "nombre": "Hacivat Extrait de Parfum NISHANE 50ml TESTER",
-      "precio": "129,99 €",
+      "nombre": "Hacivat NISHANE 50ml TESTER",
+      "precio": "119,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/hacivat-nishane-extrait-de-parfum-50ml",
-      "en_stock": false
+      "en_stock": true
     },
     "shaghaf-men-swiss-arabian-75ml-tester": {
       "nombre": "Shaghaf Men SWISS ARABIAN 75ml TESTER",
