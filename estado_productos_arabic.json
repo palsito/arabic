@@ -318,12 +318,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/oud-acqua-di-parma-tester-180ml",
       "en_stock": true
     },
-    "lucky-candy-montale-100ml-tester": {
-      "nombre": "Lucky Candy 100ml TESTER",
-      "precio": "84,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/lucky-candy-montale-100ml-tester",
-      "en_stock": false
-    },
     "cant-get-enough-initio-90ml": {
       "nombre": "Can't Get Enough 90ml TESTER",
       "precio": "219,99 €",
@@ -678,18 +672,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-tester",
       "en_stock": false
     },
-    "patchouli-leaves-montale": {
-      "nombre": "Patchouli Leaves Tester",
-      "precio": "79,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/patchouli-leaves-montale",
-      "en_stock": false
-    },
-    "oud-tobacco-montale-tester": {
-      "nombre": "Oud Tobacco Tester",
-      "precio": "89,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/oud-tobacco-montale-tester",
-      "en_stock": false
-    },
     "intense-cherry-montale-tester": {
       "nombre": "Intense Cherry Tester",
       "precio": "99,99 €",
@@ -924,23 +906,11 @@
       "url": "https://arabicparfums.com/collections/tester/products/fig-infusion-essential-parfums-100ml-tester",
       "en_stock": false
     },
-    "aoud-lime-montale-100ml-tester": {
-      "nombre": "Aoud Lime 100ml TESTER",
-      "precio": "74,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/aoud-lime-montale-100ml-tester",
-      "en_stock": false
-    },
     "vanille-absolu-montale-100ml-tester": {
       "nombre": "Vanille Absolu 100ml TESTER",
       "precio": "75,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/vanille-absolu-montale-100ml-tester",
       "en_stock": true
-    },
-    "vanilla-extasy-montale-100ml-tester": {
-      "nombre": "Vanilla Extasy 100ml TESTER",
-      "precio": "75,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/vanilla-extasy-montale-100ml-tester",
-      "en_stock": false
     },
     "alexandria-ii-xerjoff-100ml": {
       "nombre": "Alexandria II 100ml TESTER",
@@ -953,12 +923,6 @@
       "precio": "325,00 €",
       "url": "https://arabicparfums.com/collections/tester/products/pikovaya-dama-xerjoff-100ml-tester",
       "en_stock": true
-    },
-    "dark-aoud-montale-100ml-tester": {
-      "nombre": "Dark Aoud 100ml TESTER",
-      "precio": "79,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/dark-aoud-montale-100ml-tester",
-      "en_stock": false
     },
     "mango-manga-montale-100ml-tester": {
       "nombre": "Mango Manga 100ml TESTER",
