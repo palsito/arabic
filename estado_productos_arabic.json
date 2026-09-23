@@ -78,12 +78,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/halfeti-leather-penhaligons",
       "en_stock": true
     },
-    "nefs-extrait-de-parfum-nishane": {
-      "nombre": "Nefs Extrait de Parfum 50ml TESTER",
-      "precio": "289,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/nefs-extrait-de-parfum-nishane",
-      "en_stock": false
-    },
     "molecule-01-escentric-molecules": {
       "nombre": "Molecule 01 100ml TESTER",
       "precio": "98,99 €",
@@ -113,12 +107,6 @@
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/rose-darabie-armani-prive",
       "en_stock": true
-    },
-    "portrait-of-a-lady-frederic-malle-100ml-tester": {
-      "nombre": "Portrait Of A Lady 100ml TESTER",
-      "precio": "249,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/portrait-of-a-lady-frederic-malle-100ml-tester",
-      "en_stock": false
     },
     "1872-feminine-clive-christian": {
       "nombre": "1872 Feminine 50ml TESTER",
@@ -420,12 +408,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/bergamotto-di-calabria-acqua-di-parma-100ml-tester",
       "en_stock": false
     },
-    "fan-your-flames-extrait-de-parfum-nishane-100ml": {
-      "nombre": "Fan Your Flames Extrait de Parfum 100ml TESTER",
-      "precio": "189,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/fan-your-flames-extrait-de-parfum-nishane-100ml",
-      "en_stock": false
-    },
     "holy-neroli-montale-100ml-tester": {
       "nombre": "Holy Neroli 100ml TESTER",
       "precio": "79,99 €",
@@ -484,12 +466,6 @@
       "nombre": "Azure French Collection 100ml TESTER",
       "precio": "39,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/azure-french-collection-al-haramain-100ml-tester",
-      "en_stock": false
-    },
-    "mefisto-casamorati-1888-xerjoff-100ml-tester": {
-      "nombre": "Mefisto Casamorati 1888 100ml TESTER",
-      "precio": "159,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/mefisto-casamorati-1888-xerjoff-100ml-tester",
       "en_stock": false
     },
     "italica-casamorati-xerjoff": {
@@ -732,12 +708,6 @@
       "url": "https://arabicparfums.com/collections/tester/products/duro-nasomatto-tester",
       "en_stock": false
     },
-    "tero-extrait-de-parfum-nishane-tester": {
-      "nombre": "Tero Extrait de Parfum 50ml TESTER",
-      "precio": "98,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/tero-extrait-de-parfum-nishane-tester",
-      "en_stock": false
-    },
     "colonia-essenza-acqua-di-parma-180ml-tester": {
       "nombre": "Colonia Essenza 180ml TESTER",
       "precio": "119,99 €",
@@ -773,12 +743,6 @@
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/tony-iommi-monkey-special-xerjoff-tester",
       "en_stock": true
-    },
-    "monsieur-frederic-malle-tester": {
-      "nombre": "Monsieur Tester",
-      "precio": "249,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/monsieur-frederic-malle-tester",
-      "en_stock": false
     },
     "la-bomba-carolina-herrera": {
       "nombre": "La Bomba Tester",
