@@ -1151,60 +1151,6 @@
       "precio": "22,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/inara-oud-swiss-arabian-55ml-tester",
       "en_stock": true
-    },
-    "detour-eco-al-haramain-100ml-tester": {
-      "nombre": "Detour Eco 100ml TESTER",
-      "precio": "14,44 €",
-      "url": "https://arabicparfums.com/collections/tester/products/detour-eco-al-haramain-100ml-tester",
-      "en_stock": true
-    },
-    "detour-noir-al-hamarain-100ml-tester": {
-      "nombre": "Detour Noir 100ml TESTER",
-      "precio": "27,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/detour-noir-al-hamarain-100ml-tester",
-      "en_stock": true
-    },
-    "edge-intense-men-swiss-arabian-100ml-tester": {
-      "nombre": "Edge Intense Men 100ml TESTER",
-      "precio": "24,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/edge-intense-men-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "edge-intense-swiss-arabian-100ml-tester-2": {
-      "nombre": "Edge Intense Women 100ml TESTER",
-      "precio": "34,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/edge-intense-swiss-arabian-100ml-tester-2",
-      "en_stock": true
-    },
-    "casablanca-swiss-arabian-100ml-tester": {
-      "nombre": "Casablanca 100ml TESTER",
-      "precio": "29,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/casablanca-swiss-arabian-100ml-tester",
-      "en_stock": true
-    },
-    "miss-edge-swiss-arabian-tester": {
-      "nombre": "Miss Edge 100ml TESTER",
-      "precio": "27,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/miss-edge-swiss-arabian-tester",
-      "en_stock": true
-    },
-    "shaghaf-oud-elixir-swiss-arabian": {
-      "nombre": "Shaghaf Oud Elixir 75ml TESTER",
-      "precio": "44,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/shaghaf-oud-elixir-swiss-arabian",
-      "en_stock": true
-    },
-    "nawaf-swiss-arabian-50ml-tester": {
-      "nombre": "Nawaf 50ml TESTER",
-      "precio": "54,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/nawaf-swiss-arabian-50ml-tester",
-      "en_stock": false
-    },
-    "al-waseem-swiss-arabian-tester": {
-      "nombre": "Al Waseem TESTER",
-      "precio": "25,45 €",
-      "url": "https://arabicparfums.com/collections/tester/products/al-waseem-swiss-arabian-tester",
-      "en_stock": true
     }
   }
 }
