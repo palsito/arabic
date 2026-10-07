@@ -142,7 +142,7 @@
       "nombre": "The Ghost In The Shell 100ml TESTER",
       "precio": "69,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/ghost-in-the-shell-etat-libre-dorange",
-      "en_stock": false
+      "en_stock": true
     },
     "ambre-sultan-serge-lutens-t": {
       "nombre": "Ambre Sultan 50ml TESTER",
@@ -876,6 +876,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/vanille-absolu-montale-100ml-tester",
       "en_stock": true
     },
+    "starry-nights-montale-100ml-tester": {
+      "nombre": "Starry Nights 100ml TESTER",
+      "precio": "74,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/starry-nights-montale-100ml-tester",
+      "en_stock": true
+    },
     "alexandria-ii-xerjoff-100ml": {
       "nombre": "Alexandria II 100ml TESTER",
       "precio": "319,99 €",
@@ -1012,6 +1018,12 @@
       "nombre": "Lira Casamorati 1888 100ml TESTER",
       "precio": "149,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lira-casamorati-1888-xerjoff-100ml",
+      "en_stock": true
+    },
+    "arabians-tonka-montale-100ml-tester": {
+      "nombre": "Arabians Tonka 100ml TESTER",
+      "precio": "109,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/arabians-tonka-montale-100ml-tester",
       "en_stock": true
     },
     "delina-parfums-de-marly-75ml-tester": {
