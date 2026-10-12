@@ -32,7 +32,7 @@
     },
     "marwa-extrait-de-parfum-arabiyat-prestige-tester": {
       "nombre": "Marwa Extrait de Parfum 60ml TESTER",
-      "precio": "49,99 €",
+      "precio": "44,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/marwa-extrait-de-parfum-arabiyat-prestige-tester",
       "en_stock": true
     },
@@ -89,12 +89,6 @@
       "precio": "34,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/ramad-oriental-arabiyat-prestige-100ml-tester",
       "en_stock": true
-    },
-    "cursed-arabiyat-prestige": {
-      "nombre": "Cursed 100ml TESTER",
-      "precio": "39,99 €",
-      "url": "https://arabicparfums.com/collections/tester/products/cursed-arabiyat-prestige",
-      "en_stock": false
     },
     "forbidden-arabiyaat-prestige": {
       "nombre": "Forbidden ARABIYAAT PRESTIGE 100ml TESTER",
@@ -200,7 +194,7 @@
     },
     "marwa-arabiyat-prestige-tester-100ml": {
       "nombre": "Marwa PRESTIGE 100ml TESTER",
-      "precio": "39,99 €",
+      "precio": "34,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/marwa-arabiyat-prestige-tester-100ml",
       "en_stock": true
     },
