@@ -1115,12 +1115,6 @@
       "precio": "54,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/nawaf-swiss-arabian-50ml-tester",
       "en_stock": false
-    },
-    "al-waseem-swiss-arabian-tester": {
-      "nombre": "Al Waseem TESTER",
-      "precio": "25,45 €",
-      "url": "https://arabicparfums.com/collections/tester/products/al-waseem-swiss-arabian-tester",
-      "en_stock": true
     }
   }
 }
