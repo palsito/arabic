@@ -1,5 +1,17 @@
 {
   "https://arabicparfums.com/collections/tester": {
+    "falcon-leather-eau-de-parfum-matiere-premiere-100ml": {
+      "nombre": "Falcon Leather 100ml TESTER",
+      "precio": "129,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/falcon-leather-eau-de-parfum-matiere-premiere-100ml",
+      "en_stock": true
+    },
+    "blanche-bete-liquides-imaginaires-100ml": {
+      "nombre": "Blanche Bête 100ml TESTER",
+      "precio": "159,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/blanche-bete-liquides-imaginaires-100ml",
+      "en_stock": true
+    },
     "dark-amber-ginger-lily-jo-malone-london": {
       "nombre": "Dark Amber & Ginger Lily 100ml TESTER",
       "precio": "169,99 €",
@@ -226,6 +238,12 @@
       "nombre": "Groove Xcape TESTER 50ml",
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/groove-xcape-xerjoff-tester-50ml",
+      "en_stock": true
+    },
+    "encense-suave-matiere-premiere-tester": {
+      "nombre": "Encense Suave 100ml TESTER",
+      "precio": "149,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/encense-suave-matiere-premiere-tester",
       "en_stock": true
     },
     "vanilla-vibes-juliette-has-a-gun-tester-100ml": {
