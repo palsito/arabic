@@ -187,19 +187,19 @@
       "en_stock": true
     },
     "risvelium-orto-parisi-sin-caja": {
-      "nombre": "Risvelium TESTER",
+      "nombre": "Risvelium TESTER 50ml",
       "precio": "129,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/risvelium-orto-parisi-sin-caja",
       "en_stock": false
     },
     "terroni-orto-parisi-sin-caja": {
-      "nombre": "Terroni ORTO PARIS - TESTER",
+      "nombre": "Terroni ORTO PARIS - TESTER 50ml",
       "precio": "129,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/terroni-orto-parisi-sin-caja",
       "en_stock": true
     },
     "megamare-orto-parisi-sin-caja": {
-      "nombre": "Megamare - TESTER",
+      "nombre": "Megamare - TESTER 50ml",
       "precio": "129,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/megamare-orto-parisi-sin-caja",
       "en_stock": true
@@ -277,7 +277,7 @@
       "en_stock": false
     },
     "oud-74-swiss-arabian-tester": {
-      "nombre": "Oud 74 TESTER",
+      "nombre": "Oud 74 TESTER 50ml",
       "precio": "69,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/oud-74-swiss-arabian-tester",
       "en_stock": false
@@ -319,7 +319,7 @@
       "en_stock": true
     },
     "mirto-di-panarea-la-riserva-acqua-di-parma-180ml-tester": {
-      "nombre": "Mirto di Panarea La Riserva - TESTER",
+      "nombre": "Mirto di Panarea La Riserva - TESTER 180ml",
       "precio": "169,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/mirto-di-panarea-la-riserva-acqua-di-parma-180ml-tester",
       "en_stock": true
@@ -493,19 +493,19 @@
       "en_stock": true
     },
     "belle-rouge-al-haramain-75ml-tester": {
-      "nombre": "Belle Rouge TESTER",
+      "nombre": "Belle Rouge TESTER 75ml",
       "precio": "15,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/belle-rouge-al-haramain-75ml-tester",
       "en_stock": true
     },
     "belle-al-haramain-tester": {
-      "nombre": "Belle TESTER",
+      "nombre": "Belle TESTER 75ml",
       "precio": "15,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/belle-al-haramain-tester",
       "en_stock": true
     },
     "areej-al-oud-al-haramain-tester": {
-      "nombre": "Areej Al Oud TESTER",
+      "nombre": "Areej Al Oud TESTER 100ml",
       "precio": "15,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/areej-al-oud-al-haramain-tester",
       "en_stock": true
@@ -559,13 +559,13 @@
       "en_stock": false
     },
     "pardon-nasomatto-tester": {
-      "nombre": "Pardon Tester",
+      "nombre": "Pardon Tester 30ml",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/pardon-nasomatto-tester",
       "en_stock": false
     },
     "duro-nasomatto-tester": {
-      "nombre": "Duro Tester",
+      "nombre": "Duro Tester 30ml",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/duro-nasomatto-tester",
       "en_stock": false
@@ -589,7 +589,7 @@
       "en_stock": false
     },
     "lily-of-the-valley-acqua-di-parma-tester": {
-      "nombre": "Lily of the Valley TESTER",
+      "nombre": "Lily of the Valley TESTER 100ml",
       "precio": "109,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lily-of-the-valley-acqua-di-parma-tester",
       "en_stock": true
@@ -727,19 +727,19 @@
       "en_stock": false
     },
     "osmanthus-acqua-di-parma-100ml-tester": {
-      "nombre": "Osmanthus TESTER",
+      "nombre": "Osmanthus TESTER 100ml",
       "precio": "99,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/osmanthus-acqua-di-parma-100ml-tester",
       "en_stock": false
     },
     "patchouli-mania-essential-parfums-100ml-tester": {
-      "nombre": "Patchouli Mania Tester",
+      "nombre": "Patchouli Mania Tester 100ml",
       "precio": "69,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/patchouli-mania-essential-parfums-100ml-tester",
       "en_stock": false
     },
     "fig-infusion-essential-parfums-100ml-tester": {
-      "nombre": "Fig Infusion Tester",
+      "nombre": "Fig Infusion Tester 100ml",
       "precio": "69,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/fig-infusion-essential-parfums-100ml-tester",
       "en_stock": false
@@ -775,7 +775,7 @@
       "en_stock": true
     },
     "sandalo-acqua-di-parma-100ml": {
-      "nombre": "Sandalo TESTER",
+      "nombre": "Sandalo TESTER 100ml",
       "precio": "119,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/sandalo-acqua-di-parma-100ml",
       "en_stock": false
@@ -835,7 +835,7 @@
       "en_stock": true
     },
     "angels-dust-extrait-de-parfum-francesca-bianchi-30ml-tester": {
-      "nombre": "Angel's Dust Extrait de Parfum Tester",
+      "nombre": "Angel's Dust Extrait de Parfum Tester 30ml",
       "precio": "99,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/angels-dust-extrait-de-parfum-francesca-bianchi-30ml-tester",
       "en_stock": true
@@ -847,19 +847,19 @@
       "en_stock": true
     },
     "lyric-amouage-100ml-tester": {
-      "nombre": "Lyric TESTER",
+      "nombre": "Lyric TESTER 100ml",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/lyric-amouage-100ml-tester",
       "en_stock": false
     },
     "opus-v-woods-symphony-amouage-100ml-tester": {
-      "nombre": "Opus V Woods Symphony TESTER",
+      "nombre": "Opus V Woods Symphony TESTER 100ml",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/opus-v-woods-symphony-amouage-100ml-tester",
       "en_stock": false
     },
     "jubilation-xxv-amouage-100ml-tester": {
-      "nombre": "Jubilation XXV TESTER",
+      "nombre": "Jubilation XXV TESTER 100ml",
       "precio": "199,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/jubilation-xxv-amouage-100ml-tester",
       "en_stock": false
