@@ -780,6 +780,12 @@
       "url": "https://arabicparfums.com/collections/tester/products/valencia-swiss-arabian-100ml-tester",
       "en_stock": true
     },
+    "erba-gold-xerjoff-100ml-tester": {
+      "nombre": "Erba Gold 100ml TESTER",
+      "precio": "190,00 €",
+      "url": "https://arabicparfums.com/collections/tester/products/erba-gold-xerjoff-100ml-tester",
+      "en_stock": true
+    },
     "lyric-amouage-100ml-tester": {
       "nombre": "Lyric TESTER 100ml",
       "precio": "199,99 €",
@@ -839,6 +845,12 @@
       "precio": "22,99 €",
       "url": "https://arabicparfums.com/collections/tester/products/yulali-swiss-arabian-15ml-tester",
       "en_stock": false
+    },
+    "erab-pura-xerjoff-100ml-tester": {
+      "nombre": "Erba Pura 100ml TESTER",
+      "precio": "179,99 €",
+      "url": "https://arabicparfums.com/collections/tester/products/erab-pura-xerjoff-100ml-tester",
+      "en_stock": true
     },
     "la-vie-est-belle-leau-de-parfum-lancome-100ml-tester": {
       "nombre": "La Vie Est Belle L'eau de Parfum 100ml TESTER",
